@@ -1,12 +1,23 @@
 import Link from "next/link";
+import type { MouseEvent } from "react";
 import type { Tool } from "@/lib/tools";
 import { categoryLabel } from "@/lib/tools";
 
 export default function ToolCard({ tool }: { tool: Tool }) {
   const rel = tool.affiliate ? "nofollow sponsored noopener" : "nofollow noopener";
+
+  // 光标跟随水波纹：把鼠标在卡片内的坐标写进 CSS 变量，驱动 ::before 光晕
+  const handleMouseMove = (e: MouseEvent<HTMLElement>) => {
+    const el = e.currentTarget;
+    const rect = el.getBoundingClientRect();
+    el.style.setProperty("--mx", `${e.clientX - rect.left}px`);
+    el.style.setProperty("--my", `${e.clientY - rect.top}px`);
+  };
+
   return (
     <article
-      className="card card-interactive"
+      className="card card-interactive card-spotlight"
+      onMouseMove={handleMouseMove}
       style={{ padding: 16, display: "flex", flexDirection: "column", gap: 10 }}
     >
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", gap: 8 }}>
