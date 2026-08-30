@@ -13,10 +13,12 @@ const securityHeaders = [
     value: [
       "default-src 'self'",
       "img-src 'self' data: https:",
-      "script-src 'self' 'unsafe-inline'",
+      // GA4：允许加载 gtag.js 脚本
+      "script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://*.google-analytics.com",
       "style-src 'self' 'unsafe-inline'",
       "font-src 'self' data:",
-      "connect-src 'self'",
+      // GA4：允许 gtag 的 beacon 上报（区域域名带动态前缀，用通配）
+      "connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com",
       "frame-ancestors 'none'",
     ].join("; "),
   },
