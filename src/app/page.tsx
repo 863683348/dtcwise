@@ -36,7 +36,7 @@ export default function Home() {
             <Link
               key={c.id}
               href={`/category/${c.id}`}
-              className="card card-interactive"
+              className="card card-interactive card-spotlight"
               style={{ padding: 16, textDecoration: "none", display: "block" }}
             >
               <div className="card-title" style={{ fontWeight: 700, fontSize: 16 }}>{c.label}</div>
@@ -110,7 +110,7 @@ export default function Home() {
             <Link
               key={p.slug}
               href={`/blog/${p.slug}`}
-              className="card card-interactive card-lift-lg"
+              className="card card-interactive card-lift-lg card-spotlight"
               style={{ padding: 18, textDecoration: "none", display: "block" }}
             >
               <div className="muted" style={{ fontSize: 12 }}>{p.category} · {p.date}</div>
