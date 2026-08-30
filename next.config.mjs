@@ -24,6 +24,9 @@ const securityHeaders = [
 
 const nextConfig = {
   reactStrictMode: true,
+  // 静态页预渲染（含动态路由 generateStaticParams）在 Vercel 构建机上可能受资源限制
+  // 而排队超时；把单页生成超时从默认 60s 提到 180s，避免首页 / 被误判超时。
+  staticPageGenerationTimeout: 180,
   // 本地/沙箱无法跑 lint，远程构建（Vercel）显式跳过 ESLint，避免意外阻断；
   // TypeScript 类型错误仍会照常中断构建，保证类型安全。
   eslint: { ignoreDuringBuilds: true },
