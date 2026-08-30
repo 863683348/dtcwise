@@ -12,6 +12,9 @@
   --border: #e5e7eb;
   --radius: 12px;
   --shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  --border-hover: #9dc2f5;
+  --shadow-hover: 0 10px 24px rgba(26, 115, 232, 0.16), 0 2px 6px rgba(0, 0, 0, 0.05);
+  --shadow-hover-lg: 0 18px 40px rgba(26, 115, 232, 0.22), 0 4px 10px rgba(0, 0, 0, 0.06);
 }
 
 [data-theme="dark"] {
@@ -22,6 +25,9 @@
   --brand: #4f9bff;
   --brand-ink: #8ab4f8;
   --border: #2a2f3a;
+  --border-hover: #3f6ea8;
+  --shadow-hover: 0 10px 24px rgba(79, 155, 255, 0.2), 0 2px 6px rgba(0, 0, 0, 0.5);
+  --shadow-hover-lg: 0 18px 40px rgba(79, 155, 255, 0.28), 0 4px 12px rgba(0, 0, 0, 0.55);
 }
 
 html {
@@ -107,3 +113,75 @@ a {
 }
 
 /* 主题切换避免闪烁：inline script 在 head 提前设置 */
+
+/* ─── Hover 交互（对齐 kuakua.app 配方：上浮 + 品牌色光晕 + 边框提亮 + 子元素微动）─── */
+.card-interactive {
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+    box-shadow 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+    border-color 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.card-interactive:hover {
+  transform: translateY(-4px);
+  border-color: var(--border-hover);
+  box-shadow: var(--shadow-hover);
+}
+
+/* 强档：精选 / 榜单 / Blog 主卡，多一点放大 */
+.card-interactive.card-lift-lg:hover {
+  transform: translateY(-6px) scale(1.015);
+  box-shadow: var(--shadow-hover-lg);
+}
+
+/* 轻档：列表行用，不上浮（避免行高抖动），只提亮边框 + 光晕 */
+.row-interactive {
+  transition: border-color 0.25s ease, box-shadow 0.25s ease;
+}
+.row-interactive:hover {
+  border-color: var(--border-hover);
+  box-shadow: var(--shadow-hover);
+}
+
+/* 标题随卡片一起变品牌色 */
+.card-title {
+  transition: color 0.3s ease;
+}
+:is(.card-interactive, .row-interactive):hover .card-title {
+  color: var(--brand-ink);
+}
+
+/* 箭头右移 4px（kuakua 的 group-hover:translate-x-1） */
+.card-arrow {
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+:is(.card-interactive, .row-interactive):hover .card-arrow {
+  transform: translateX(4px);
+}
+
+/* 图片容器内缩放，需父级 overflow: hidden */
+.card-zoom {
+  transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.card-interactive:hover .card-zoom {
+  transform: scale(1.08);
+}
+
+/* 无障碍：用户开启「减少动态效果」时全部降级为静态 */
+@media (prefers-reduced-motion: reduce) {
+  .card-interactive,
+  .row-interactive,
+  .card-title,
+  .card-arrow,
+  .card-zoom {
+    transition: none;
+  }
+  .card-interactive:hover,
+  .card-interactive.card-lift-lg:hover {
+    transform: none;
+  }
+  :is(.card-interactive, .row-interactive):hover .card-arrow,
+  .card-interactive:hover .card-zoom {
+    transform: none;
+  }
+}
