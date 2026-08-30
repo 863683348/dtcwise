@@ -15,6 +15,7 @@
   --border-hover: #9dc2f5;
   --shadow-hover: 0 10px 24px rgba(26, 115, 232, 0.16), 0 2px 6px rgba(0, 0, 0, 0.05);
   --shadow-hover-lg: 0 18px 40px rgba(26, 115, 232, 0.22), 0 4px 10px rgba(0, 0, 0, 0.06);
+  --spotlight-color: rgba(26, 115, 232, 0.16);
 }
 
 [data-theme="dark"] {
@@ -28,6 +29,7 @@
   --border-hover: #3f6ea8;
   --shadow-hover: 0 10px 24px rgba(79, 155, 255, 0.2), 0 2px 6px rgba(0, 0, 0, 0.5);
   --shadow-hover-lg: 0 18px 40px rgba(79, 155, 255, 0.28), 0 4px 12px rgba(0, 0, 0, 0.55);
+  --spotlight-color: rgba(79, 155, 255, 0.22);
 }
 
 html {
@@ -167,6 +169,31 @@ a {
   transform: scale(1.08);
 }
 
+/* 光标跟随水波纹（E 档）：鼠标移动时由 JS 写入 --mx/--my，
+   光圈用 radial-gradient(circle at var(--mx) var(--my)) 跟随光标，
+   配合 card-interactive 的上浮 + 品牌色辉光，得到「跟着鼠标走的光晕」 */
+.card-spotlight {
+  position: relative;
+  overflow: hidden;
+}
+.card-spotlight::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: radial-gradient(
+    220px circle at var(--mx, 50%) var(--my, 50%),
+    var(--spotlight-color),
+    transparent 65%
+  );
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+}
+.card-spotlight:hover::before {
+  opacity: 1;
+}
+
 /* 无障碍：用户开启「减少动态效果」时全部降级为静态 */
 @media (prefers-reduced-motion: reduce) {
   .card-interactive,
@@ -183,5 +210,9 @@ a {
   :is(.card-interactive, .row-interactive):hover .card-arrow,
   .card-interactive:hover .card-zoom {
     transform: none;
+  }
+  /* 光标跟随光晕本质是动态，按用户偏好彻底关闭 */
+  .card-spotlight::before {
+    opacity: 0 !important;
   }
 }
