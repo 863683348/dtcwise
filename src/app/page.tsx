@@ -1,6 +1,7 @@
 import Link from "next/link";
 import ToolSearch from "@/components/ToolSearch";
 import ToolCard from "@/components/ToolCard";
+import SpotlightLink from "@/components/SpotlightLink";
 import { categories, getFeatured, getMonthlyRanking } from "@/lib/tools";
 import { getLatest } from "@/lib/blog";
 
@@ -33,7 +34,7 @@ export default function Home() {
           }}
         >
           {categories.map((c) => (
-            <Link
+            <SpotlightLink
               key={c.id}
               href={`/category/${c.id}`}
               className="card card-interactive card-spotlight"
@@ -41,7 +42,7 @@ export default function Home() {
             >
               <div className="card-title" style={{ fontWeight: 700, fontSize: 16 }}>{c.label}</div>
               <div className="muted" style={{ fontSize: 13, marginTop: 6 }}>{c.blurb}</div>
-            </Link>
+            </SpotlightLink>
           ))}
         </div>
       </section>
@@ -107,7 +108,7 @@ export default function Home() {
           }}
         >
           {latestPosts.map((p) => (
-            <Link
+            <SpotlightLink
               key={p.slug}
               href={`/blog/${p.slug}`}
               className="card card-interactive card-lift-lg card-spotlight"
@@ -116,7 +117,7 @@ export default function Home() {
               <div className="muted" style={{ fontSize: 12 }}>{p.category} · {p.date}</div>
               <div className="card-title" style={{ fontWeight: 700, fontSize: 15, marginTop: 6, lineHeight: 1.35 }}>{p.title}</div>
               <div className="muted" style={{ fontSize: 13, marginTop: 8 }}>{p.excerpt}</div>
-            </Link>
+            </SpotlightLink>
           ))}
         </div>
       </section>
