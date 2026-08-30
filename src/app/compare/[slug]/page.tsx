@@ -4,14 +4,9 @@ import type { Metadata } from "next";
 import type { ReactNode } from "react";
 import { buildMetadata } from "@/lib/seo";
 import {
-  getCompareSlugs,
   parseCompareSlug,
   categoryLabel,
 } from "@/lib/tools";
-
-export function generateStaticParams() {
-  return getCompareSlugs().map((slug) => ({ slug }));
-}
 
 export function generateMetadata({ params }: { params: { slug: string } }): Metadata {
   const pair = parseCompareSlug(params.slug);
