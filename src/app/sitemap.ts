@@ -61,7 +61,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/blog`, lastModified: now, changeFrequency: "weekly" as const, priority: 0.6 },
     ...posts.map((p) => ({
       url: `${base}/blog/${p.slug}`,
-      lastModified: now,
+      // 用文章自身发布日期，而非统一的构建时间。
+      // 否则所有文章 lastmod 相同，Google 无法识别新内容，
+      // 依赖 lastmod 排序的索引推送脚本也会取到旧文章。
+      lastModified: new Date(p.date),
       changeFrequency: "monthly" as const,
       priority: 0.5,
     })),
