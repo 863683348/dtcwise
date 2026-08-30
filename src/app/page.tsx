@@ -36,10 +36,10 @@ export default function Home() {
             <Link
               key={c.id}
               href={`/category/${c.id}`}
-              className="card"
+              className="card card-interactive"
               style={{ padding: 16, textDecoration: "none", display: "block" }}
             >
-              <div style={{ fontWeight: 700, fontSize: 16 }}>{c.label}</div>
+              <div className="card-title" style={{ fontWeight: 700, fontSize: 16 }}>{c.label}</div>
               <div className="muted" style={{ fontSize: 13, marginTop: 6 }}>{c.blurb}</div>
             </Link>
           ))}
@@ -74,11 +74,15 @@ export default function Home() {
           {ranking.map((t, i) => (
             <li
               key={t.id}
-              className="card"
+              className="card row-interactive"
               style={{ padding: "12px 16px", display: "flex", alignItems: "center", gap: 12 }}
             >
               <span style={{ fontWeight: 800, color: "var(--brand)", minWidth: 24 }}>{i + 1}</span>
-              <Link href={`/tool/${t.id}`} style={{ fontWeight: 600, textDecoration: "none", flex: 1 }}>
+              <Link
+                href={`/tool/${t.id}`}
+                className="card-title"
+                style={{ fontWeight: 600, textDecoration: "none", flex: 1 }}
+              >
                 {t.name}
               </Link>
               <span className="muted" style={{ fontSize: 13 }}>{t.category}</span>
@@ -106,11 +110,11 @@ export default function Home() {
             <Link
               key={p.slug}
               href={`/blog/${p.slug}`}
-              className="card"
+              className="card card-interactive card-lift-lg"
               style={{ padding: 18, textDecoration: "none", display: "block" }}
             >
               <div className="muted" style={{ fontSize: 12 }}>{p.category} · {p.date}</div>
-              <div style={{ fontWeight: 700, fontSize: 15, marginTop: 6, lineHeight: 1.35 }}>{p.title}</div>
+              <div className="card-title" style={{ fontWeight: 700, fontSize: 15, marginTop: 6, lineHeight: 1.35 }}>{p.title}</div>
               <div className="muted" style={{ fontSize: 13, marginTop: 8 }}>{p.excerpt}</div>
             </Link>
           ))}
