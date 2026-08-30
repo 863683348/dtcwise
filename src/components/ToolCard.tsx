@@ -1,3 +1,5 @@
+"use client";
+
 import Link from "next/link";
 import type { MouseEvent } from "react";
 import type { Tool } from "@/lib/tools";
