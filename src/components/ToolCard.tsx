@@ -5,10 +5,13 @@ import { categoryLabel } from "@/lib/tools";
 export default function ToolCard({ tool }: { tool: Tool }) {
   const rel = tool.affiliate ? "nofollow sponsored noopener" : "nofollow noopener";
   return (
-    <article className="card" style={{ padding: 16, display: "flex", flexDirection: "column", gap: 10 }}>
+    <article
+      className="card card-interactive"
+      style={{ padding: 16, display: "flex", flexDirection: "column", gap: 10 }}
+    >
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", gap: 8 }}>
         <div>
-          <h3 style={{ margin: 0, fontSize: 17, fontWeight: 700 }}>
+          <h3 className="card-title" style={{ margin: 0, fontSize: 17, fontWeight: 700 }}>
             <Link href={`/tool/${tool.id}`} style={{ textDecoration: "none" }}>
               {tool.name}
             </Link>
@@ -34,6 +37,9 @@ export default function ToolCard({ tool }: { tool: Tool }) {
         </Link>
         <a href={tool.affiliateUrl} target="_blank" rel={rel} className="btn-brand" style={{ flex: 1 }}>
           {tool.affiliate ? "Try it" : "Visit"}
+          <span className="card-arrow" aria-hidden="true">
+            &rarr;
+          </span>
         </a>
       </div>
     </article>
