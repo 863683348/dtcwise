@@ -48,16 +48,45 @@ export default function ToolPage({ params }: { params: { slug: string } }) {
     offers: { "@type": "Offer", price: tool.pricing, priceCurrency: "USD" },
   };
 
+  const faqLd =
+    tool.faq && tool.faq.length > 0
+      ? {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: tool.faq.map((f) => ({
+            "@type": "Question",
+            name: f.q,
+            acceptedAnswer: { "@type": "Answer", text: f.a },
+          })),
+        }
+      : null;
+
   return (
     <div className="container-page" style={{ paddingTop: 32, paddingBottom: 40 }}>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
+      {faqLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }}
+        />
+      )}
 
       <Link href={`/category/${tool.category}`} className="muted" style={{ textDecoration: "none", fontSize: 14 }}>
         &larr; {categoryLabel(tool.category)}
       </Link>
+
+      {tool.screenshot && (
+        <div className="card-media" style={{ margin: "16px 0 0", borderRadius: "var(--radius)", aspectRatio: "16 / 6" }}>
+          <img
+            src={tool.screenshot}
+            alt={`${tool.name} preview`}
+            style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }}
+          />
+        </div>
+      )}
 
       <div style={{ display: "flex", flexWrap: "wrap", gap: 20, marginTop: 16, alignItems: "flex-start" }}>
         <div style={{ flex: 1, minWidth: 280 }}>
@@ -127,6 +156,20 @@ export default function ToolPage({ params }: { params: { slug: string } }) {
           >
             {alternatives.map((a) => (
               <ToolCard key={a.id} tool={a} />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {tool.faq && tool.faq.length > 0 && (
+        <section style={{ marginTop: 48 }}>
+          <h2 style={{ fontSize: 22, marginBottom: 16 }}>Frequently asked questions</h2>
+          <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
+            {tool.faq.map((f, i) => (
+              <div key={i} className="card" style={{ padding: 18 }}>
+                <h3 style={{ margin: "0 0 6px", fontSize: 16 }}>{f.q}</h3>
+                <p className="muted" style={{ margin: 0, fontSize: 14, lineHeight: 1.6 }}>{f.a}</p>
+              </div>
             ))}
           </div>
         </section>

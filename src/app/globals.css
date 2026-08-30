@@ -161,6 +161,15 @@ a {
   transform: translateX(4px);
 }
 
+/* 图片容器：顶边出血 + 顶部圆角，配合 .card-zoom 做 hover 放大 */
+.card-media {
+  margin: -16px -16px 4px;
+  border-radius: var(--radius) var(--radius) 0 0;
+  overflow: hidden;
+  aspect-ratio: 3 / 2;
+  background: var(--surface);
+}
+
 /* 图片容器内缩放，需父级 overflow: hidden */
 .card-zoom {
   transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);

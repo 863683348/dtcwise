@@ -4,68 +4,160 @@
     "name": "Spocket",
     "category": "dropshipping",
     "tagline": "US & EU dropshipping suppliers with fast shipping",
-    "pricing": "Free\u2013$299/mo",
-    "commission": "20\u201330% lifetime",
+    "pricing": "Free–$299/mo",
+    "commission": "20–30% lifetime",
     "cookie": "180 days",
     "rating": 4.5,
-    "pros": ["US/EU suppliers", "1-click import", "Branded invoicing", "Discounted sample orders"],
-    "cons": ["Higher unit prices than AliExpress", "Curated catalog only"],
+    "pros": [
+      "US/EU suppliers",
+      "1-click import",
+      "Branded invoicing",
+      "Discounted sample orders"
+    ],
+    "cons": [
+      "Higher unit prices than AliExpress",
+      "Curated catalog only"
+    ],
     "review": "Best for US/EU-facing DTC stores that want noticeably faster shipping than AliExpress. Spocket vets suppliers and supports branded invoicing, which keeps your store looking like a real brand rather than a generic dropship front.",
     "affiliateUrl": "https://spocket.grsm.io/dtcwise",
     "affiliate": true,
     "lastReviewed": "2026-08-30",
-    "featured": true
+    "featured": true,
+    "screenshot": "/screenshots/spocket.svg",
+    "faq": [
+      {
+        "q": "What is Spocket?",
+        "a": "US & EU dropshipping suppliers with fast shipping"
+      },
+      {
+        "q": "How much does Spocket cost?",
+        "a": "Spocket pricing: Free–$299/mo. Affiliates earn 20–30% lifetime with a 180 days cookie window."
+      },
+      {
+        "q": "Is Spocket worth it for DTC brands?",
+        "a": "Yes — Spocket earns a 4.5/5 editor rating and is a strong pick in the Dropshipping category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "zendrop",
     "name": "Zendrop",
     "category": "dropshipping",
     "tagline": "US-warehoused dropshipping with auto-fulfillment",
-    "pricing": "Free\u2013$49/mo",
+    "pricing": "Free–$49/mo",
     "commission": "30% lifetime",
     "cookie": "365 days",
     "rating": 4.3,
-    "pros": ["US warehouses (2\u20135 day delivery)", "Auto-fulfillment", "Custom branding", "Subscriptions supported"],
-    "cons": ["Smaller catalog than AliExpress", "Best margins on US-bound orders"],
-    "review": "Zendrop owns US warehouses for 2\u20135 day delivery and handles fulfillment automatically once an order lands. Great for speed-focused dropshippers who want to promise domestic shipping times without holding stock.",
+    "pros": [
+      "US warehouses (2–5 day delivery)",
+      "Auto-fulfillment",
+      "Custom branding",
+      "Subscriptions supported"
+    ],
+    "cons": [
+      "Smaller catalog than AliExpress",
+      "Best margins on US-bound orders"
+    ],
+    "review": "Zendrop owns US warehouses for 2–5 day delivery and handles fulfillment automatically once an order lands. Great for speed-focused dropshippers who want to promise domestic shipping times without holding stock.",
     "affiliateUrl": "https://zendrop.com?ref=dtcwise",
     "affiliate": true,
     "lastReviewed": "2026-08-30",
-    "featured": true
+    "featured": true,
+    "screenshot": "/screenshots/zendrop.svg",
+    "faq": [
+      {
+        "q": "What is Zendrop?",
+        "a": "US-warehoused dropshipping with auto-fulfillment"
+      },
+      {
+        "q": "How much does Zendrop cost?",
+        "a": "Zendrop pricing: Free–$49/mo. Affiliates earn 30% lifetime with a 365 days cookie window."
+      },
+      {
+        "q": "Is Zendrop worth it for DTC brands?",
+        "a": "Yes — Zendrop earns a 4.3/5 editor rating and is a strong pick in the Dropshipping category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "autods",
     "name": "AutoDS",
     "category": "dropshipping",
     "tagline": "Multi-channel dropshipping automation",
-    "pricing": "$26.90\u2013$167/mo",
+    "pricing": "$26.90–$167/mo",
     "commission": "20% recurring (capped at 3 months)",
     "cookie": "30 days",
     "rating": 4.2,
-    "pros": ["Multi-channel (AliExpress, eBay, Facebook)", "Price & stock monitoring", "Auto order tracking", "Templates library"],
-    "cons": ["Recurring commission capped at 3 months", "Steeper learning curve"],
+    "pros": [
+      "Multi-channel (AliExpress, eBay, Facebook)",
+      "Price & stock monitoring",
+      "Auto order tracking",
+      "Templates library"
+    ],
+    "cons": [
+      "Recurring commission capped at 3 months",
+      "Steeper learning curve"
+    ],
     "review": "AutoDS automates sourcing across AliExpress, CJdropshipping and more, with solid price/stock monitoring that pauses items before they break your store. Best when you sell across several channels at once.",
     "affiliateUrl": "https://autods.com/?via=dtcwise",
     "affiliate": true,
     "lastReviewed": "2026-08-30",
-    "featured": true
+    "featured": true,
+    "screenshot": "/screenshots/autods.svg",
+    "faq": [
+      {
+        "q": "What is AutoDS?",
+        "a": "Multi-channel dropshipping automation"
+      },
+      {
+        "q": "How much does AutoDS cost?",
+        "a": "AutoDS pricing: $26.90–$167/mo. Affiliates earn 20% recurring (capped at 3 months) with a 30 days cookie window."
+      },
+      {
+        "q": "Is AutoDS worth it for DTC brands?",
+        "a": "AutoDS holds a 4.2/5 rating. It is a viable option in Dropshipping for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "dsers",
     "name": "DSers",
     "category": "dropshipping",
     "tagline": "Official AliExpress bulk-order tool",
-    "pricing": "Free\u2013$499/mo",
-    "commission": "$10\u2013$50 per signup + 10\u201330% recurring",
+    "pricing": "Free–$499/mo",
+    "commission": "$10–$50 per signup + 10–30% recurring",
     "cookie": "30 days",
     "rating": 4.4,
-    "pros": ["Official AliExpress partner", "Bulk order processing", "Supplier finder", "Cheapest path for Ali-based supply"],
-    "cons": ["AliExpress-centric", "Longer shipping on non-US suppliers"],
+    "pros": [
+      "Official AliExpress partner",
+      "Bulk order processing",
+      "Supplier finder",
+      "Cheapest path for Ali-based supply"
+    ],
+    "cons": [
+      "AliExpress-centric",
+      "Longer shipping on non-US suppliers"
+    ],
     "review": "DSers is the AliExpress-native bulk order tool and the cheapest path if your supply chain is Ali-based. Bulk-processing hundreds of orders in one click is its killer feature for high-volume stores.",
     "affiliateUrl": "https://dsers.com/?aff=dtcwise",
     "affiliate": true,
     "lastReviewed": "2026-08-30",
-    "featured": true
+    "featured": true,
+    "screenshot": "/screenshots/dsers.svg",
+    "faq": [
+      {
+        "q": "What is DSers?",
+        "a": "Official AliExpress bulk-order tool"
+      },
+      {
+        "q": "How much does DSers cost?",
+        "a": "DSers pricing: Free–$499/mo. Affiliates earn $10–$50 per signup + 10–30% recurring with a 30 days cookie window."
+      },
+      {
+        "q": "Is DSers worth it for DTC brands?",
+        "a": "Yes — DSers earns a 4.4/5 editor rating and is a strong pick in the Dropshipping category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "cjdropshipping",
@@ -76,64 +168,154 @@
     "commission": "N/A (no public affiliate program)",
     "cookie": "n/a",
     "rating": 3.8,
-    "pros": ["Free sourcing agent", "No monthly subscription", "Global warehouses", "Print-on-demand add-on"],
-    "cons": ["2026 payout/clawback disputes reported", "Slower support at peak", "Quality varies by factory"],
+    "pros": [
+      "Free sourcing agent",
+      "No monthly subscription",
+      "Global warehouses",
+      "Print-on-demand add-on"
+    ],
+    "cons": [
+      "2026 payout/clawback disputes reported",
+      "Slower support at peak",
+      "Quality varies by factory"
+    ],
     "review": "CJ offers a free sourcing agent and no monthly fee, which is attractive for testing. However, 2026 affiliate payout disputes have been reported, so we list it as 'also consider' rather than a primary pick.",
     "affiliateUrl": "https://cjdropshipping.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/cjdropshipping.svg",
+    "faq": [
+      {
+        "q": "What is CJdropshipping?",
+        "a": "Free sourcing agent, no monthly fee"
+      },
+      {
+        "q": "How much does CJdropshipping cost?",
+        "a": "CJdropshipping pricing: Free + product cost. Affiliates earn N/A (no public affiliate program) with a n/a cookie window."
+      },
+      {
+        "q": "Is CJdropshipping worth it for DTC brands?",
+        "a": "CJdropshipping holds a 3.8/5 rating. It is a viable option in Dropshipping for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "modalyst",
     "name": "Modalyst",
     "category": "dropshipping",
     "tagline": "Curated suppliers for boutique brands",
-    "pricing": "Free\u2013$235/mo",
+    "pricing": "Free–$235/mo",
     "commission": "N/A",
     "cookie": "n/a",
-    "rating": 4.0,
-    "pros": ["Mix of AliExpress and brand-name suppliers", "Wix & Shopify apps", "Sustainable supplier tags"],
-    "cons": ["Limited free tier", "Smaller catalog than pure Ali tools"],
+    "rating": 4,
+    "pros": [
+      "Mix of AliExpress and brand-name suppliers",
+      "Wix & Shopify apps",
+      "Sustainable supplier tags"
+    ],
+    "cons": [
+      "Limited free tier",
+      "Smaller catalog than pure Ali tools"
+    ],
     "review": "Modalyst blends AliExpress with curated brand suppliers, which makes it a good fit for boutique positioning where you want slightly more premium products than a typical dropship store.",
     "affiliateUrl": "https://www.modalyst.co",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/modalyst.svg",
+    "faq": [
+      {
+        "q": "What is Modalyst?",
+        "a": "Curated suppliers for boutique brands"
+      },
+      {
+        "q": "How much does Modalyst cost?",
+        "a": "Modalyst pricing: Free–$235/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Modalyst worth it for DTC brands?",
+        "a": "Modalyst holds a 4.0/5 rating. It is a viable option in Dropshipping for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "syncee",
     "name": "Syncee",
     "category": "dropshipping",
     "tagline": "Vetted supplier marketplace with data feeds",
-    "pricing": "Free\u2013$99/mo",
+    "pricing": "Free–$99/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.1,
-    "pros": ["Vetted suppliers", "Clean product data feeds", "Shopify, Wix, WooCommerce"],
-    "cons": ["Smaller US stock than US-warehouse rivals", "Catalog search can feel limited"],
+    "pros": [
+      "Vetted suppliers",
+      "Clean product data feeds",
+      "Shopify, Wix, WooCommerce"
+    ],
+    "cons": [
+      "Smaller US stock than US-warehouse rivals",
+      "Catalog search can feel limited"
+    ],
     "review": "Syncee is a supplier marketplace with vetted data feeds, so product import stays clean. Solid middle ground between Ali-only tools and premium US-warehouse suppliers.",
     "affiliateUrl": "https://syncee.co",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/syncee.svg",
+    "faq": [
+      {
+        "q": "What is Syncee?",
+        "a": "Vetted supplier marketplace with data feeds"
+      },
+      {
+        "q": "How much does Syncee cost?",
+        "a": "Syncee pricing: Free–$99/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Syncee worth it for DTC brands?",
+        "a": "Syncee holds a 4.1/5 rating. It is a viable option in Dropshipping for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "sellvia",
     "name": "Sellvia",
     "category": "dropshipping",
-    "tagline": "US fulfillment in 1\u20133 days",
-    "pricing": "$39\u2013$99/mo",
+    "tagline": "US fulfillment in 1–3 days",
+    "pricing": "$39–$99/mo",
     "commission": "N/A",
     "cookie": "n/a",
-    "rating": 4.0,
-    "pros": ["Own US warehouse", "1\u20133 day delivery", "Built-in product/editing tools"],
-    "cons": ["Subscription required", "Catalog smaller than marketplaces"],
-    "review": "Sellvia runs its own US warehouse for 1\u20133 day shipping and bundles product research tools. Good for operators who want domestic speed without managing multiple suppliers.",
+    "rating": 4,
+    "pros": [
+      "Own US warehouse",
+      "1–3 day delivery",
+      "Built-in product/editing tools"
+    ],
+    "cons": [
+      "Subscription required",
+      "Catalog smaller than marketplaces"
+    ],
+    "review": "Sellvia runs its own US warehouse for 1–3 day shipping and bundles product research tools. Good for operators who want domestic speed without managing multiple suppliers.",
     "affiliateUrl": "https://sellvia.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/sellvia.svg",
+    "faq": [
+      {
+        "q": "What is Sellvia?",
+        "a": "US fulfillment in 1–3 days"
+      },
+      {
+        "q": "How much does Sellvia cost?",
+        "a": "Sellvia pricing: $39–$99/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Sellvia worth it for DTC brands?",
+        "a": "Sellvia holds a 4.0/5 rating. It is a viable option in Dropshipping for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "printful",
@@ -144,30 +326,76 @@
     "commission": "10% recurring for 12 months",
     "cookie": "365 days",
     "rating": 4.5,
-    "pros": ["Huge product catalog", "Strong API & integrations", "Warehousing & fulfillment", "Mockup generator"],
-    "cons": ["Base prices higher than some rivals", "Margins depend on pricing strategy"],
+    "pros": [
+      "Huge product catalog",
+      "Strong API & integrations",
+      "Warehousing & fulfillment",
+      "Mockup generator"
+    ],
+    "cons": [
+      "Base prices higher than some rivals",
+      "Margins depend on pricing strategy"
+    ],
     "review": "Printful is the print-on-demand default with the widest product range and a developer-friendly API. Quality is consistent and the mockup tool makes store setup painless, which is why it remains our top POD pick.",
     "affiliateUrl": "https://www.printful.com/?ref=dtcwise",
     "affiliate": true,
     "lastReviewed": "2026-08-30",
-    "featured": true
+    "featured": true,
+    "screenshot": "/screenshots/printful.svg",
+    "faq": [
+      {
+        "q": "What is Printful?",
+        "a": "The POD default with the widest catalog"
+      },
+      {
+        "q": "How much does Printful cost?",
+        "a": "Printful pricing: Free + product cost. Affiliates earn 10% recurring for 12 months with a 365 days cookie window."
+      },
+      {
+        "q": "Is Printful worth it for DTC brands?",
+        "a": "Yes — Printful earns a 4.5/5 editor rating and is a strong pick in the Print-on-Demand category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "printify",
     "name": "Printify",
     "category": "pod",
     "tagline": "90+ print providers, lower base cost",
-    "pricing": "Free\u2013$29/mo",
+    "pricing": "Free–$29/mo",
     "commission": "30% recurring",
     "cookie": "n/a",
     "rating": 4.4,
-    "pros": ["90+ print providers", "Lower base cost than Printful", "Region-based provider choice", "Premium plan perks"],
-    "cons": ["Quality varies by provider", "You manage provider selection"],
+    "pros": [
+      "90+ print providers",
+      "Lower base cost than Printful",
+      "Region-based provider choice",
+      "Premium plan perks"
+    ],
+    "cons": [
+      "Quality varies by provider",
+      "You manage provider selection"
+    ],
     "review": "Printify connects 90+ print providers so you can pick by region and price for the best margin. The trade-off is that quality varies by provider, so choose partners deliberately rather than defaulting.",
     "affiliateUrl": "https://printify.com/?ref=dtcwise",
     "affiliate": true,
     "lastReviewed": "2026-08-30",
-    "featured": true
+    "featured": true,
+    "screenshot": "/screenshots/printify.svg",
+    "faq": [
+      {
+        "q": "What is Printify?",
+        "a": "90+ print providers, lower base cost"
+      },
+      {
+        "q": "How much does Printify cost?",
+        "a": "Printify pricing: Free–$29/mo. Affiliates earn 30% recurring with a n/a cookie window."
+      },
+      {
+        "q": "Is Printify worth it for DTC brands?",
+        "a": "Yes — Printify earns a 4.4/5 editor rating and is a strong pick in the Print-on-Demand category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "gooten",
@@ -177,14 +405,36 @@
     "pricing": "Free + product cost",
     "commission": "N/A",
     "cookie": "n/a",
-    "rating": 4.0,
-    "pros": ["API-first architecture", "White-label friendly", "Reliable fulfillment network"],
-    "cons": ["Fewer product types than Printful", "Less beginner-friendly UI"],
+    "rating": 4,
+    "pros": [
+      "API-first architecture",
+      "White-label friendly",
+      "Reliable fulfillment network"
+    ],
+    "cons": [
+      "Fewer product types than Printful",
+      "Less beginner-friendly UI"
+    ],
     "review": "Gooten is an API-first POD backend built for scaling brands that want to wire fulfillment into their own stack. Less flashy than Printful but dependable for custom integrations.",
     "affiliateUrl": "https://www.gooten.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/gooten.svg",
+    "faq": [
+      {
+        "q": "What is Gooten?",
+        "a": "API-first white-label POD backend"
+      },
+      {
+        "q": "How much does Gooten cost?",
+        "a": "Gooten pricing: Free + product cost. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Gooten worth it for DTC brands?",
+        "a": "Gooten holds a 4.0/5 rating. It is a viable option in Print-on-Demand for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "teelaunch",
@@ -195,13 +445,35 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 3.9,
-    "pros": ["Shopify-native app", "Easy setup", "Decent product range"],
-    "cons": ["Limited catalog vs leaders", "Fewer integrations"],
+    "pros": [
+      "Shopify-native app",
+      "Easy setup",
+      "Decent product range"
+    ],
+    "cons": [
+      "Limited catalog vs leaders",
+      "Fewer integrations"
+    ],
     "review": "Teelaunch is a straightforward Shopify POD app for sellers who want to launch quickly without dealing with provider management. Fine for small catalogs.",
     "affiliateUrl": "https://teelaunch.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/teelaunch.svg",
+    "faq": [
+      {
+        "q": "What is Teelaunch?",
+        "a": "Simple Shopify-native POD"
+      },
+      {
+        "q": "How much does Teelaunch cost?",
+        "a": "Teelaunch pricing: Free + product cost. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Teelaunch worth it for DTC brands?",
+        "a": "Teelaunch holds a 3.9/5 rating. It is a viable option in Print-on-Demand for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "apliiq",
@@ -212,132 +484,313 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.1,
-    "pros": ["Custom labels & tags", "Premium apparel focus", "Embroidery & cut-and-sew"],
-    "cons": ["Higher MOQs on some items", "Narrower product range"],
+    "pros": [
+      "Custom labels & tags",
+      "Premium apparel focus",
+      "Embroidery & cut-and-sew"
+    ],
+    "cons": [
+      "Higher MOQs on some items",
+      "Narrower product range"
+    ],
     "review": "Apliiq focuses on premium custom apparel with private labeling, so your brand shows up inside the garment, not just on the print. Best for fashion-led POD stores.",
     "affiliateUrl": "https://apliiq.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/apliiq.svg",
+    "faq": [
+      {
+        "q": "What is Apliiq?",
+        "a": "Premium custom apparel with private labeling"
+      },
+      {
+        "q": "How much does Apliiq cost?",
+        "a": "Apliiq pricing: Free + product cost. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Apliiq worth it for DTC brands?",
+        "a": "Apliiq holds a 4.1/5 rating. It is a viable option in Print-on-Demand for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "klaviyo",
     "name": "Klaviyo",
     "category": "email-sms",
     "tagline": "The DTC email & SMS standard",
-    "pricing": "Free\u2013scales with list",
+    "pricing": "Free–scales with list",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.6,
-    "pros": ["Best-in-class flow builder", "Predictive analytics", "Deep Shopify data sync", "SMS built in"],
-    "cons": ["Price scales with list size", "Overkill for tiny stores"],
+    "pros": [
+      "Best-in-class flow builder",
+      "Predictive analytics",
+      "Deep Shopify data sync",
+      "SMS built in"
+    ],
+    "cons": [
+      "Price scales with list size",
+      "Overkill for tiny stores"
+    ],
     "review": "Klaviyo is the email/SMS standard for DTC. Its flow builder and segmentation are unmatched, and predictive analytics (churn, lifetime value) help you act before customers leave.",
     "affiliateUrl": "https://www.klaviyo.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/klaviyo.svg",
+    "faq": [
+      {
+        "q": "What is Klaviyo?",
+        "a": "The DTC email & SMS standard"
+      },
+      {
+        "q": "How much does Klaviyo cost?",
+        "a": "Klaviyo pricing: Free–scales with list. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Klaviyo worth it for DTC brands?",
+        "a": "Yes — Klaviyo earns a 4.6/5 editor rating and is a strong pick in the Email & SMS category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "omnisend",
     "name": "Omnisend",
     "category": "email-sms",
     "tagline": "Multichannel automation for mid-market",
-    "pricing": "Free\u2013paid tiers",
+    "pricing": "Free–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.4,
-    "pros": ["Email + SMS + push in one", "Easy prebuilt workflows", "Good Shopify fit"],
-    "cons": ["Advanced features on higher tiers", "Less powerful than Klaviyo for complex logic"],
+    "pros": [
+      "Email + SMS + push in one",
+      "Easy prebuilt workflows",
+      "Good Shopify fit"
+    ],
+    "cons": [
+      "Advanced features on higher tiers",
+      "Less powerful than Klaviyo for complex logic"
+    ],
     "review": "Omnisend bundles email, SMS and push in one place with prebuilt workflows, making it a strong mid-market pick when you want omnichannel without Klaviyo's price curve.",
     "affiliateUrl": "https://www.omnisend.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/omnisend.svg",
+    "faq": [
+      {
+        "q": "What is Omnisend?",
+        "a": "Multichannel automation for mid-market"
+      },
+      {
+        "q": "How much does Omnisend cost?",
+        "a": "Omnisend pricing: Free–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Omnisend worth it for DTC brands?",
+        "a": "Yes — Omnisend earns a 4.4/5 editor rating and is a strong pick in the Email & SMS category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "privy",
     "name": "Privy",
     "category": "email-sms",
     "tagline": "Popups plus email capture",
-    "pricing": "Free\u2013paid tiers",
+    "pricing": "Free–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.2,
-    "pros": ["Popups & banners", "Exit-intent", "Basic email automation", "Spin-to-win"],
-    "cons": ["Email deliverability is basic", "Not a full ESP replacement"],
+    "pros": [
+      "Popups & banners",
+      "Exit-intent",
+      "Basic email automation",
+      "Spin-to-win"
+    ],
+    "cons": [
+      "Email deliverability is basic",
+      "Not a full ESP replacement"
+    ],
     "review": "Privy started in popups and added email, so it is great for capture and simple automation but not a Klaviyo replacement for sophisticated flows.",
     "affiliateUrl": "https://www.privy.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/privy.svg",
+    "faq": [
+      {
+        "q": "What is Privy?",
+        "a": "Popups plus email capture"
+      },
+      {
+        "q": "How much does Privy cost?",
+        "a": "Privy pricing: Free–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Privy worth it for DTC brands?",
+        "a": "Privy holds a 4.2/5 rating. It is a viable option in Email & SMS for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "postscript",
     "name": "Postscript",
     "category": "email-sms",
     "tagline": "SMS specialist for Shopify",
-    "pricing": "Free\u2013paid tiers",
+    "pricing": "Free–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.3,
-    "pros": ["SMS-focused", "Shopify-native", "Compliant workflows", "Strong deliverability"],
-    "cons": ["SMS only (pair with an email tool)", "Costs grow with volume"],
+    "pros": [
+      "SMS-focused",
+      "Shopify-native",
+      "Compliant workflows",
+      "Strong deliverability"
+    ],
+    "cons": [
+      "SMS only (pair with an email tool)",
+      "Costs grow with volume"
+    ],
     "review": "Postscript is the SMS specialist for Shopify stores, with compliant, high-deliverability campaigns. Pair it with Klaviyo or Omnisend for the email side.",
     "affiliateUrl": "https://postscript.io",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/postscript.svg",
+    "faq": [
+      {
+        "q": "What is Postscript?",
+        "a": "SMS specialist for Shopify"
+      },
+      {
+        "q": "How much does Postscript cost?",
+        "a": "Postscript pricing: Free–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Postscript worth it for DTC brands?",
+        "a": "Yes — Postscript earns a 4.3/5 editor rating and is a strong pick in the Email & SMS category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "seguno",
     "name": "Seguno",
     "category": "email-sms",
     "tagline": "Lightweight Shopify Email",
-    "pricing": "Free\u2013paid tiers",
+    "pricing": "Free–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.1,
-    "pros": ["Native Shopify email", "Simple editor", "Low learning curve"],
-    "cons": ["Fewer integrations", "Limited advanced segmentation"],
+    "pros": [
+      "Native Shopify email",
+      "Simple editor",
+      "Low learning curve"
+    ],
+    "cons": [
+      "Fewer integrations",
+      "Limited advanced segmentation"
+    ],
     "review": "Seguno is the lightweight, Shopify-native email alternative for stores that want newsletters and basic automations without adopting a full ESP.",
     "affiliateUrl": "https://seguno.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/seguno.svg",
+    "faq": [
+      {
+        "q": "What is Seguno?",
+        "a": "Lightweight Shopify Email"
+      },
+      {
+        "q": "How much does Seguno cost?",
+        "a": "Seguno pricing: Free–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Seguno worth it for DTC brands?",
+        "a": "Seguno holds a 4.1/5 rating. It is a viable option in Email & SMS for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "loox",
     "name": "Loox",
     "category": "reviews",
     "tagline": "Photo reviews that convert",
-    "pricing": "$9.99\u2013$299/mo",
+    "pricing": "$9.99–$299/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.5,
-    "pros": ["Photo reviews", "Referrals & rewards", "Review popups", "Shopify-only but tight"],
-    "cons": ["Shopify only", "Add-on costs for some features"],
+    "pros": [
+      "Photo reviews",
+      "Referrals & rewards",
+      "Review popups",
+      "Shopify-only but tight"
+    ],
+    "cons": [
+      "Shopify only",
+      "Add-on costs for some features"
+    ],
     "review": "Loox's photo reviews drive the social proof that actually converts, and its referral rewards turn happy customers into a acquisition channel. A clean, high-ROI review app.",
     "affiliateUrl": "https://loox.app",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/loox.svg",
+    "faq": [
+      {
+        "q": "What is Loox?",
+        "a": "Photo reviews that convert"
+      },
+      {
+        "q": "How much does Loox cost?",
+        "a": "Loox pricing: $9.99–$299/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Loox worth it for DTC brands?",
+        "a": "Yes — Loox earns a 4.5/5 editor rating and is a strong pick in the Reviews & UGC category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "judgeme",
     "name": "Judge.me",
     "category": "reviews",
     "tagline": "The best free review app",
-    "pricing": "Free\u2013$15/mo",
+    "pricing": "Free–$15/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.6,
-    "pros": ["Generous free tier", "Fast load times", "Q&A, coupons, UGC", "All-in-one"],
-    "cons": ["UI is a bit dated", "Heavy stores may want the paid tier"],
+    "pros": [
+      "Generous free tier",
+      "Fast load times",
+      "Q&A, coupons, UGC",
+      "All-in-one"
+    ],
+    "cons": [
+      "UI is a bit dated",
+      "Heavy stores may want the paid tier"
+    ],
     "review": "Judge.me is the best free review app on Shopify: fast, feature-rich, and the free tier covers most needs. Hard to beat on value.",
     "affiliateUrl": "https://judge.me",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/judgeme.svg",
+    "faq": [
+      {
+        "q": "What is Judge.me?",
+        "a": "The best free review app"
+      },
+      {
+        "q": "How much does Judge.me cost?",
+        "a": "Judge.me pricing: Free–$15/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Judge.me worth it for DTC brands?",
+        "a": "Yes — Judge.me earns a 4.6/5 editor rating and is a strong pick in the Reviews & UGC category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "yotpo",
@@ -347,99 +800,234 @@
     "pricing": "Custom",
     "commission": "N/A",
     "cookie": "n/a",
-    "rating": 4.0,
-    "pros": ["Reviews + loyalty + SMS", "Enterprise-grade", "Rich integrations"],
-    "cons": ["Pricey", "Complex to set up"],
+    "rating": 4,
+    "pros": [
+      "Reviews + loyalty + SMS",
+      "Enterprise-grade",
+      "Rich integrations"
+    ],
+    "cons": [
+      "Pricey",
+      "Complex to set up"
+    ],
     "review": "Yotpo suites reviews, loyalty and SMS for scaling brands that want one vendor across the stack. Powerful but best once you have volume to justify the price.",
     "affiliateUrl": "https://www.yotpo.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/yotpo.svg",
+    "faq": [
+      {
+        "q": "What is Yotpo?",
+        "a": "Enterprise reviews + loyalty suite"
+      },
+      {
+        "q": "How much does Yotpo cost?",
+        "a": "Yotpo pricing: Custom. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Yotpo worth it for DTC brands?",
+        "a": "Yotpo holds a 4.0/5 rating. It is a viable option in Reviews & UGC for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "okendo",
     "name": "Okendo",
     "category": "reviews",
     "tagline": "Reviews as customer profiles",
-    "pricing": "$19\u2013$599/mo",
+    "pricing": "$19–$599/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.4,
-    "pros": ["Rich customer profiles", "Strong quiz & UGC", "Good segmentation hooks"],
-    "cons": ["Pricey at scale", "Shopify-focused"],
+    "pros": [
+      "Rich customer profiles",
+      "Strong quiz & UGC",
+      "Good segmentation hooks"
+    ],
+    "cons": [
+      "Pricey at scale",
+      "Shopify-focused"
+    ],
     "review": "Okendo turns reviews into customer profiles you can segment on, which is useful when reviews feed your broader marketing. Premium positioning, premium price.",
     "affiliateUrl": "https://okendo.io",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/okendo.svg",
+    "faq": [
+      {
+        "q": "What is Okendo?",
+        "a": "Reviews as customer profiles"
+      },
+      {
+        "q": "How much does Okendo cost?",
+        "a": "Okendo pricing: $19–$599/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Okendo worth it for DTC brands?",
+        "a": "Yes — Okendo earns a 4.4/5 editor rating and is a strong pick in the Reviews & UGC category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "stamped",
     "name": "Stamped",
     "category": "reviews",
     "tagline": "Reviews + loyalty + UGC in one",
-    "pricing": "$23\u2013$299/mo",
+    "pricing": "$23–$299/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.3,
-    "pros": ["Reviews + loyalty + UGC", "Net promoter surveys", "Good value bundles"],
-    "cons": ["UI can feel cluttered", "Some features overlap"],
+    "pros": [
+      "Reviews + loyalty + UGC",
+      "Net promoter surveys",
+      "Good value bundles"
+    ],
+    "cons": [
+      "UI can feel cluttered",
+      "Some features overlap"
+    ],
     "review": "Stamped bundles reviews, loyalty and UGC in one app, which is convenient if you want a single reviews-and-rewards vendor without stitching tools together.",
     "affiliateUrl": "https://stamped.io",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/stamped.svg",
+    "faq": [
+      {
+        "q": "What is Stamped?",
+        "a": "Reviews + loyalty + UGC in one"
+      },
+      {
+        "q": "How much does Stamped cost?",
+        "a": "Stamped pricing: $23–$299/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Stamped worth it for DTC brands?",
+        "a": "Yes — Stamped earns a 4.3/5 editor rating and is a strong pick in the Reviews & UGC category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "semrush",
     "name": "Semrush",
     "category": "seo",
     "tagline": "All-in-one SEO & competitor research",
-    "pricing": "$129\u2013$499/mo",
+    "pricing": "$129–$499/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.5,
-    "pros": ["Keyword research", "Competitor analysis", "Site audits", "Content marketing toolkit"],
-    "cons": ["Expensive", "Steep feature count"],
+    "pros": [
+      "Keyword research",
+      "Competitor analysis",
+      "Site audits",
+      "Content marketing toolkit"
+    ],
+    "cons": [
+      "Expensive",
+      "Steep feature count"
+    ],
     "review": "Semrush is the SEO Swiss Army knife. Best for keyword and competitor research when you are building content and want to see exactly what ranks and why.",
     "affiliateUrl": "https://www.semrush.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/semrush.svg",
+    "faq": [
+      {
+        "q": "What is Semrush?",
+        "a": "All-in-one SEO & competitor research"
+      },
+      {
+        "q": "How much does Semrush cost?",
+        "a": "Semrush pricing: $129–$499/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Semrush worth it for DTC brands?",
+        "a": "Yes — Semrush earns a 4.5/5 editor rating and is a strong pick in the SEO & Analytics category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "ahrefs",
     "name": "Ahrefs",
     "category": "seo",
     "tagline": "Best backlink index & content explorer",
-    "pricing": "$99\u2013$999/mo",
+    "pricing": "$99–$999/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.6,
-    "pros": ["Best backlink index", "Content Explorer", "Site Explorer", "Rank tracking"],
-    "cons": ["Pricey", "No free tier"],
+    "pros": [
+      "Best backlink index",
+      "Content Explorer",
+      "Site Explorer",
+      "Rank tracking"
+    ],
+    "cons": [
+      "Pricey",
+      "No free tier"
+    ],
     "review": "Ahrefs leads on backlink data and content research. If link building is part of your DTC growth plan, it is the tool to watch competitors' authority with.",
     "affiliateUrl": "https://ahrefs.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/ahrefs.svg",
+    "faq": [
+      {
+        "q": "What is Ahrefs?",
+        "a": "Best backlink index & content explorer"
+      },
+      {
+        "q": "How much does Ahrefs cost?",
+        "a": "Ahrefs pricing: $99–$999/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Ahrefs worth it for DTC brands?",
+        "a": "Yes — Ahrefs earns a 4.6/5 editor rating and is a strong pick in the SEO & Analytics category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "triplewhale",
     "name": "Triple Whale",
     "category": "seo",
     "tagline": "DTC attribution dashboard",
-    "pricing": "$100\u2013$300+/mo",
+    "pricing": "$100–$300+/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.3,
-    "pros": ["DTC attribution", "iOS-safe modeling", "Profit dashboards", "Shopify-native"],
-    "cons": ["Shopify-centric", "Adds cost on top of ad platforms"],
+    "pros": [
+      "DTC attribution",
+      "iOS-safe modeling",
+      "Profit dashboards",
+      "Shopify-native"
+    ],
+    "cons": [
+      "Shopify-centric",
+      "Adds cost on top of ad platforms"
+    ],
     "review": "Triple Whale is the post-iOS14 attribution dashboard for DTC, pulling ad, store and profit data into one view so you can see true ROAS instead of platform-reported guesses.",
     "affiliateUrl": "https://www.triplewhale.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/triplewhale.svg",
+    "faq": [
+      {
+        "q": "What is Triple Whale?",
+        "a": "DTC attribution dashboard"
+      },
+      {
+        "q": "How much does Triple Whale cost?",
+        "a": "Triple Whale pricing: $100–$300+/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Triple Whale worth it for DTC brands?",
+        "a": "Yes — Triple Whale earns a 4.3/5 editor rating and is a strong pick in the SEO & Analytics category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "northbeam",
@@ -450,81 +1038,195 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.2,
-    "pros": ["MMM modeling", "Cross-channel attribution", "Forecasting"],
-    "cons": ["Enterprise price", "Needs data volume to be useful"],
+    "pros": [
+      "MMM modeling",
+      "Cross-channel attribution",
+      "Forecasting"
+    ],
+    "cons": [
+      "Enterprise price",
+      "Needs data volume to be useful"
+    ],
     "review": "Northbeam does marketing mix modeling for scaling DTC brands that have outgrown last-click. Worth it once monthly ad spend is high enough to need real allocation decisions.",
     "affiliateUrl": "https://www.northbeam.io",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/northbeam.svg",
+    "faq": [
+      {
+        "q": "What is Northbeam?",
+        "a": "Marketing mix modeling for scaling brands"
+      },
+      {
+        "q": "How much does Northbeam cost?",
+        "a": "Northbeam pricing: $1000+/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Northbeam worth it for DTC brands?",
+        "a": "Northbeam holds a 4.2/5 rating. It is a viable option in SEO & Analytics for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "mangools",
     "name": "Mangools",
     "category": "seo",
     "tagline": "Budget-friendly SEO suite",
-    "pricing": "$29\u2013$129/mo",
+    "pricing": "$29–$129/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.4,
-    "pros": ["Affordable", "Beginner-friendly (KWFinder)", "Clean UI", "SERPWatcher"],
-    "cons": ["Smaller index than Semrush/Ahrefs", "Lighter feature set"],
+    "pros": [
+      "Affordable",
+      "Beginner-friendly (KWFinder)",
+      "Clean UI",
+      "SERPWatcher"
+    ],
+    "cons": [
+      "Smaller index than Semrush/Ahrefs",
+      "Lighter feature set"
+    ],
     "review": "Mangools (KWFinder) is the budget SEO suite. Perfect when you want solid keyword research without enterprise pricing, especially early in your store's content push.",
     "affiliateUrl": "https://mangools.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/mangools.svg",
+    "faq": [
+      {
+        "q": "What is Mangools?",
+        "a": "Budget-friendly SEO suite"
+      },
+      {
+        "q": "How much does Mangools cost?",
+        "a": "Mangools pricing: $29–$129/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Mangools worth it for DTC brands?",
+        "a": "Yes — Mangools earns a 4.4/5 editor rating and is a strong pick in the SEO & Analytics category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "optinmonster",
     "name": "OptinMonster",
     "category": "cro",
     "tagline": "Popups & conversion campaigns",
-    "pricing": "$9\u2013$49/mo",
+    "pricing": "$9–$49/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.3,
-    "pros": ["Powerful targeting rules", "Many campaign types", "Exit-intent", "A/B testing"],
-    "cons": ["Not Shopify-native", "Can feel heavy on pages"],
+    "pros": [
+      "Powerful targeting rules",
+      "Many campaign types",
+      "Exit-intent",
+      "A/B testing"
+    ],
+    "cons": [
+      "Not Shopify-native",
+      "Can feel heavy on pages"
+    ],
     "review": "OptinMonster is the popups and conversion toolkit with deep targeting (geo, device, referrer, exit-intent). Strong for list growth when configured carefully.",
     "affiliateUrl": "https://optinmonster.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/optinmonster.svg",
+    "faq": [
+      {
+        "q": "What is OptinMonster?",
+        "a": "Popups & conversion campaigns"
+      },
+      {
+        "q": "How much does OptinMonster cost?",
+        "a": "OptinMonster pricing: $9–$49/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is OptinMonster worth it for DTC brands?",
+        "a": "Yes — OptinMonster earns a 4.3/5 editor rating and is a strong pick in the CRO & Popups category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "luckyorange",
     "name": "Lucky Orange",
     "category": "cro",
     "tagline": "Heatmaps + session replay + chat",
-    "pricing": "$10\u2013$50/mo",
+    "pricing": "$10–$50/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.2,
-    "pros": ["Heatmaps", "Session replay", "Live chat", "Conversion funnels"],
-    "cons": ["Script can be heavy", "Sampling on lower tiers"],
+    "pros": [
+      "Heatmaps",
+      "Session replay",
+      "Live chat",
+      "Conversion funnels"
+    ],
+    "cons": [
+      "Script can be heavy",
+      "Sampling on lower tiers"
+    ],
     "review": "Lucky Orange pairs heatmaps with session replay and live chat, so you can watch where users struggle and jump in to help. Good all-rounder for CRO diagnosis.",
     "affiliateUrl": "https://www.luckyorange.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/luckyorange.svg",
+    "faq": [
+      {
+        "q": "What is Lucky Orange?",
+        "a": "Heatmaps + session replay + chat"
+      },
+      {
+        "q": "How much does Lucky Orange cost?",
+        "a": "Lucky Orange pricing: $10–$50/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Lucky Orange worth it for DTC brands?",
+        "a": "Lucky Orange holds a 4.2/5 rating. It is a viable option in CRO & Popups for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "hotjar",
     "name": "Hotjar",
     "category": "cro",
     "tagline": "Behavior analytics standard",
-    "pricing": "Free\u2013paid tiers",
+    "pricing": "Free–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.4,
-    "pros": ["Heatmaps", "Recordings", "Surveys & feedback", "Easy setup"],
-    "cons": ["Sampled data on free tier", "Less quantitative than full CDPs"],
+    "pros": [
+      "Heatmaps",
+      "Recordings",
+      "Surveys & feedback",
+      "Easy setup"
+    ],
+    "cons": [
+      "Sampled data on free tier",
+      "Less quantitative than full CDPs"
+    ],
     "review": "Hotjar is the standard for behavior analytics. Heatmaps and recordings quickly show what users do, and surveys close the loop on why. A near-default for CRO teams.",
     "affiliateUrl": "https://www.hotjar.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/hotjar.svg",
+    "faq": [
+      {
+        "q": "What is Hotjar?",
+        "a": "Behavior analytics standard"
+      },
+      {
+        "q": "How much does Hotjar cost?",
+        "a": "Hotjar pricing: Free–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Hotjar worth it for DTC brands?",
+        "a": "Yes — Hotjar earns a 4.4/5 editor rating and is a strong pick in the CRO & Popups category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "convert",
@@ -535,47 +1237,116 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.3,
-    "pros": ["A/B & split testing", "GDPR-friendly", "No cookie dependency", "Good for EU stores"],
-    "cons": ["Pricey", "Smaller ecosystem than Optimizely"],
+    "pros": [
+      "A/B & split testing",
+      "GDPR-friendly",
+      "No cookie dependency",
+      "Good for EU stores"
+    ],
+    "cons": [
+      "Pricey",
+      "Smaller ecosystem than Optimizely"
+    ],
     "review": "Convert is the privacy-first A/B testing tool. If you run an EU-facing store and want experimentation without leaning on cookies, it is a clean fit.",
     "affiliateUrl": "https://www.convert.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/convert.svg",
+    "faq": [
+      {
+        "q": "What is Convert?",
+        "a": "Privacy-first A/B testing"
+      },
+      {
+        "q": "How much does Convert cost?",
+        "a": "Convert pricing: $299+/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Convert worth it for DTC brands?",
+        "a": "Yes — Convert earns a 4.3/5 editor rating and is a strong pick in the CRO & Popups category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "recharge",
     "name": "Recharge",
     "category": "subscription",
     "tagline": "Subscriptions engine leader",
-    "pricing": "$99\u2013$499/mo",
+    "pricing": "$99–$499/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.5,
-    "pros": ["Subscription engine leader", "Dunning & retries", "Customer portal", "Analytics"],
-    "cons": ["Setup can be heavy", "Costs add up at scale"],
+    "pros": [
+      "Subscription engine leader",
+      "Dunning & retries",
+      "Customer portal",
+      "Analytics"
+    ],
+    "cons": [
+      "Setup can be heavy",
+      "Costs add up at scale"
+    ],
     "review": "Recharge powers subscriptions for thousands of DTC brands. If recurring revenue is core to your model, it is the default engine with the deepest subscription logic.",
     "affiliateUrl": "https://recharge.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/recharge.svg",
+    "faq": [
+      {
+        "q": "What is Recharge?",
+        "a": "Subscriptions engine leader"
+      },
+      {
+        "q": "How much does Recharge cost?",
+        "a": "Recharge pricing: $99–$499/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Recharge worth it for DTC brands?",
+        "a": "Yes — Recharge earns a 4.5/5 editor rating and is a strong pick in the Subscriptions & Loyalty category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "smile",
     "name": "Smile.io",
     "category": "subscription",
     "tagline": "Loyalty, rewards & referrals",
-    "pricing": "Free\u2013paid tiers",
+    "pricing": "Free–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.4,
-    "pros": ["Points & rewards", "Referral program", "VIP tiers", "Shopify-friendly"],
-    "cons": ["Free tier limited", "Advanced logic on paid tiers"],
+    "pros": [
+      "Points & rewards",
+      "Referral program",
+      "VIP tiers",
+      "Shopify-friendly"
+    ],
+    "cons": [
+      "Free tier limited",
+      "Advanced logic on paid tiers"
+    ],
     "review": "Smile.io is the loyalty app for Shopify stores, with points, referrals and VIP tiers out of the box. A fast way to lift repeat purchase rate.",
     "affiliateUrl": "https://smile.io",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/smile.svg",
+    "faq": [
+      {
+        "q": "What is Smile.io?",
+        "a": "Loyalty, rewards & referrals"
+      },
+      {
+        "q": "How much does Smile.io cost?",
+        "a": "Smile.io pricing: Free–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Smile.io worth it for DTC brands?",
+        "a": "Yes — Smile.io earns a 4.4/5 editor rating and is a strong pick in the Subscriptions & Loyalty category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "yotpo-loyalty",
@@ -586,47 +1357,115 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.1,
-    "pros": ["Loyalty + SMS + reviews", "Tiered programs", "Strong data"],
-    "cons": ["Bundled pricing", "Best with Yotpo stack"],
+    "pros": [
+      "Loyalty + SMS + reviews",
+      "Tiered programs",
+      "Strong data"
+    ],
+    "cons": [
+      "Bundled pricing",
+      "Best with Yotpo stack"
+    ],
     "review": "Yotpo Loyalty bundles with reviews and SMS into one suite, which is convenient if you already run Yotpo. Enterprise-grade, enterprise-priced.",
     "affiliateUrl": "https://www.yotpo.com/loyalty/",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/yotpo-loyalty.svg",
+    "faq": [
+      {
+        "q": "What is Yotpo Loyalty?",
+        "a": "Loyalty bundled with reviews"
+      },
+      {
+        "q": "How much does Yotpo Loyalty cost?",
+        "a": "Yotpo Loyalty pricing: Custom. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Yotpo Loyalty worth it for DTC brands?",
+        "a": "Yotpo Loyalty holds a 4.1/5 rating. It is a viable option in Subscriptions & Loyalty for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "bold-subscriptions",
     "name": "Bold Subscriptions",
     "category": "subscription",
     "tagline": "Shopify-native recurring billing",
-    "pricing": "$49\u2013$199/mo",
+    "pricing": "$49–$199/mo",
     "commission": "N/A",
     "cookie": "n/a",
-    "rating": 4.0,
-    "pros": ["Native Shopify", "Build-a-box", "Flexible cadences", "Migration help"],
-    "cons": ["Less flexible than Recharge", "UI older"],
+    "rating": 4,
+    "pros": [
+      "Native Shopify",
+      "Build-a-box",
+      "Flexible cadences",
+      "Migration help"
+    ],
+    "cons": [
+      "Less flexible than Recharge",
+      "UI older"
+    ],
     "review": "Bold Subscriptions is the Shopify-native recurring billing app with build-a-box support. Good middle option if you want subscriptions without Recharge's enterprise feel.",
     "affiliateUrl": "https://boldcommerce.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/bold-subscriptions.svg",
+    "faq": [
+      {
+        "q": "What is Bold Subscriptions?",
+        "a": "Shopify-native recurring billing"
+      },
+      {
+        "q": "How much does Bold Subscriptions cost?",
+        "a": "Bold Subscriptions pricing: $49–$199/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Bold Subscriptions worth it for DTC brands?",
+        "a": "Bold Subscriptions holds a 4.0/5 rating. It is a viable option in Subscriptions & Loyalty for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "loyaltylion",
     "name": "LoyaltyLion",
     "category": "subscription",
     "tagline": "Mid-market loyalty programs",
-    "pricing": "$99\u2013$729/mo",
+    "pricing": "$99–$729/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.2,
-    "pros": ["Tiered loyalty", "Points & referral", "Integrations", "Good analytics"],
-    "cons": ["Pricey", "Setup time"],
+    "pros": [
+      "Tiered loyalty",
+      "Points & referral",
+      "Integrations",
+      "Good analytics"
+    ],
+    "cons": [
+      "Pricey",
+      "Setup time"
+    ],
     "review": "LoyaltyLion targets mid-market loyalty programs with strong analytics and integrations. A solid step up from free loyalty apps once retention is a priority.",
     "affiliateUrl": "https://loyaltylion.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/loyaltylion.svg",
+    "faq": [
+      {
+        "q": "What is LoyaltyLion?",
+        "a": "Mid-market loyalty programs"
+      },
+      {
+        "q": "How much does LoyaltyLion cost?",
+        "a": "LoyaltyLion pricing: $99–$729/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is LoyaltyLion worth it for DTC brands?",
+        "a": "LoyaltyLion holds a 4.2/5 rating. It is a viable option in Subscriptions & Loyalty for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "shipbob",
@@ -637,47 +1476,116 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.3,
-    "pros": ["US 2-day fulfillment", "Strong integrations", "Distributed warehouses", "Real-time tracking"],
-    "cons": ["Minimum volume", "Fees vary by SKU"],
+    "pros": [
+      "US 2-day fulfillment",
+      "Strong integrations",
+      "Distributed warehouses",
+      "Real-time tracking"
+    ],
+    "cons": [
+      "Minimum volume",
+      "Fees vary by SKU"
+    ],
     "review": "ShipBob is the DTC 3PL with fast US fulfillment and a clean dashboard. Once you outgrow self-fulfillment, it is one of the most operator-friendly 3PLs.",
     "affiliateUrl": "https://www.shipbob.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/shipbob.svg",
+    "faq": [
+      {
+        "q": "What is ShipBob?",
+        "a": "DTC 3PL with fast US fulfillment"
+      },
+      {
+        "q": "How much does ShipBob cost?",
+        "a": "ShipBob pricing: Custom (volume-based). Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is ShipBob worth it for DTC brands?",
+        "a": "Yes — ShipBob earns a 4.3/5 editor rating and is a strong pick in the Fulfillment & Shipping category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "shipstation",
     "name": "ShipStation",
     "category": "fulfillment",
     "tagline": "Shipping-label automation hub",
-    "pricing": "$9\u2013$159/mo",
+    "pricing": "$9–$159/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.2,
-    "pros": ["Carrier-agnostic", "Automation rules", "Batch labels", "Many integrations"],
-    "cons": ["UI feels dated", "Add-ons cost extra"],
+    "pros": [
+      "Carrier-agnostic",
+      "Automation rules",
+      "Batch labels",
+      "Many integrations"
+    ],
+    "cons": [
+      "UI feels dated",
+      "Add-ons cost extra"
+    ],
     "review": "ShipStation is the shipping-label automation hub that connects to nearly every carrier and marketplace. Indispensable once order volume makes manual labeling painful.",
     "affiliateUrl": "https://www.shipstation.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/shipstation.svg",
+    "faq": [
+      {
+        "q": "What is ShipStation?",
+        "a": "Shipping-label automation hub"
+      },
+      {
+        "q": "How much does ShipStation cost?",
+        "a": "ShipStation pricing: $9–$159/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is ShipStation worth it for DTC brands?",
+        "a": "ShipStation holds a 4.2/5 rating. It is a viable option in Fulfillment & Shipping for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "easyship",
     "name": "Easyship",
     "category": "fulfillment",
     "tagline": "Courier rates & customs docs",
-    "pricing": "Free\u2013paid tiers",
+    "pricing": "Free–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.1,
-    "pros": ["Courier rate comparison", "Automated customs docs", "Global coverage", "Tracking"],
-    "cons": ["Support can be slow", "Fees on higher tiers"],
+    "pros": [
+      "Courier rate comparison",
+      "Automated customs docs",
+      "Global coverage",
+      "Tracking"
+    ],
+    "cons": [
+      "Support can be slow",
+      "Fees on higher tiers"
+    ],
     "review": "Easyship aggregates courier rates and auto-generates customs paperwork, which is a lifesaver for cross-border shipping. Good for international DTC.",
     "affiliateUrl": "https://www.easyship.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/easyship.svg",
+    "faq": [
+      {
+        "q": "What is Easyship?",
+        "a": "Courier rates & customs docs"
+      },
+      {
+        "q": "How much does Easyship cost?",
+        "a": "Easyship pricing: Free–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Easyship worth it for DTC brands?",
+        "a": "Easyship holds a 4.1/5 rating. It is a viable option in Fulfillment & Shipping for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "flexe",
@@ -687,65 +1595,156 @@
     "pricing": "Custom",
     "commission": "N/A",
     "cookie": "n/a",
-    "rating": 4.0,
-    "pros": ["On-demand warehouse network", "Marketplace-fast SLA", "No long-term leases"],
-    "cons": ["Acquired/renamed from Deliverr", "Best for larger volumes"],
-    "review": "Flexe (formerly Deliverr) offers marketplace-speed fulfillment through an on-demand warehouse network, letting you hit 1\u20132 day delivery without owning warehouses.",
+    "rating": 4,
+    "pros": [
+      "On-demand warehouse network",
+      "Marketplace-fast SLA",
+      "No long-term leases"
+    ],
+    "cons": [
+      "Acquired/renamed from Deliverr",
+      "Best for larger volumes"
+    ],
+    "review": "Flexe (formerly Deliverr) offers marketplace-speed fulfillment through an on-demand warehouse network, letting you hit 1–2 day delivery without owning warehouses.",
     "affiliateUrl": "https://www.flexe.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/flexe.svg",
+    "faq": [
+      {
+        "q": "What is Flexe?",
+        "a": "Marketplace-speed fulfillment"
+      },
+      {
+        "q": "How much does Flexe cost?",
+        "a": "Flexe pricing: Custom. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Flexe worth it for DTC brands?",
+        "a": "Flexe holds a 4.0/5 rating. It is a viable option in Fulfillment & Shipping for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "gorgias",
     "name": "Gorgias",
     "category": "support",
     "tagline": "Ecommerce-native helpdesk with AI",
-    "pricing": "$10\u2013paid tiers",
+    "pricing": "$10–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.4,
-    "pros": ["Ecom-native macros", "AI automation", "Order context in tickets", "Shopify data sync"],
-    "cons": ["Price scales with tickets", "Setup for complex flows"],
+    "pros": [
+      "Ecom-native macros",
+      "AI automation",
+      "Order context in tickets",
+      "Shopify data sync"
+    ],
+    "cons": [
+      "Price scales with tickets",
+      "Setup for complex flows"
+    ],
     "review": "Gorgias is the helpdesk built for ecommerce, surfacing order data inside tickets and automating replies with AI macros. The right support desk once volume grows.",
     "affiliateUrl": "https://www.gorgias.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/gorgias.svg",
+    "faq": [
+      {
+        "q": "What is Gorgias?",
+        "a": "Ecommerce-native helpdesk with AI"
+      },
+      {
+        "q": "How much does Gorgias cost?",
+        "a": "Gorgias pricing: $10–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Gorgias worth it for DTC brands?",
+        "a": "Yes — Gorgias earns a 4.4/5 editor rating and is a strong pick in the Customer Support category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "tidio",
     "name": "Tidio",
     "category": "support",
     "tagline": "Live chat + chatbots, affordably",
-    "pricing": "Free\u2013paid tiers",
+    "pricing": "Free–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.3,
-    "pros": ["Live chat", "Chatbots", "Affordable", "Easy install"],
-    "cons": ["Basic analytics", "Less powerful than Gorgias for tickets"],
+    "pros": [
+      "Live chat",
+      "Chatbots",
+      "Affordable",
+      "Easy install"
+    ],
+    "cons": [
+      "Basic analytics",
+      "Less powerful than Gorgias for tickets"
+    ],
     "review": "Tidio blends live chat and bots at an approachable price, making it a good first support tool for small stores before upgrading to a full helpdesk.",
     "affiliateUrl": "https://www.tidio.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/tidio.svg",
+    "faq": [
+      {
+        "q": "What is Tidio?",
+        "a": "Live chat + chatbots, affordably"
+      },
+      {
+        "q": "How much does Tidio cost?",
+        "a": "Tidio pricing: Free–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Tidio worth it for DTC brands?",
+        "a": "Yes — Tidio earns a 4.3/5 editor rating and is a strong pick in the Customer Support category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "zendesk",
     "name": "Zendesk",
     "category": "support",
     "tagline": "Enterprise support suite",
-    "pricing": "$19\u2013paid tiers",
+    "pricing": "$19–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.1,
-    "pros": ["Enterprise-grade", "Omnichannel", "Deep reporting", "Large ecosystem"],
-    "cons": ["Overkill for small stores", "Can get expensive"],
+    "pros": [
+      "Enterprise-grade",
+      "Omnichannel",
+      "Deep reporting",
+      "Large ecosystem"
+    ],
+    "cons": [
+      "Overkill for small stores",
+      "Can get expensive"
+    ],
     "review": "Zendesk is the enterprise support suite with omnichannel and deep reporting. Powerful, but usually more than a small DTC store needs early on.",
     "affiliateUrl": "https://www.zendesk.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/zendesk.svg",
+    "faq": [
+      {
+        "q": "What is Zendesk?",
+        "a": "Enterprise support suite"
+      },
+      {
+        "q": "How much does Zendesk cost?",
+        "a": "Zendesk pricing: $19–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Zendesk worth it for DTC brands?",
+        "a": "Zendesk holds a 4.1/5 rating. It is a viable option in Customer Support for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "tawkto",
@@ -756,47 +1755,116 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.2,
-    "pros": ["Free live chat", "Agents & triggers", "Knowledge base", "Mobile apps"],
-    "cons": ["Branded unless you pay", "Limited automation free"],
+    "pros": [
+      "Free live chat",
+      "Agents & triggers",
+      "Knowledge base",
+      "Mobile apps"
+    ],
+    "cons": [
+      "Branded unless you pay",
+      "Limited automation free"
+    ],
     "review": "Tawk.to is the free live chat default. Unbeatable on price for early-stage stores that just need to answer questions in real time.",
     "affiliateUrl": "https://www.tawk.to",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/tawkto.svg",
+    "faq": [
+      {
+        "q": "What is Tawk.to?",
+        "a": "Free live chat"
+      },
+      {
+        "q": "How much does Tawk.to cost?",
+        "a": "Tawk.to pricing: Free (paid add-ons). Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Tawk.to worth it for DTC brands?",
+        "a": "Tawk.to holds a 4.2/5 rating. It is a viable option in Customer Support for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "reamaze",
     "name": "Re:amaze",
     "category": "support",
     "tagline": "Chat + helpdesk + CRM",
-    "pricing": "$29\u2013paid tiers",
+    "pricing": "$29–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.3,
-    "pros": ["Live chat", "Helpdesk", "CRM context", "Automation"],
-    "cons": ["Learning curve", "Less known than Zendesk/Gorgias"],
+    "pros": [
+      "Live chat",
+      "Helpdesk",
+      "CRM context",
+      "Automation"
+    ],
+    "cons": [
+      "Learning curve",
+      "Less known than Zendesk/Gorgias"
+    ],
     "review": "Re:amaze unifies chat, helpdesk and CRM so support and customer context live in one place. A neat middle ground between Tawk.to and enterprise desks.",
     "affiliateUrl": "https://www.reamaze.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/reamaze.svg",
+    "faq": [
+      {
+        "q": "What is Re:amaze?",
+        "a": "Chat + helpdesk + CRM"
+      },
+      {
+        "q": "How much does Re:amaze cost?",
+        "a": "Re:amaze pricing: $29–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Re:amaze worth it for DTC brands?",
+        "a": "Yes — Re:amaze earns a 4.3/5 editor rating and is a strong pick in the Customer Support category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "shopify",
     "name": "Shopify",
     "category": "storebuilder",
     "tagline": "The default DTC platform",
-    "pricing": "$39\u2013$399/mo",
+    "pricing": "$39–$399/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.7,
-    "pros": ["Best app ecosystem", "Reliable hosting", "Great checkout", "Constant innovation"],
-    "cons": ["Fees add up (apps + payments)", "Less control than self-hosted"],
+    "pros": [
+      "Best app ecosystem",
+      "Reliable hosting",
+      "Great checkout",
+      "Constant innovation"
+    ],
+    "cons": [
+      "Fees add up (apps + payments)",
+      "Less control than self-hosted"
+    ],
     "review": "Shopify is the default DTC platform with an unmatched app ecosystem and the highest-converting checkout in the game. Most DTC brands should start here.",
     "affiliateUrl": "https://www.shopify.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/shopify.svg",
+    "faq": [
+      {
+        "q": "What is Shopify?",
+        "a": "The default DTC platform"
+      },
+      {
+        "q": "How much does Shopify cost?",
+        "a": "Shopify pricing: $39–$399/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Shopify worth it for DTC brands?",
+        "a": "Yes — Shopify earns a 4.7/5 editor rating and is a strong pick in the Store Builders category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "woocommerce",
@@ -807,80 +1875,194 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.3,
-    "pros": ["Full control", "Free core", "Huge plugin market", "SEO-friendly (WordPress)"],
-    "cons": ["Self-hosted maintenance", "Security you own"],
+    "pros": [
+      "Full control",
+      "Free core",
+      "Huge plugin market",
+      "SEO-friendly (WordPress)"
+    ],
+    "cons": [
+      "Self-hosted maintenance",
+      "Security you own"
+    ],
     "review": "WooCommerce is the WordPress path to fully owned storefronts. Best when content/SEO is central and you are comfortable running your own hosting.",
     "affiliateUrl": "https://woocommerce.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/woocommerce.svg",
+    "faq": [
+      {
+        "q": "What is WooCommerce?",
+        "a": "WordPress-owned storefronts"
+      },
+      {
+        "q": "How much does WooCommerce cost?",
+        "a": "WooCommerce pricing: Free core (hosting paid). Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is WooCommerce worth it for DTC brands?",
+        "a": "Yes — WooCommerce earns a 4.3/5 editor rating and is a strong pick in the Store Builders category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "bigcommerce",
     "name": "BigCommerce",
     "category": "storebuilder",
     "tagline": "Mid-market with native B2B",
-    "pricing": "$29\u2013paid tiers",
+    "pricing": "$29–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.2,
-    "pros": ["Enterprise features", "Native B2B", "No transaction fees", "Strong APIs"],
-    "cons": ["Smaller app store than Shopify", "Steeper onboarding"],
+    "pros": [
+      "Enterprise features",
+      "Native B2B",
+      "No transaction fees",
+      "Strong APIs"
+    ],
+    "cons": [
+      "Smaller app store than Shopify",
+      "Steeper onboarding"
+    ],
     "review": "BigCommerce suits mid-market merchants with native B2B features and no transaction fees. A strong Shopify alternative when you need more built in.",
     "affiliateUrl": "https://www.bigcommerce.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/bigcommerce.svg",
+    "faq": [
+      {
+        "q": "What is BigCommerce?",
+        "a": "Mid-market with native B2B"
+      },
+      {
+        "q": "How much does BigCommerce cost?",
+        "a": "BigCommerce pricing: $29–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is BigCommerce worth it for DTC brands?",
+        "a": "BigCommerce holds a 4.2/5 rating. It is a viable option in Store Builders for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "wix",
     "name": "Wix",
     "category": "storebuilder",
     "tagline": "Drag-and-drop starter",
-    "pricing": "$27\u2013paid tiers",
+    "pricing": "$27–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
-    "rating": 4.0,
-    "pros": ["Easy builder", "Affordable", "Templates", "Decent ecom features"],
-    "cons": ["Less ecom depth", "Harder to scale"],
+    "rating": 4,
+    "pros": [
+      "Easy builder",
+      "Affordable",
+      "Templates",
+      "Decent ecom features"
+    ],
+    "cons": [
+      "Less ecom depth",
+      "Harder to scale"
+    ],
     "review": "Wix is the drag-and-drop starter for small shops that want a site live today. Fine for side projects, less ideal as you scale into serious DTC.",
     "affiliateUrl": "https://www.wix.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/wix.svg",
+    "faq": [
+      {
+        "q": "What is Wix?",
+        "a": "Drag-and-drop starter"
+      },
+      {
+        "q": "How much does Wix cost?",
+        "a": "Wix pricing: $27–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Wix worth it for DTC brands?",
+        "a": "Wix holds a 4.0/5 rating. It is a viable option in Store Builders for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "squarespace",
     "name": "Squarespace",
     "category": "storebuilder",
     "tagline": "Design-led small stores",
-    "pricing": "$23\u2013paid tiers",
+    "pricing": "$23–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 3.9,
-    "pros": ["Design-forward templates", "Easy editor", "Good for brand-led stores"],
-    "cons": ["Limited ecom depth", "Fewer integrations"],
+    "pros": [
+      "Design-forward templates",
+      "Easy editor",
+      "Good for brand-led stores"
+    ],
+    "cons": [
+      "Limited ecom depth",
+      "Fewer integrations"
+    ],
     "review": "Squarespace is for design-led small stores where visual polish matters more than advanced commerce. Lovely front end, lighter under the hood.",
     "affiliateUrl": "https://www.squarespace.com",
     "affiliate": false,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/squarespace.svg",
+    "faq": [
+      {
+        "q": "What is Squarespace?",
+        "a": "Design-led small stores"
+      },
+      {
+        "q": "How much does Squarespace cost?",
+        "a": "Squarespace pricing: $23–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Squarespace worth it for DTC brands?",
+        "a": "Squarespace holds a 3.9/5 rating. It is a viable option in Store Builders for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "dropgenius",
     "name": "DropGenius",
     "category": "dropshipping",
     "tagline": "AI-built dropshipping store with winning products",
-    "pricing": "Free\u2013$39/mo",
+    "pricing": "Free–$39/mo",
     "commission": "N/A",
     "cookie": "n/a",
-    "rating": 4.0,
-    "pros": ["AI store builder", "Curated winning products", "One-click import", "Beginner-friendly"],
-    "cons": ["Newer platform", "Smaller supplier pool"],
+    "rating": 4,
+    "pros": [
+      "AI store builder",
+      "Curated winning products",
+      "One-click import",
+      "Beginner-friendly"
+    ],
+    "cons": [
+      "Newer platform",
+      "Smaller supplier pool"
+    ],
     "review": "DropGenius uses AI to spin up a store and surface winning products, which lowers the barrier for first-time dropshippers. A decent starting point if you want speed over supplier depth.",
     "affiliateUrl": "https://dropgenius.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/dropgenius.svg",
+    "faq": [
+      {
+        "q": "What is DropGenius?",
+        "a": "AI-built dropshipping store with winning products"
+      },
+      {
+        "q": "How much does DropGenius cost?",
+        "a": "DropGenius pricing: Free–$39/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is DropGenius worth it for DTC brands?",
+        "a": "DropGenius holds a 4.0/5 rating. It is a viable option in Dropshipping for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "alidropship",
@@ -891,12 +2073,35 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.1,
-    "pros": ["One-time payment", "Full WordPress ownership", "Built-in themes", "No monthly fee"],
-    "cons": ["Requires WordPress hosting", "Self-managed"],
+    "pros": [
+      "One-time payment",
+      "Full WordPress ownership",
+      "Built-in themes",
+      "No monthly fee"
+    ],
+    "cons": [
+      "Requires WordPress hosting",
+      "Self-managed"
+    ],
     "review": "AliDropship is the one-time-fee WordPress route to AliExpress dropshipping. Great for operators who want to own their store outright without recurring SaaS fees.",
     "affiliateUrl": "https://alidropship.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/alidropship.svg",
+    "faq": [
+      {
+        "q": "What is AliDropship?",
+        "a": "WordPress dropshipping plugin (one-time fee)"
+      },
+      {
+        "q": "How much does AliDropship cost?",
+        "a": "AliDropship pricing: $89 one-time + product cost. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is AliDropship worth it for DTC brands?",
+        "a": "AliDropship holds a 4.1/5 rating. It is a viable option in Dropshipping for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "spod",
@@ -907,12 +2112,35 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.1,
-    "pros": ["Fast 48h production", "Wide product range", "EU + US print", "Shopify/Wix apps"],
-    "cons": ["Smaller catalog than Printful", "Fewer integrations"],
+    "pros": [
+      "Fast 48h production",
+      "Wide product range",
+      "EU + US print",
+      "Shopify/Wix apps"
+    ],
+    "cons": [
+      "Smaller catalog than Printful",
+      "Fewer integrations"
+    ],
     "review": "SPOD pushes 48-hour production and a broad catalog, making it a strong Printful alternative when speed matters for your POD store.",
     "affiliateUrl": "https://www.spod.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/spod.svg",
+    "faq": [
+      {
+        "q": "What is SPOD?",
+        "a": "48-hour print-on-demand production"
+      },
+      {
+        "q": "How much does SPOD cost?",
+        "a": "SPOD pricing: Free + product cost. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is SPOD worth it for DTC brands?",
+        "a": "SPOD holds a 4.1/5 rating. It is a viable option in Print-on-Demand for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "merchize",
@@ -923,12 +2151,35 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 3.9,
-    "pros": ["All-over-print focus", "Global fulfillment", "Product personalization", "API access"],
-    "cons": ["Less brand recognition", "Quality varies by region"],
+    "pros": [
+      "All-over-print focus",
+      "Global fulfillment",
+      "Product personalization",
+      "API access"
+    ],
+    "cons": [
+      "Less brand recognition",
+      "Quality varies by region"
+    ],
     "review": "Merchize specializes in all-over-print and personalized products with global fulfillment. Good for apparel brands wanting distinctive prints.",
     "affiliateUrl": "https://merchize.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/merchize.svg",
+    "faq": [
+      {
+        "q": "What is Merchize?",
+        "a": "All-over-print POD with fulfillment"
+      },
+      {
+        "q": "How much does Merchize cost?",
+        "a": "Merchize pricing: Free + product cost. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Merchize worth it for DTC brands?",
+        "a": "Merchize holds a 3.9/5 rating. It is a viable option in Print-on-Demand for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "subliminator",
@@ -939,12 +2190,35 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 3.8,
-    "pros": ["Sublimation specialty", "Automated fulfillment", "Shopify app", "No upfront cost"],
-    "cons": ["Narrow product focus", "Smaller catalog"],
+    "pros": [
+      "Sublimation specialty",
+      "Automated fulfillment",
+      "Shopify app",
+      "No upfront cost"
+    ],
+    "cons": [
+      "Narrow product focus",
+      "Smaller catalog"
+    ],
     "review": "Subliminator is the sublimation-focused POD option for mugs, bottles and panels. Niche, but reliable if that is your product line.",
     "affiliateUrl": "https://subliminator.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/subliminator.svg",
+    "faq": [
+      {
+        "q": "What is Subliminator?",
+        "a": "Sublimation POD for mugs, bottles & more"
+      },
+      {
+        "q": "How much does Subliminator cost?",
+        "a": "Subliminator pricing: Free + product cost. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Subliminator worth it for DTC brands?",
+        "a": "Subliminator holds a 3.8/5 rating. It is a viable option in Print-on-Demand for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "t-pop",
@@ -954,13 +2228,36 @@
     "pricing": "Free + product cost",
     "commission": "N/A",
     "cookie": "n/a",
-    "rating": 4.0,
-    "pros": ["Plastic-free packaging", "EU-based production", "Offset carbon", "Quality apparel"],
-    "cons": ["Europe-centric", "Smaller catalog"],
+    "rating": 4,
+    "pros": [
+      "Plastic-free packaging",
+      "EU-based production",
+      "Offset carbon",
+      "Quality apparel"
+    ],
+    "cons": [
+      "Europe-centric",
+      "Smaller catalog"
+    ],
     "review": "T-Pop is the eco-minded European POD supplier with plastic-free packaging, a clean fit for sustainability-led brands selling into the EU.",
     "affiliateUrl": "https://www.t-pop.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/t-pop.svg",
+    "faq": [
+      {
+        "q": "What is T-Pop?",
+        "a": "Eco-friendly European POD"
+      },
+      {
+        "q": "How much does T-Pop cost?",
+        "a": "T-Pop pricing: Free + product cost. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is T-Pop worth it for DTC brands?",
+        "a": "T-Pop holds a 4.0/5 rating. It is a viable option in Print-on-Demand for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "fuel",
@@ -971,44 +2268,113 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 3.9,
-    "pros": ["US production", "Fast shipping", "No monthly fee", "Growing catalog"],
-    "cons": ["Younger provider", "Limited global reach"],
+    "pros": [
+      "US production",
+      "Fast shipping",
+      "No monthly fee",
+      "Growing catalog"
+    ],
+    "cons": [
+      "Younger provider",
+      "Limited global reach"
+    ],
     "review": "Fuel runs US-local POD for faster domestic delivery, a practical Printful alternative for US-facing stores that prioritize shipping speed.",
     "affiliateUrl": "https://fuel.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/fuel.svg",
+    "faq": [
+      {
+        "q": "What is Fuel?",
+        "a": "US-local print-on-demand"
+      },
+      {
+        "q": "How much does Fuel cost?",
+        "a": "Fuel pricing: Free + product cost. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Fuel worth it for DTC brands?",
+        "a": "Fuel holds a 3.9/5 rating. It is a viable option in Print-on-Demand for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "mailchimp",
     "name": "Mailchimp",
     "category": "email-sms",
     "tagline": "Beginner-friendly email marketing",
-    "pricing": "Free\u2013paid tiers",
+    "pricing": "Free–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
-    "rating": 4.0,
-    "pros": ["Generous free tier", "Easy builder", "Built-in audience tools", "Broad integrations"],
-    "cons": ["Pricing climbs with contacts", "Less ecom-native than Klaviyo"],
+    "rating": 4,
+    "pros": [
+      "Generous free tier",
+      "Easy builder",
+      "Built-in audience tools",
+      "Broad integrations"
+    ],
+    "cons": [
+      "Pricing climbs with contacts",
+      "Less ecom-native than Klaviyo"
+    ],
     "review": "Mailchimp is the approachable entry point for email marketing, with a free tier that covers early list growth before you need advanced ecom flows.",
     "affiliateUrl": "https://mailchimp.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/mailchimp.svg",
+    "faq": [
+      {
+        "q": "What is Mailchimp?",
+        "a": "Beginner-friendly email marketing"
+      },
+      {
+        "q": "How much does Mailchimp cost?",
+        "a": "Mailchimp pricing: Free–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Mailchimp worth it for DTC brands?",
+        "a": "Mailchimp holds a 4.0/5 rating. It is a viable option in Email & SMS for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "activecampaign",
     "name": "ActiveCampaign",
     "category": "email-sms",
     "tagline": "Automation-first CRM & email",
-    "pricing": "$29\u2013paid tiers",
+    "pricing": "$29–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.3,
-    "pros": ["Powerful automation", "CRM + email", "Lead scoring", "Deep segmentation"],
-    "cons": ["Steeper learning curve", "Price scales with contacts"],
+    "pros": [
+      "Powerful automation",
+      "CRM + email",
+      "Lead scoring",
+      "Deep segmentation"
+    ],
+    "cons": [
+      "Steeper learning curve",
+      "Price scales with contacts"
+    ],
     "review": "ActiveCampaign pairs email with a real CRM and best-in-class automation, ideal once segmentation and lifecycle marketing matter more than simplicity.",
     "affiliateUrl": "https://www.activecampaign.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/activecampaign.svg",
+    "faq": [
+      {
+        "q": "What is ActiveCampaign?",
+        "a": "Automation-first CRM & email"
+      },
+      {
+        "q": "How much does ActiveCampaign cost?",
+        "a": "ActiveCampaign pricing: $29–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is ActiveCampaign worth it for DTC brands?",
+        "a": "Yes — ActiveCampaign earns a 4.3/5 editor rating and is a strong pick in the Email & SMS category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "attentive",
@@ -1019,44 +2385,113 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.2,
-    "pros": ["Top SMS deliverability", "Compliant workflows", "Personalization", "Strong ROI reporting"],
-    "cons": ["Enterprise price", "SMS-focused"],
+    "pros": [
+      "Top SMS deliverability",
+      "Compliant workflows",
+      "Personalization",
+      "Strong ROI reporting"
+    ],
+    "cons": [
+      "Enterprise price",
+      "SMS-focused"
+    ],
     "review": "Attentive is the enterprise SMS platform with excellent deliverability and compliance. Pair it with an email tool once SMS is core to your retention.",
     "affiliateUrl": "https://www.attentive.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/attentive.svg",
+    "faq": [
+      {
+        "q": "What is Attentive?",
+        "a": "Enterprise-grade SMS marketing"
+      },
+      {
+        "q": "How much does Attentive cost?",
+        "a": "Attentive pricing: Custom. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Attentive worth it for DTC brands?",
+        "a": "Attentive holds a 4.2/5 rating. It is a viable option in Email & SMS for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "kit",
     "name": "Kit (ConvertKit)",
     "category": "email-sms",
     "tagline": "Creator-focused email marketing",
-    "pricing": "Free\u2013paid tiers",
+    "pricing": "Free–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.1,
-    "pros": ["Creator-friendly", "Visual automations", "Sequences", "Generous free plan"],
-    "cons": ["Less ecom-native", "Fewer templates than Mailchimp"],
+    "pros": [
+      "Creator-friendly",
+      "Visual automations",
+      "Sequences",
+      "Generous free plan"
+    ],
+    "cons": [
+      "Less ecom-native",
+      "Fewer templates than Mailchimp"
+    ],
     "review": "Kit (formerly ConvertKit) is built for creators with clean automations and a generous free tier, a good pick for content-led DTC brands.",
     "affiliateUrl": "https://kit.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/kit.svg",
+    "faq": [
+      {
+        "q": "What is Kit (ConvertKit)?",
+        "a": "Creator-focused email marketing"
+      },
+      {
+        "q": "How much does Kit (ConvertKit) cost?",
+        "a": "Kit (ConvertKit) pricing: Free–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Kit (ConvertKit) worth it for DTC brands?",
+        "a": "Kit (ConvertKit) holds a 4.1/5 rating. It is a viable option in Email & SMS for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "brevo",
     "name": "Brevo",
     "category": "email-sms",
     "tagline": "Affordable multi-channel (email/SMS/chat)",
-    "pricing": "Free\u2013paid tiers",
+    "pricing": "Free–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.1,
-    "pros": ["Pay per email sent (cheap)", "Email + SMS + chat", "CRM lite", "Good free tier"],
-    "cons": ["Automation limits on free", "Less ecom depth"],
+    "pros": [
+      "Pay per email sent (cheap)",
+      "Email + SMS + chat",
+      "CRM lite",
+      "Good free tier"
+    ],
+    "cons": [
+      "Automation limits on free",
+      "Less ecom depth"
+    ],
     "review": "Brevo (ex-Sendinblue) prices by email volume rather than contacts, which keeps costs low as your list grows. A pragmatic all-rounder.",
     "affiliateUrl": "https://www.brevo.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/brevo.svg",
+    "faq": [
+      {
+        "q": "What is Brevo?",
+        "a": "Affordable multi-channel (email/SMS/chat)"
+      },
+      {
+        "q": "How much does Brevo cost?",
+        "a": "Brevo pricing: Free–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Brevo worth it for DTC brands?",
+        "a": "Brevo holds a 4.1/5 rating. It is a viable option in Email & SMS for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "trustpilot",
@@ -1066,45 +2501,114 @@
     "pricing": "Custom (free tier limited)",
     "commission": "N/A",
     "cookie": "n/a",
-    "rating": 4.0,
-    "pros": ["High consumer trust", "SEO-rich snippets", "Public profile", "Review invitations"],
-    "cons": ["Costly at scale", "Public (can show negatives)"],
+    "rating": 4,
+    "pros": [
+      "High consumer trust",
+      "SEO-rich snippets",
+      "Public profile",
+      "Review invitations"
+    ],
+    "cons": [
+      "Costly at scale",
+      "Public (can show negatives)"
+    ],
     "review": "Trustpilot is the consumer-trust badge shoppers recognize, useful for converting hesitant buyers via public, SEO-rich reviews.",
     "affiliateUrl": "https://www.trustpilot.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/trustpilot.svg",
+    "faq": [
+      {
+        "q": "What is Trustpilot?",
+        "a": "Independent review trust badge"
+      },
+      {
+        "q": "How much does Trustpilot cost?",
+        "a": "Trustpilot pricing: Custom (free tier limited). Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Trustpilot worth it for DTC brands?",
+        "a": "Trustpilot holds a 4.0/5 rating. It is a viable option in Reviews & UGC for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "fera",
     "name": "Fera",
     "category": "reviews",
     "tagline": "Reviews, UGC & social proof",
-    "pricing": "$9\u2013$99/mo",
+    "pricing": "$9–$99/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.2,
-    "pros": ["Reviews + UGC", "Loyalty & referrals", "Popups", "Affordable"],
-    "cons": ["Shopify-focused", "Less known than Loox"],
+    "pros": [
+      "Reviews + UGC",
+      "Loyalty & referrals",
+      "Popups",
+      "Affordable"
+    ],
+    "cons": [
+      "Shopify-focused",
+      "Less known than Loox"
+    ],
     "review": "Fera bundles reviews, UGC, loyalty and popups into one affordable app, a solid mid-tier alternative to the marquee review apps.",
     "affiliateUrl": "https://fera.ai",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/fera.svg",
+    "faq": [
+      {
+        "q": "What is Fera?",
+        "a": "Reviews, UGC & social proof"
+      },
+      {
+        "q": "How much does Fera cost?",
+        "a": "Fera pricing: $9–$99/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Fera worth it for DTC brands?",
+        "a": "Fera holds a 4.2/5 rating. It is a viable option in Reviews & UGC for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "rivyo",
     "name": "Rivyo",
     "category": "reviews",
     "tagline": "Reviews, Q&A & loyalty",
-    "pricing": "$5.99\u2013$29/mo",
+    "pricing": "$5.99–$29/mo",
     "commission": "N/A",
     "cookie": "n/a",
-    "rating": 4.0,
-    "pros": ["Low price", "Reviews + Q&A", "Loyalty add-on", "Photo reviews"],
-    "cons": ["Smaller ecosystem", "Basic analytics"],
+    "rating": 4,
+    "pros": [
+      "Low price",
+      "Reviews + Q&A",
+      "Loyalty add-on",
+      "Photo reviews"
+    ],
+    "cons": [
+      "Smaller ecosystem",
+      "Basic analytics"
+    ],
     "review": "Rivyo is a budget review app with Q&A and a loyalty add-on, good for stores that want core reviews without a premium price.",
     "affiliateUrl": "https://rivyo.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/rivyo.svg",
+    "faq": [
+      {
+        "q": "What is Rivyo?",
+        "a": "Reviews, Q&A & loyalty"
+      },
+      {
+        "q": "How much does Rivyo cost?",
+        "a": "Rivyo pricing: $5.99–$29/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Rivyo worth it for DTC brands?",
+        "a": "Rivyo holds a 4.0/5 rating. It is a viable option in Reviews & UGC for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "junip",
@@ -1115,76 +2619,191 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.3,
-    "pros": ["Clean mobile UX", "Photo & video reviews", "Great at converting", "Easy install"],
-    "cons": ["Smaller feature set", "Shopify-only"],
+    "pros": [
+      "Clean mobile UX",
+      "Photo & video reviews",
+      "Great at converting",
+      "Easy install"
+    ],
+    "cons": [
+      "Smaller feature set",
+      "Shopify-only"
+    ],
     "review": "Junip focuses on a frictionless, mobile-first review experience that lifts conversion. A strong Loox alternative for design-led stores.",
     "affiliateUrl": "https://junip.co",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/junip.svg",
+    "faq": [
+      {
+        "q": "What is Junip?",
+        "a": "Modern, high-converting review UX"
+      },
+      {
+        "q": "How much does Junip cost?",
+        "a": "Junip pricing: From $19/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Junip worth it for DTC brands?",
+        "a": "Yes — Junip earns a 4.3/5 editor rating and is a strong pick in the Reviews & UGC category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "opinew",
     "name": "Opinew",
     "category": "reviews",
     "tagline": "Aggregate reviews from social & AliExpress",
-    "pricing": "$19\u2013$149/mo",
+    "pricing": "$19–$149/mo",
     "commission": "N/A",
     "cookie": "n/a",
-    "rating": 4.0,
-    "pros": ["Import from social/AliExpress", "Photo reviews", "Q&A", "Multi-channel"],
-    "cons": ["Import quality varies", "Setup for imports"],
+    "rating": 4,
+    "pros": [
+      "Import from social/AliExpress",
+      "Photo reviews",
+      "Q&A",
+      "Multi-channel"
+    ],
+    "cons": [
+      "Import quality varies",
+      "Setup for imports"
+    ],
     "review": "Opinew imports reviews from social platforms and AliExpress to seed social proof fast, helpful for new stores that need reviews yesterday.",
     "affiliateUrl": "https://opinew.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/opinew.svg",
+    "faq": [
+      {
+        "q": "What is Opinew?",
+        "a": "Aggregate reviews from social & AliExpress"
+      },
+      {
+        "q": "How much does Opinew cost?",
+        "a": "Opinew pricing: $19–$149/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Opinew worth it for DTC brands?",
+        "a": "Opinew holds a 4.0/5 rating. It is a viable option in Reviews & UGC for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "screaming-frog",
     "name": "Screaming Frog",
     "category": "seo",
     "tagline": "Desktop technical SEO crawler",
-    "pricing": "Free (500 URLs) \u2013 $259/yr",
+    "pricing": "Free (500 URLs) – $259/yr",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.6,
-    "pros": ["Deep technical crawl", "Audit at scale", "Custom extracts", "One-time license"],
-    "cons": ["Desktop app", "Steep for beginners"],
+    "pros": [
+      "Deep technical crawl",
+      "Audit at scale",
+      "Custom extracts",
+      "One-time license"
+    ],
+    "cons": [
+      "Desktop app",
+      "Steep for beginners"
+    ],
     "review": "Screaming Frog is the industry-standard technical crawler for auditing site architecture, redirects and on-page SEO before you publish at scale.",
     "affiliateUrl": "https://www.screamingfrog.co.uk",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/screaming-frog.svg",
+    "faq": [
+      {
+        "q": "What is Screaming Frog?",
+        "a": "Desktop technical SEO crawler"
+      },
+      {
+        "q": "How much does Screaming Frog cost?",
+        "a": "Screaming Frog pricing: Free (500 URLs) – $259/yr. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Screaming Frog worth it for DTC brands?",
+        "a": "Yes — Screaming Frog earns a 4.6/5 editor rating and is a strong pick in the SEO & Analytics category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "surfer-seo",
     "name": "Surfer SEO",
     "category": "seo",
     "tagline": "SERP-based content optimization",
-    "pricing": "$89\u2013$219/mo",
+    "pricing": "$89–$219/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.4,
-    "pros": ["Data-driven content scores", "SERP analysis", "Content Editor", "Audit tool"],
-    "cons": ["Pricey", "Best paired with a writer"],
+    "pros": [
+      "Data-driven content scores",
+      "SERP analysis",
+      "Content Editor",
+      "Audit tool"
+    ],
+    "cons": [
+      "Pricey",
+      "Best paired with a writer"
+    ],
     "review": "Surfer scores your content against the pages that actually rank, so your blog posts target the right terms and structure. A staple for content SEO.",
     "affiliateUrl": "https://surferseo.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/surfer-seo.svg",
+    "faq": [
+      {
+        "q": "What is Surfer SEO?",
+        "a": "SERP-based content optimization"
+      },
+      {
+        "q": "How much does Surfer SEO cost?",
+        "a": "Surfer SEO pricing: $89–$219/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Surfer SEO worth it for DTC brands?",
+        "a": "Yes — Surfer SEO earns a 4.4/5 editor rating and is a strong pick in the SEO & Analytics category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "frase",
     "name": "Frase",
     "category": "seo",
     "tagline": "AI content briefs & optimization",
-    "pricing": "$15\u2013$115/mo",
+    "pricing": "$15–$115/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.2,
-    "pros": ["Fast content briefs", "SERP research", "AI drafting", "Answer-engine friendly"],
-    "cons": ["Credits can run out", "Editing still needed"],
+    "pros": [
+      "Fast content briefs",
+      "SERP research",
+      "AI drafting",
+      "Answer-engine friendly"
+    ],
+    "cons": [
+      "Credits can run out",
+      "Editing still needed"
+    ],
     "review": "Frase turns a keyword into a research-backed brief and draft in minutes, which speeds up the content engine behind programmatic SEO.",
     "affiliateUrl": "https://www.frase.io",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/frase.svg",
+    "faq": [
+      {
+        "q": "What is Frase?",
+        "a": "AI content briefs & optimization"
+      },
+      {
+        "q": "How much does Frase cost?",
+        "a": "Frase pricing: $15–$115/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Frase worth it for DTC brands?",
+        "a": "Frase holds a 4.2/5 rating. It is a viable option in SEO & Analytics for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "clearscope",
@@ -1195,28 +2814,74 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.3,
-    "pros": ["Topical coverage scoring", "Report-friendly", "Integrations", "Trusted by enterprises"],
-    "cons": ["Enterprise price", "Overkill for small sites"],
+    "pros": [
+      "Topical coverage scoring",
+      "Report-friendly",
+      "Integrations",
+      "Trusted by enterprises"
+    ],
+    "cons": [
+      "Enterprise price",
+      "Overkill for small sites"
+    ],
     "review": "Clearscope sets the enterprise bar for content optimization with precise topical coverage scoring. Worth it once content volume and competition are high.",
     "affiliateUrl": "https://www.clearscope.io",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/clearscope.svg",
+    "faq": [
+      {
+        "q": "What is Clearscope?",
+        "a": "Enterprise content optimization"
+      },
+      {
+        "q": "How much does Clearscope cost?",
+        "a": "Clearscope pricing: Custom. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Clearscope worth it for DTC brands?",
+        "a": "Yes — Clearscope earns a 4.3/5 editor rating and is a strong pick in the SEO & Analytics category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "se-ranking",
     "name": "SE Ranking",
     "category": "seo",
     "tagline": "Affordable all-in-one SEO suite",
-    "pricing": "$49\u2013$189/mo",
+    "pricing": "$49–$189/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.4,
-    "pros": ["Keyword + rank tracking", "Site audit", "Backlink monitor", "Good value"],
-    "cons": ["Index smaller than Semrush", "UI dense"],
+    "pros": [
+      "Keyword + rank tracking",
+      "Site audit",
+      "Backlink monitor",
+      "Good value"
+    ],
+    "cons": [
+      "Index smaller than Semrush",
+      "UI dense"
+    ],
     "review": "SE Ranking packs rank tracking, audits and backlink monitoring at a friendlier price than the giants, a sensible default for hands-on SEO.",
     "affiliateUrl": "https://seranking.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/se-ranking.svg",
+    "faq": [
+      {
+        "q": "What is SE Ranking?",
+        "a": "Affordable all-in-one SEO suite"
+      },
+      {
+        "q": "How much does SE Ranking cost?",
+        "a": "SE Ranking pricing: $49–$189/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is SE Ranking worth it for DTC brands?",
+        "a": "Yes — SE Ranking earns a 4.4/5 editor rating and is a strong pick in the SEO & Analytics category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "microsoft-clarity",
@@ -1227,12 +2892,35 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.3,
-    "pros": ["100% free", "Heatmaps + recordings", "Dead-click detection", "Privacy-friendly"],
-    "cons": ["No A/B testing", "Sampled data at scale"],
+    "pros": [
+      "100% free",
+      "Heatmaps + recordings",
+      "Dead-click detection",
+      "Privacy-friendly"
+    ],
+    "cons": [
+      "No A/B testing",
+      "Sampled data at scale"
+    ],
     "review": "Microsoft Clarity delivers heatmaps and session replay for free, making it the obvious first CRO tool to watch what users actually do.",
     "affiliateUrl": "https://clarity.microsoft.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/microsoft-clarity.svg",
+    "faq": [
+      {
+        "q": "What is Microsoft Clarity?",
+        "a": "Free heatmaps & session replay"
+      },
+      {
+        "q": "How much does Microsoft Clarity cost?",
+        "a": "Microsoft Clarity pricing: Free. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Microsoft Clarity worth it for DTC brands?",
+        "a": "Yes — Microsoft Clarity earns a 4.3/5 editor rating and is a strong pick in the CRO & Popups category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "optimizely",
@@ -1243,12 +2931,35 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.2,
-    "pros": ["Robust A/B & MVT", "Feature flags", "Enterprise scale", "Strong stats engine"],
-    "cons": ["Enterprise price", "Complex setup"],
+    "pros": [
+      "Robust A/B & MVT",
+      "Feature flags",
+      "Enterprise scale",
+      "Strong stats engine"
+    ],
+    "cons": [
+      "Enterprise price",
+      "Complex setup"
+    ],
     "review": "Optimizely is the enterprise experimentation platform for sophisticated testing programs once you have the traffic and team to use it.",
     "affiliateUrl": "https://www.optimizely.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/optimizely.svg",
+    "faq": [
+      {
+        "q": "What is Optimizely?",
+        "a": "Enterprise experimentation platform"
+      },
+      {
+        "q": "How much does Optimizely cost?",
+        "a": "Optimizely pricing: Custom. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Optimizely worth it for DTC brands?",
+        "a": "Optimizely holds a 4.2/5 rating. It is a viable option in CRO & Popups for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "vwo",
@@ -1259,60 +2970,152 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.2,
-    "pros": ["A/B + multivariate", "Surveys & feedback", "Personalization", "Good UX"],
-    "cons": ["Pricey", "Best with volume"],
+    "pros": [
+      "A/B + multivariate",
+      "Surveys & feedback",
+      "Personalization",
+      "Good UX"
+    ],
+    "cons": [
+      "Pricey",
+      "Best with volume"
+    ],
     "review": "VWO combines testing, surveys and personalization in one platform, a strong mid-market step up from basic heatmap tools.",
     "affiliateUrl": "https://vwo.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/vwo.svg",
+    "faq": [
+      {
+        "q": "What is VWO?",
+        "a": "Testing, surveys & personalization"
+      },
+      {
+        "q": "How much does VWO cost?",
+        "a": "VWO pricing: Custom. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is VWO worth it for DTC brands?",
+        "a": "VWO holds a 4.2/5 rating. It is a viable option in CRO & Popups for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "personizely",
     "name": "Personizely",
     "category": "cro",
     "tagline": "Personalized popups & widgets",
-    "pricing": "$29\u2013$49/mo",
+    "pricing": "$29–$49/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.1,
-    "pros": ["Targeted popups", "Personalization", "Exit-intent", "On-site widgets"],
-    "cons": ["Smaller brand", "Fewer integrations"],
+    "pros": [
+      "Targeted popups",
+      "Personalization",
+      "Exit-intent",
+      "On-site widgets"
+    ],
+    "cons": [
+      "Smaller brand",
+      "Fewer integrations"
+    ],
     "review": "Personizely adds targeted popups and on-site personalization to lift capture and AOV without an enterprise price tag.",
     "affiliateUrl": "https://personizely.net",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/personizely.svg",
+    "faq": [
+      {
+        "q": "What is Personizely?",
+        "a": "Personalized popups & widgets"
+      },
+      {
+        "q": "How much does Personizely cost?",
+        "a": "Personizely pricing: $29–$49/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Personizely worth it for DTC brands?",
+        "a": "Personizely holds a 4.1/5 rating. It is a viable option in CRO & Popups for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "proof",
     "name": "Proof",
     "category": "cro",
     "tagline": "Social proof notifications",
-    "pricing": "$29\u2013$299/mo",
+    "pricing": "$29–$299/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 3.9,
-    "pros": ["Live visitor proof", "Recent-activity popups", "Easy install", "FOMO nudges"],
-    "cons": ["Can feel spammy", "Needs traffic to shine"],
+    "pros": [
+      "Live visitor proof",
+      "Recent-activity popups",
+      "Easy install",
+      "FOMO nudges"
+    ],
+    "cons": [
+      "Can feel spammy",
+      "Needs traffic to shine"
+    ],
     "review": "Proof shows live recent-activity notifications to create urgency, a quick CRO win when configured tastefully rather than aggressively.",
     "affiliateUrl": "https://useproof.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/proof.svg",
+    "faq": [
+      {
+        "q": "What is Proof?",
+        "a": "Social proof notifications"
+      },
+      {
+        "q": "How much does Proof cost?",
+        "a": "Proof pricing: $29–$299/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Proof worth it for DTC brands?",
+        "a": "Proof holds a 3.9/5 rating. It is a viable option in CRO & Popups for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "hello-bar",
     "name": "Hello Bar",
     "category": "cro",
     "tagline": "Top bars, popups & slide-ins",
-    "pricing": "$29\u2013$99/mo",
+    "pricing": "$29–$99/mo",
     "commission": "N/A",
     "cookie": "n/a",
-    "rating": 4.0,
-    "pros": ["Header bars", "Popups & sliders", "A/B testing", "Simple targeting"],
-    "cons": ["Limited vs OptinMonster", "Add-ons cost"],
+    "rating": 4,
+    "pros": [
+      "Header bars",
+      "Popups & sliders",
+      "A/B testing",
+      "Simple targeting"
+    ],
+    "cons": [
+      "Limited vs OptinMonster",
+      "Add-ons cost"
+    ],
     "review": "Hello Bar is the lightweight announcement-bar and popup tool for capturing email and promoting offers without heavy configuration.",
     "affiliateUrl": "https://www.hellobar.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/hello-bar.svg",
+    "faq": [
+      {
+        "q": "What is Hello Bar?",
+        "a": "Top bars, popups & slide-ins"
+      },
+      {
+        "q": "How much does Hello Bar cost?",
+        "a": "Hello Bar pricing: $29–$99/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Hello Bar worth it for DTC brands?",
+        "a": "Hello Bar holds a 4.0/5 rating. It is a viable option in CRO & Popups for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "skio",
@@ -1323,108 +3126,269 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.2,
-    "pros": ["Smoother subscriber UX", "Easy migration from Recharge", "Passwordless", "Churn tools"],
-    "cons": ["Newer than Recharge", "Custom pricing"],
+    "pros": [
+      "Smoother subscriber UX",
+      "Easy migration from Recharge",
+      "Passwordless",
+      "Churn tools"
+    ],
+    "cons": [
+      "Newer than Recharge",
+      "Custom pricing"
+    ],
     "review": "Skio is the modern subscription engine with a far better subscriber self-service experience, a strong Recharge alternative for retention-focused brands.",
     "affiliateUrl": "https://www.skio.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/skio.svg",
+    "faq": [
+      {
+        "q": "What is Skio?",
+        "a": "Modern subscription UX (Recharge alternative)"
+      },
+      {
+        "q": "How much does Skio cost?",
+        "a": "Skio pricing: Custom. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Skio worth it for DTC brands?",
+        "a": "Skio holds a 4.2/5 rating. It is a viable option in Subscriptions & Loyalty for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "reconvert",
     "name": "ReConvert",
     "category": "subscription",
     "tagline": "Thank-you page upsells",
-    "pricing": "Free\u2013$49/mo",
+    "pricing": "Free–$49/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.3,
-    "pros": ["Thank-you page upsells", "Post-purchase funnel", "One-click bumps", "ROI focused"],
-    "cons": ["Post-purchase only", "Needs traffic"],
+    "pros": [
+      "Thank-you page upsells",
+      "Post-purchase funnel",
+      "One-click bumps",
+      "ROI focused"
+    ],
+    "cons": [
+      "Post-purchase only",
+      "Needs traffic"
+    ],
     "review": "ReConvert turns the thank-you page into a profit center with one-click upsells, one of the highest-ROI AOV tools you can add.",
     "affiliateUrl": "https://reconvert.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/reconvert.svg",
+    "faq": [
+      {
+        "q": "What is ReConvert?",
+        "a": "Thank-you page upsells"
+      },
+      {
+        "q": "How much does ReConvert cost?",
+        "a": "ReConvert pricing: Free–$49/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is ReConvert worth it for DTC brands?",
+        "a": "Yes — ReConvert earns a 4.3/5 editor rating and is a strong pick in the Subscriptions & Loyalty category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "frequently-bought-together",
     "name": "Frequently Bought Together",
     "category": "subscription",
     "tagline": "Cross-sell bundles on product pages",
-    "pricing": "$9.99\u2013$29.99/mo",
+    "pricing": "$9.99–$29.99/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.2,
-    "pros": ["Product-page bundles", "AI recommendations", "Discount nudges", "Easy setup"],
-    "cons": ["Cross-sell only", "Theme edits sometimes"],
+    "pros": [
+      "Product-page bundles",
+      "AI recommendations",
+      "Discount nudges",
+      "Easy setup"
+    ],
+    "cons": [
+      "Cross-sell only",
+      "Theme edits sometimes"
+    ],
     "review": "Frequently Bought Together adds Amazon-style bundles to product pages, a simple, proven AOV lift for catalog-heavy stores.",
     "affiliateUrl": "https://www.frequentlyboughttogether.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/frequently-bought-together.svg",
+    "faq": [
+      {
+        "q": "What is Frequently Bought Together?",
+        "a": "Cross-sell bundles on product pages"
+      },
+      {
+        "q": "How much does Frequently Bought Together cost?",
+        "a": "Frequently Bought Together pricing: $9.99–$29.99/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Frequently Bought Together worth it for DTC brands?",
+        "a": "Frequently Bought Together holds a 4.2/5 rating. It is a viable option in Subscriptions & Loyalty for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "carthook",
     "name": "CartHook",
     "category": "subscription",
     "tagline": "Abandoned-cart recovery & upsell",
-    "pricing": "$49\u2013paid tiers",
+    "pricing": "$49–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.1,
-    "pros": ["Abandoned-cart flows", "Post-purchase upsell", "Segmentation", "Shopify-native"],
-    "cons": ["Shopify-focused", "Add-ons"],
+    "pros": [
+      "Abandoned-cart flows",
+      "Post-purchase upsell",
+      "Segmentation",
+      "Shopify-native"
+    ],
+    "cons": [
+      "Shopify-focused",
+      "Add-ons"
+    ],
     "review": "CartHook recovers abandoned carts and adds post-purchase upsells, a focused revenue-recovery tool for stores leaving money on the table.",
     "affiliateUrl": "https://carthook.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/carthook.svg",
+    "faq": [
+      {
+        "q": "What is CartHook?",
+        "a": "Abandoned-cart recovery & upsell"
+      },
+      {
+        "q": "How much does CartHook cost?",
+        "a": "CartHook pricing: $49–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is CartHook worth it for DTC brands?",
+        "a": "CartHook holds a 4.1/5 rating. It is a viable option in Subscriptions & Loyalty for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "growave",
     "name": "Growave",
     "category": "subscription",
     "tagline": "Reviews + loyalty + UGC + wishlist",
-    "pricing": "$49\u2013$299/mo",
+    "pricing": "$49–$299/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.2,
-    "pros": ["All-in-one suite", "Reviews + loyalty + UGC", "Wishlist & referrals", "Good value bundle"],
-    "cons": ["Jack-of-all-trades", "Less deep per feature"],
+    "pros": [
+      "All-in-one suite",
+      "Reviews + loyalty + UGC",
+      "Wishlist & referrals",
+      "Good value bundle"
+    ],
+    "cons": [
+      "Jack-of-all-trades",
+      "Less deep per feature"
+    ],
     "review": "Growave bundles reviews, loyalty, UGC, wishlist and referrals into one suite, convenient if you want a single retention vendor.",
     "affiliateUrl": "https://growave.io",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/growave.svg",
+    "faq": [
+      {
+        "q": "What is Growave?",
+        "a": "Reviews + loyalty + UGC + wishlist"
+      },
+      {
+        "q": "How much does Growave cost?",
+        "a": "Growave pricing: $49–$299/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Growave worth it for DTC brands?",
+        "a": "Growave holds a 4.2/5 rating. It is a viable option in Subscriptions & Loyalty for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "aftership",
     "name": "AfterShip",
     "category": "fulfillment",
     "tagline": "Shipment tracking & returns",
-    "pricing": "Free\u2013paid tiers",
+    "pricing": "Free–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.3,
-    "pros": ["Multi-carrier tracking", "Returns center", "Delivery notifications", "Branded tracking page"],
-    "cons": ["Paid tiers for advanced", "Shopify-centric"],
+    "pros": [
+      "Multi-carrier tracking",
+      "Returns center",
+      "Delivery notifications",
+      "Branded tracking page"
+    ],
+    "cons": [
+      "Paid tiers for advanced",
+      "Shopify-centric"
+    ],
     "review": "AfterShip is the tracking and returns layer that keeps buyers informed post-purchase, reducing where-is-my-order tickets and building trust.",
     "affiliateUrl": "https://www.aftership.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/aftership.svg",
+    "faq": [
+      {
+        "q": "What is AfterShip?",
+        "a": "Shipment tracking & returns"
+      },
+      {
+        "q": "How much does AfterShip cost?",
+        "a": "AfterShip pricing: Free–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is AfterShip worth it for DTC brands?",
+        "a": "Yes — AfterShip earns a 4.3/5 editor rating and is a strong pick in the Fulfillment & Shipping category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "shippo",
     "name": "Shippo",
     "category": "fulfillment",
     "tagline": "Discounted shipping labels",
-    "pricing": "Free\u2013paid tiers",
+    "pricing": "Free–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.2,
-    "pros": ["Cheap USPS/UPS labels", "Multi-carrier", "Easy API", "Shopify app"],
-    "cons": ["Label-only (no fulfillment)", "Support varies"],
+    "pros": [
+      "Cheap USPS/UPS labels",
+      "Multi-carrier",
+      "Easy API",
+      "Shopify app"
+    ],
+    "cons": [
+      "Label-only (no fulfillment)",
+      "Support varies"
+    ],
     "review": "Shippo aggregates carrier rates so you buy discounted labels in one place, a practical step up from manual carrier portals for small volumes.",
     "affiliateUrl": "https://goshippo.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/shippo.svg",
+    "faq": [
+      {
+        "q": "What is Shippo?",
+        "a": "Discounted shipping labels"
+      },
+      {
+        "q": "How much does Shippo cost?",
+        "a": "Shippo pricing: Free–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Shippo worth it for DTC brands?",
+        "a": "Shippo holds a 4.2/5 rating. It is a viable option in Fulfillment & Shipping for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "shipmonk",
@@ -1435,28 +3399,74 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.3,
-    "pros": ["Fast pick & pack", "Real-time inventory", "Kitting & subscriptions", "Good dashboard"],
-    "cons": ["Minimum volume", "Fees vary by SKU"],
+    "pros": [
+      "Fast pick & pack",
+      "Real-time inventory",
+      "Kitting & subscriptions",
+      "Good dashboard"
+    ],
+    "cons": [
+      "Minimum volume",
+      "Fees vary by SKU"
+    ],
     "review": "ShipMonk is the tech-forward 3PL favored by scaling DTC brands for reliable pick-pack and subscription fulfillment once you outgrow self-ship.",
     "affiliateUrl": "https://www.shipmonk.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/shipmonk.svg",
+    "faq": [
+      {
+        "q": "What is ShipMonk?",
+        "a": "Tech-forward 3PL fulfillment"
+      },
+      {
+        "q": "How much does ShipMonk cost?",
+        "a": "ShipMonk pricing: Custom (volume-based). Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is ShipMonk worth it for DTC brands?",
+        "a": "Yes — ShipMonk earns a 4.3/5 editor rating and is a strong pick in the Fulfillment & Shipping category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "sendcloud",
     "name": "Sendcloud",
     "category": "fulfillment",
     "tagline": "EU shipping & returns automation",
-    "pricing": "Free\u2013paid tiers",
+    "pricing": "Free–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.1,
-    "pros": ["EU carrier network", "Returns portal", "Packing station", "Multi-channel"],
-    "cons": ["Europe-focused", "Setup for carriers"],
+    "pros": [
+      "EU carrier network",
+      "Returns portal",
+      "Packing station",
+      "Multi-channel"
+    ],
+    "cons": [
+      "Europe-focused",
+      "Setup for carriers"
+    ],
     "review": "Sendcloud automates shipping and returns across European carriers, a strong fit for EU-facing stores that need localized delivery options.",
     "affiliateUrl": "https://sendcloud.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/sendcloud.svg",
+    "faq": [
+      {
+        "q": "What is Sendcloud?",
+        "a": "EU shipping & returns automation"
+      },
+      {
+        "q": "How much does Sendcloud cost?",
+        "a": "Sendcloud pricing: Free–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Sendcloud worth it for DTC brands?",
+        "a": "Sendcloud holds a 4.1/5 rating. It is a viable option in Fulfillment & Shipping for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "pirate-ship",
@@ -1467,12 +3477,35 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.4,
-    "pros": ["Free to use", "Cheap USPS/UPS rates", "Simple UI", "No monthly fee"],
-    "cons": ["US-only", "No fulfillment"],
+    "pros": [
+      "Free to use",
+      "Cheap USPS/UPS rates",
+      "Simple UI",
+      "No monthly fee"
+    ],
+    "cons": [
+      "US-only",
+      "No fulfillment"
+    ],
     "review": "Pirate Ship passes through discounted USPS and UPS rates with no fees, the go-to for US sellers shipping low volumes who want the best label price.",
     "affiliateUrl": "https://www.pirateship.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/pirate-ship.svg",
+    "faq": [
+      {
+        "q": "What is Pirate Ship?",
+        "a": "Free USPS & UPS label platform"
+      },
+      {
+        "q": "How much does Pirate Ship cost?",
+        "a": "Pirate Ship pricing: Free (carrier rates). Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Pirate Ship worth it for DTC brands?",
+        "a": "Yes — Pirate Ship earns a 4.4/5 editor rating and is a strong pick in the Fulfillment & Shipping category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "route",
@@ -1482,29 +3515,75 @@
     "pricing": "Usage-based",
     "commission": "N/A",
     "cookie": "n/a",
-    "rating": 4.0,
-    "pros": ["Lost/damaged protection", "Order tracking app", "Green project", "Upsell at checkout"],
-    "cons": ["Adds checkout step", "Customers can opt out"],
+    "rating": 4,
+    "pros": [
+      "Lost/damaged protection",
+      "Order tracking app",
+      "Green project",
+      "Upsell at checkout"
+    ],
+    "cons": [
+      "Adds checkout step",
+      "Customers can opt out"
+    ],
     "review": "Route adds package protection and a slick tracking experience at checkout, turning shipping anxiety into a small revenue and trust win.",
     "affiliateUrl": "https://route.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/route.svg",
+    "faq": [
+      {
+        "q": "What is Route?",
+        "a": "Package protection & tracking"
+      },
+      {
+        "q": "How much does Route cost?",
+        "a": "Route pricing: Usage-based. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Route worth it for DTC brands?",
+        "a": "Route holds a 4.0/5 rating. It is a viable option in Fulfillment & Shipping for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "helpscout",
     "name": "Help Scout",
     "category": "support",
     "tagline": "Human, lightweight help desk",
-    "pricing": "$20\u2013paid tiers",
+    "pricing": "$20–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.3,
-    "pros": ["Shared inbox", "Docs & live chat", "Human feel", "Easy onboarding"],
-    "cons": ["Less enterprise", "No phone"],
+    "pros": [
+      "Shared inbox",
+      "Docs & live chat",
+      "Human feel",
+      "Easy onboarding"
+    ],
+    "cons": [
+      "Less enterprise",
+      "No phone"
+    ],
     "review": "Help Scout keeps support feeling personal with a shared inbox and docs, a good step up from Tawk.to for small teams that want a real help desk.",
     "affiliateUrl": "https://www.helpscout.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/helpscout.svg",
+    "faq": [
+      {
+        "q": "What is Help Scout?",
+        "a": "Human, lightweight help desk"
+      },
+      {
+        "q": "How much does Help Scout cost?",
+        "a": "Help Scout pricing: $20–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Help Scout worth it for DTC brands?",
+        "a": "Yes — Help Scout earns a 4.3/5 editor rating and is a strong pick in the Customer Support category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "intercom",
@@ -1515,76 +3594,191 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.1,
-    "pros": ["Fin AI agent", "Proactive messaging", "Omni-channel", "Rich integrations"],
-    "cons": ["Expensive", "Complex pricing"],
+    "pros": [
+      "Fin AI agent",
+      "Proactive messaging",
+      "Omni-channel",
+      "Rich integrations"
+    ],
+    "cons": [
+      "Expensive",
+      "Complex pricing"
+    ],
     "review": "Intercom blends a powerful AI agent with proactive messaging across channels, best for teams that want a polished, productized support experience.",
     "affiliateUrl": "https://www.intercom.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/intercom.svg",
+    "faq": [
+      {
+        "q": "What is Intercom?",
+        "a": "Productized customer messaging"
+      },
+      {
+        "q": "How much does Intercom cost?",
+        "a": "Intercom pricing: Custom. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Intercom worth it for DTC brands?",
+        "a": "Intercom holds a 4.1/5 rating. It is a viable option in Customer Support for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "zoho-desk",
     "name": "Zoho Desk",
     "category": "support",
     "tagline": "Affordable omnichannel desk",
-    "pricing": "$14\u2013paid tiers",
+    "pricing": "$14–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.1,
-    "pros": ["Low cost", "Omnichannel", "AI assist", "Zoho ecosystem"],
-    "cons": ["UI dated", "Best with Zoho suite"],
+    "pros": [
+      "Low cost",
+      "Omnichannel",
+      "AI assist",
+      "Zoho ecosystem"
+    ],
+    "cons": [
+      "UI dated",
+      "Best with Zoho suite"
+    ],
     "review": "Zoho Desk is the budget-friendly omnichannel help desk, especially cost-effective if you already use other Zoho products.",
     "affiliateUrl": "https://www.zoho.com/desk",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/zoho-desk.svg",
+    "faq": [
+      {
+        "q": "What is Zoho Desk?",
+        "a": "Affordable omnichannel desk"
+      },
+      {
+        "q": "How much does Zoho Desk cost?",
+        "a": "Zoho Desk pricing: $14–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Zoho Desk worth it for DTC brands?",
+        "a": "Zoho Desk holds a 4.1/5 rating. It is a viable option in Customer Support for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "livechat",
     "name": "LiveChat",
     "category": "support",
     "tagline": "Live chat & help desk",
-    "pricing": "$20\u2013paid tiers",
+    "pricing": "$20–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.2,
-    "pros": ["Mature chat", "Tickets & AI", "Integrations", "Mobile apps"],
-    "cons": ["Seat-based pricing", "Add-ons cost"],
+    "pros": [
+      "Mature chat",
+      "Tickets & AI",
+      "Integrations",
+      "Mobile apps"
+    ],
+    "cons": [
+      "Seat-based pricing",
+      "Add-ons cost"
+    ],
     "review": "LiveChat is the established live-chat and help-desk tool with a large integration marketplace, reliable for stores wanting chat plus ticketing.",
     "affiliateUrl": "https://www.livechat.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/livechat.svg",
+    "faq": [
+      {
+        "q": "What is LiveChat?",
+        "a": "Live chat & help desk"
+      },
+      {
+        "q": "How much does LiveChat cost?",
+        "a": "LiveChat pricing: $20–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is LiveChat worth it for DTC brands?",
+        "a": "LiveChat holds a 4.2/5 rating. It is a viable option in Customer Support for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "chatra",
     "name": "Chatra",
     "category": "support",
     "tagline": "Chat + cart-saver bots",
-    "pricing": "Free\u2013paid tiers",
+    "pricing": "Free–paid tiers",
     "commission": "N/A",
     "cookie": "n/a",
-    "rating": 4.0,
-    "pros": ["Live chat + bot", "Cart-saver triggers", "Targeted messages", "Affordable"],
-    "cons": ["Smaller brand", "Less deep than Intercom"],
+    "rating": 4,
+    "pros": [
+      "Live chat + bot",
+      "Cart-saver triggers",
+      "Targeted messages",
+      "Affordable"
+    ],
+    "cons": [
+      "Smaller brand",
+      "Less deep than Intercom"
+    ],
     "review": "Chatra pairs live chat with cart-saving automation, a lean option for small stores that want to recover abandoned carts through conversation.",
     "affiliateUrl": "https://chatra.io",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/chatra.svg",
+    "faq": [
+      {
+        "q": "What is Chatra?",
+        "a": "Chat + cart-saver bots"
+      },
+      {
+        "q": "How much does Chatra cost?",
+        "a": "Chatra pricing: Free–paid tiers. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Chatra worth it for DTC brands?",
+        "a": "Chatra holds a 4.0/5 rating. It is a viable option in Customer Support for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "ecwid",
     "name": "Ecwid",
     "category": "storebuilder",
     "tagline": "Add a store to any website or social",
-    "pricing": "Free\u2013$99/mo",
+    "pricing": "Free–$99/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.2,
-    "pros": ["Works on any site", "Facebook/Instagram selling", "No migration needed", "Free tier"],
-    "cons": ["Less commerce depth than Shopify", "Add-on costs"],
+    "pros": [
+      "Works on any site",
+      "Facebook/Instagram selling",
+      "No migration needed",
+      "Free tier"
+    ],
+    "cons": [
+      "Less commerce depth than Shopify",
+      "Add-on costs"
+    ],
     "review": "Ecwid drops a storefront onto an existing site or social profile, so you can start selling without rebuilding. Convenient for established sites adding commerce.",
     "affiliateUrl": "https://www.ecwid.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/ecwid.svg",
+    "faq": [
+      {
+        "q": "What is Ecwid?",
+        "a": "Add a store to any website or social"
+      },
+      {
+        "q": "How much does Ecwid cost?",
+        "a": "Ecwid pricing: Free–$99/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Ecwid worth it for DTC brands?",
+        "a": "Ecwid holds a 4.2/5 rating. It is a viable option in Store Builders for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "shift4shop",
@@ -1595,60 +3789,152 @@
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 3.9,
-    "pros": ["Free plan available", "Built-in payment processing", "SEO features", "No transaction fees on free tier"],
-    "cons": ["Dated UI", "Best with Shift4 payments"],
+    "pros": [
+      "Free plan available",
+      "Built-in payment processing",
+      "SEO features",
+      "No transaction fees on free tier"
+    ],
+    "cons": [
+      "Dated UI",
+      "Best with Shift4 payments"
+    ],
     "review": "Shift4Shop offers a genuinely free hosted store when you use its payments, which is rare. Pragmatic for budget-first sellers who can tolerate an older interface.",
     "affiliateUrl": "https://www.shift4shop.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/shift4shop.svg",
+    "faq": [
+      {
+        "q": "What is Shift4Shop?",
+        "a": "Free hosted store with built-in payments"
+      },
+      {
+        "q": "How much does Shift4Shop cost?",
+        "a": "Shift4Shop pricing: Free (with Shift4 payments) or $29/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Shift4Shop worth it for DTC brands?",
+        "a": "Shift4Shop holds a 3.9/5 rating. It is a viable option in Store Builders for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "volusion",
     "name": "Volusion",
     "category": "storebuilder",
     "tagline": "Established hosted ecommerce SaaS",
-    "pricing": "$31\u2013$299/mo",
+    "pricing": "$31–$299/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 3.8,
-    "pros": ["Long track record", "Built-in features", "Inventory management", "No transaction fees"],
-    "cons": ["Less modern UX", "Limited themes"],
+    "pros": [
+      "Long track record",
+      "Built-in features",
+      "Inventory management",
+      "No transaction fees"
+    ],
+    "cons": [
+      "Less modern UX",
+      "Limited themes"
+    ],
     "review": "Volusion is a long-running hosted platform with solid built-in commerce features. Reliable but less flashy than the newer builders.",
     "affiliateUrl": "https://www.volusion.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/volusion.svg",
+    "faq": [
+      {
+        "q": "What is Volusion?",
+        "a": "Established hosted ecommerce SaaS"
+      },
+      {
+        "q": "How much does Volusion cost?",
+        "a": "Volusion pricing: $31–$299/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Volusion worth it for DTC brands?",
+        "a": "Volusion holds a 3.8/5 rating. It is a viable option in Store Builders for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "sellfy",
     "name": "Sellfy",
     "category": "storebuilder",
     "tagline": "Sell digital products, subscriptions & merch",
-    "pricing": "$19\u2013$99/mo",
+    "pricing": "$19–$99/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.1,
-    "pros": ["Digital + physical + subscriptions", "Easy setup", "Built-in email", "Pay-what-you-want"],
-    "cons": ["Smaller app ecosystem", "Limited customization"],
+    "pros": [
+      "Digital + physical + subscriptions",
+      "Easy setup",
+      "Built-in email",
+      "Pay-what-you-want"
+    ],
+    "cons": [
+      "Smaller app ecosystem",
+      "Limited customization"
+    ],
     "review": "Sellfy targets creators selling digital products, memberships and print-on-demand from one store. A lean choice for digital-first brands.",
     "affiliateUrl": "https://sellfy.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/sellfy.svg",
+    "faq": [
+      {
+        "q": "What is Sellfy?",
+        "a": "Sell digital products, subscriptions & merch"
+      },
+      {
+        "q": "How much does Sellfy cost?",
+        "a": "Sellfy pricing: $19–$99/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Sellfy worth it for DTC brands?",
+        "a": "Sellfy holds a 4.1/5 rating. It is a viable option in Store Builders for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "podia",
     "name": "Podia",
     "category": "storebuilder",
     "tagline": "Courses, memberships & digital downloads",
-    "pricing": "$33\u2013$89/mo",
+    "pricing": "$33–$89/mo",
     "commission": "N/A",
     "cookie": "n/a",
     "rating": 4.3,
-    "pros": ["Courses + memberships", "No transaction fees on higher tiers", "Email built in", "Simple editor"],
-    "cons": ["Not for physical goods", "Fewer storefront themes"],
+    "pros": [
+      "Courses + memberships",
+      "No transaction fees on higher tiers",
+      "Email built in",
+      "Simple editor"
+    ],
+    "cons": [
+      "Not for physical goods",
+      "Fewer storefront themes"
+    ],
     "review": "Podia bundles courses, memberships and downloads with email, so creators run an entire knowledge business from one place. Strong fit for education-led brands.",
     "affiliateUrl": "https://podia.com",
     "affiliate": false,
-    "lastReviewed": "2026-08-30"
+    "lastReviewed": "2026-08-30",
+    "screenshot": "/screenshots/podia.svg",
+    "faq": [
+      {
+        "q": "What is Podia?",
+        "a": "Courses, memberships & digital downloads"
+      },
+      {
+        "q": "How much does Podia cost?",
+        "a": "Podia pricing: $33–$89/mo. Affiliates earn N/A with a n/a cookie window."
+      },
+      {
+        "q": "Is Podia worth it for DTC brands?",
+        "a": "Yes — Podia earns a 4.3/5 editor rating and is a strong pick in the Store Builders category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "elevenlabs",
@@ -1659,13 +3945,36 @@
     "commission": "15% recurring (partner)",
     "cookie": "30 days",
     "rating": 4.6,
-    "pros": ["Studio-quality AI voices", "Multilingual dubbing", "API & integrations", "Great for UGC video"],
-    "cons": ["Can sound synthetic if misused", "Costs scale with usage"],
+    "pros": [
+      "Studio-quality AI voices",
+      "Multilingual dubbing",
+      "API & integrations",
+      "Great for UGC video"
+    ],
+    "cons": [
+      "Can sound synthetic if misused",
+      "Costs scale with usage"
+    ],
     "review": "ElevenLabs turns scripts into natural voiceovers and dubs, letting a one-person DTC brand produce multilingual product videos without a studio. Strong ROI for content-heavy stores.",
     "affiliateUrl": "https://elevenlabs.io?ref=dtcwise",
     "affiliate": true,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/elevenlabs.svg",
+    "faq": [
+      {
+        "q": "What is ElevenLabs?",
+        "a": "AI voice & dubbing for product videos"
+      },
+      {
+        "q": "How much does ElevenLabs cost?",
+        "a": "ElevenLabs pricing: Free–$99/mo. Affiliates earn 15% recurring (partner) with a 30 days cookie window."
+      },
+      {
+        "q": "Is ElevenLabs worth it for DTC brands?",
+        "a": "Yes — ElevenLabs earns a 4.6/5 editor rating and is a strong pick in the AI Content category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "bigspy",
@@ -1676,13 +3985,36 @@
     "commission": "30% recurring (reseller)",
     "cookie": "60 days",
     "rating": 4.1,
-    "pros": ["Large ad creative library", "Multi-network coverage", "Winning-product finder", "Affordable entry tier"],
-    "cons": ["UI can feel busy", "Data lag on free tier"],
+    "pros": [
+      "Large ad creative library",
+      "Multi-network coverage",
+      "Winning-product finder",
+      "Affordable entry tier"
+    ],
+    "cons": [
+      "UI can feel busy",
+      "Data lag on free tier"
+    ],
     "review": "BigSpy lets you reverse-engineer what competitors run across Facebook, Google and TikTok, so you start with proven creatives and angles instead of guessing.",
     "affiliateUrl": "https://bigspy.com?ref=dtcwise",
     "affiliate": true,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/bigspy.svg",
+    "faq": [
+      {
+        "q": "What is BigSpy?",
+        "a": "Spy on competitors' Facebook, Google & TikTok ads"
+      },
+      {
+        "q": "How much does BigSpy cost?",
+        "a": "BigSpy pricing: $9–$499/mo. Affiliates earn 30% recurring (reseller) with a 60 days cookie window."
+      },
+      {
+        "q": "Is BigSpy worth it for DTC brands?",
+        "a": "BigSpy holds a 4.1/5 rating. It is a viable option in Ad Spy for stores that prioritize its specific strengths over broader alternatives."
+      }
+    ]
   },
   {
     "id": "airwallex",
@@ -1693,13 +4025,36 @@
     "commission": "Referral (partner)",
     "cookie": "n/a",
     "rating": 4.4,
-    "pros": ["Multi-currency accounts", "Lower FX fees", "Shopify & platform integrations", "Global payouts"],
-    "cons": ["Not a full acquirer everywhere", "Onboarding for some regions"],
+    "pros": [
+      "Multi-currency accounts",
+      "Lower FX fees",
+      "Shopify & platform integrations",
+      "Global payouts"
+    ],
+    "cons": [
+      "Not a full acquirer everywhere",
+      "Onboarding for some regions"
+    ],
     "review": "Airwallex cuts FX and cross-border fees for global DTC brands, making it easier to collect in local currencies and pay suppliers worldwide without leaking margin to banks.",
     "affiliateUrl": "https://www.airwallex.com?ref=dtcwise",
     "affiliate": true,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/airwallex.svg",
+    "faq": [
+      {
+        "q": "What is Airwallex?",
+        "a": "Global payments & FX for cross-border sellers"
+      },
+      {
+        "q": "How much does Airwallex cost?",
+        "a": "Airwallex pricing: Per-transaction / custom. Affiliates earn Referral (partner) with a n/a cookie window."
+      },
+      {
+        "q": "Is Airwallex worth it for DTC brands?",
+        "a": "Yes — Airwallex earns a 4.4/5 editor rating and is a strong pick in the Payments & FX category for DTC and independent store operators."
+      }
+    ]
   },
   {
     "id": "chargeflow",
@@ -1710,12 +4065,35 @@
     "commission": "Revenue share (partner)",
     "cookie": "n/a",
     "rating": 4.3,
-    "pros": ["Automated chargeback disputes", "AI evidence packs", "Shopify-native", "No upfront cost"],
-    "cons": ["Shopify-focused", "Takes a cut of recovered funds"],
+    "pros": [
+      "Automated chargeback disputes",
+      "AI evidence packs",
+      "Shopify-native",
+      "No upfront cost"
+    ],
+    "cons": [
+      "Shopify-focused",
+      "Takes a cut of recovered funds"
+    ],
     "review": "Chargeflow fights chargebacks for you with AI-generated evidence, recovering revenue you'd otherwise write off — a quiet but high-leverage tool for stores with any dispute volume.",
     "affiliateUrl": "https://chargeflow.io?ref=dtcwise",
     "affiliate": true,
     "lastReviewed": "2026-08-30",
-    "featured": false
+    "featured": false,
+    "screenshot": "/screenshots/chargeflow.svg",
+    "faq": [
+      {
+        "q": "What is Chargeflow?",
+        "a": "AI chargeback recovery for Shopify"
+      },
+      {
+        "q": "How much does Chargeflow cost?",
+        "a": "Chargeflow pricing: % of recovered. Affiliates earn Revenue share (partner) with a n/a cookie window."
+      },
+      {
+        "q": "Is Chargeflow worth it for DTC brands?",
+        "a": "Yes — Chargeflow earns a 4.3/5 editor rating and is a strong pick in the Payments & FX category for DTC and independent store operators."
+      }
+    ]
   }
 ]

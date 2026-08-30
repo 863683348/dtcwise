@@ -17,6 +17,7 @@ export interface Tool {
   lastReviewed: string;
   featured?: boolean;
   tagline?: string;
+  faq?: { q: string; a: string }[];
 }
 
 export const tools = data as Tool[];

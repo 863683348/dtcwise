@@ -22,6 +22,17 @@ export default function ToolCard({ tool }: { tool: Tool }) {
       onMouseMove={handleMouseMove}
       style={{ padding: 16, display: "flex", flexDirection: "column", gap: 10 }}
     >
+      {tool.screenshot && (
+        <div className="card-media">
+          <img
+            src={tool.screenshot}
+            alt={`${tool.name} preview`}
+            className="card-zoom"
+            loading="lazy"
+            style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }}
+          />
+        </div>
+      )}
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", gap: 8 }}>
         <div>
           <h3 className="card-title" style={{ margin: 0, fontSize: 17, fontWeight: 700 }}>

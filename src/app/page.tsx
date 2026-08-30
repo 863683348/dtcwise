@@ -2,6 +2,7 @@ import Link from "next/link";
 import ToolSearch from "@/components/ToolSearch";
 import ToolCard from "@/components/ToolCard";
 import SpotlightLink from "@/components/SpotlightLink";
+import NewsletterSignup from "@/components/NewsletterSignup";
 import { categories, getFeatured, getMonthlyRanking } from "@/lib/tools";
 import { getLatest } from "@/lib/blog";
 
@@ -121,6 +122,8 @@ export default function Home() {
           ))}
         </div>
       </section>
+
+      <NewsletterSignup />
 
       <section
         className="card"
