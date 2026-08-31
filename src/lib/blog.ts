@@ -20,3 +20,11 @@ export function getLatest(limit = 3): Post[] {
     .sort((a, b) => (a.date < b.date ? 1 : -1))
     .slice(0, limit);
 }
+
+export function getRelated(slug: string, limit = 3): Post[] {
+  const post = getPost(slug);
+  if (!post) return [];
+  return posts
+    .filter((p) => p.slug !== slug && p.category === post.category)
+    .slice(0, limit);
+}

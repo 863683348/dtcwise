@@ -23,7 +23,6 @@ export function buildMetadata({
     keywords,
     alternates: {
       canonical: url,
-      languages: { "en-US": url, "zh-CN": url },
     },
     openGraph: {
       title,
