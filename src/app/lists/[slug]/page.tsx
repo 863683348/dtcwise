@@ -76,6 +76,46 @@ export default function ListPage({ params }: { params: { slug: string } }) {
       </div>
 
       <div className="card" style={{ marginTop: 28, padding: 20, background: "var(--surface)" }}>
+        <h2 style={{ marginTop: 0, fontSize: 18 }}>At a glance</h2>
+        <div style={{ overflowX: "auto" }}>
+          <table style={{ width: "100%", borderCollapse: "collapse", fontSize: 14, minWidth: 520 }}>
+            <thead>
+              <tr style={{ borderBottom: "1px solid var(--border)", textAlign: "left" }}>
+                <th style={{ padding: "8px 10px" }}>Tool</th>
+                <th style={{ padding: "8px 10px" }}>Pricing</th>
+                <th style={{ padding: "8px 10px" }}>Rating</th>
+                <th style={{ padding: "8px 10px" }}>Best for</th>
+              </tr>
+            </thead>
+            <tbody>
+              {picks.map((t) => (
+                <tr key={t!.id} style={{ borderBottom: "1px solid var(--border)" }}>
+                  <td style={{ padding: "8px 10px" }}>
+                    <Link href={`/tool/${t!.id}`} style={{ textDecoration: "none", fontWeight: 600 }}>{t!.name}</Link>
+                  </td>
+                  <td style={{ padding: "8px 10px" }}>{t!.pricing}</td>
+                  <td style={{ padding: "8px 10px" }}>
+                    <span className="stars">{"\u2605"} {t!.rating.toFixed(1)}</span>
+                  </td>
+                  <td style={{ padding: "8px 10px" }} className="muted">{t!.tagline}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div className="card" style={{ marginTop: 24, padding: 20 }}>
+        <h2 style={{ marginTop: 0, fontSize: 18 }}>How to choose</h2>
+        <p className="muted" style={{ lineHeight: 1.7, margin: 0 }}>
+          Lead with where your suppliers live. If you want US/EU delivery speed, weight Spocket and Zendrop
+          higher; if you source from AliExpress at scale, DSers is the bulk-ordering default; if you want
+          hands-off multi-channel automation, AutoDS and Syncee earn their place. Match the tool to your
+          shipping promise, not to the biggest ad budget \u2014 then open any review above for the full pros and cons.
+        </p>
+      </div>
+
+      <div className="card" style={{ marginTop: 28, padding: 20, background: "var(--surface)" }}>
         <h2 style={{ marginTop: 0, fontSize: 18 }}>Editor&apos;s take</h2>
         <p className="muted" style={{ lineHeight: 1.7, margin: 0 }}>{list.editorial}</p>
       </div>

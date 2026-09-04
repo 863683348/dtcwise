@@ -6,6 +6,7 @@ import { buildMetadata } from "@/lib/seo";
 import {
   parseCompareSlug,
   categoryLabel,
+  siteUrl,
 } from "@/lib/tools";
 
 export function generateMetadata({ params }: { params: { slug: string } }): Metadata {
@@ -43,8 +44,79 @@ export default function ComparePage({ params }: { params: { slug: string } }) {
   if (!pair) notFound();
   const [a, b] = pair;
 
+  const breadcrumbLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: siteUrl },
+      { "@type": "ListItem", position: 2, name: categoryLabel(a.category), item: `${siteUrl}/category/${a.category}` },
+      { "@type": "ListItem", position: 3, name: `${a.name} vs ${b.name}`, item: `${siteUrl}/compare/${params.slug}` },
+    ],
+  };
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        item: {
+          "@type": "SoftwareApplication",
+          name: a.name,
+          applicationCategory: "BusinessApplication",
+          category: categoryLabel(a.category),
+          description: a.review,
+          aggregateRating: { "@type": "AggregateRating", ratingValue: a.rating, bestRating: 5, ratingCount: 1 },
+          offers: { "@type": "Offer", price: a.pricing, priceCurrency: "USD" },
+        },
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        item: {
+          "@type": "SoftwareApplication",
+          name: b.name,
+          applicationCategory: "BusinessApplication",
+          category: categoryLabel(b.category),
+          description: b.review,
+          aggregateRating: { "@type": "AggregateRating", ratingValue: b.rating, bestRating: 5, ratingCount: 1 },
+          offers: { "@type": "Offer", price: b.pricing, priceCurrency: "USD" },
+        },
+      },
+    ],
+  };
+
+  const faqLd = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: [
+      {
+        "@type": "Question",
+        name: `Which is better, ${a.name} or ${b.name}?`,
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: `${a.name} and ${b.name} serve the same ${categoryLabel(a.category).toLowerCase()} use case with different strengths. Compare the pricing, pros and cons above, then pick by your budget, shipping or target regions, and must-have features. There is no single winner \u2014 only the better fit for your store.`,
+        },
+      },
+    ],
+  };
+
   return (
     <div className="container-page" style={{ paddingTop: 32, paddingBottom: 40 }}>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }}
+      />
+
       <Link href={`/category/${a.category}`} className="muted" style={{ textDecoration: "none", fontSize: 14 }}>
         &larr; {categoryLabel(a.category)}
       </Link>
@@ -83,6 +155,16 @@ export default function ComparePage({ params }: { params: { slug: string } }) {
             {b.affiliate ? `Try ${b.name}` : `Visit ${b.name}`}
           </a>
         </div>
+      </div>
+
+      <div className="card" style={{ marginTop: 24, padding: 18, background: "var(--surface)" }}>
+        <h3 style={{ marginTop: 0, fontSize: 17 }}>How to choose between {a.name} and {b.name}</h3>
+        <p className="muted" style={{ fontSize: 14, lineHeight: 1.7, margin: 0 }}>
+          Both tools are editors&apos; picks in {categoryLabel(a.category)}. Start from the row that matters most
+          to your store \u2014 usually pricing and the pros/cons above \u2014 then weigh shipping or target regions
+          and the features you will actually use. The &ldquo;better&rdquo; tool is the one that fits your budget and
+          catalog, not the one with the higher editor score.
+        </p>
       </div>
 
       <p className="muted" style={{ fontSize: 13, marginTop: 24 }}>

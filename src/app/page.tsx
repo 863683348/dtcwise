@@ -3,8 +3,22 @@ import ToolSearch from "@/components/ToolSearch";
 import ToolCard from "@/components/ToolCard";
 import SpotlightLink from "@/components/SpotlightLink";
 import NewsletterSignup from "@/components/NewsletterSignup";
-import { categories, getFeatured, getMonthlyRanking } from "@/lib/tools";
+import { categories, getFeatured, getMonthlyRanking, siteUrl } from "@/lib/tools";
 import { getLatest } from "@/lib/blog";
+
+export const metadata = {
+  alternates: {
+    canonical: siteUrl,
+    languages: { "en-US": siteUrl, "zh-CN": siteUrl },
+  },
+};
+
+// P0 内链：从首页精准指向 3 个高展示深排名页，集中传递权重
+const DEEP_DIVES = [
+  { href: "/tool/sellvia", title: "Sellvia review", blurb: "US warehouse, 1–3 day delivery — the speed-first dropshipping stack." },
+  { href: "/alternatives/mangools", title: "Mangools alternatives", blurb: "Budget SEO suites like Mangools, ranked and compared for DTC stores." },
+  { href: "/tool/mangools", title: "Mangools review", blurb: "KWFinder and the budget SEO suite — pricing, pros and cons." },
+];
 
 export default function Home() {
   const featured = getFeatured();
@@ -24,6 +38,29 @@ export default function Home() {
       </section>
 
       <ToolSearch />
+
+      <section style={{ marginTop: 48 }}>
+        <h2 style={{ fontSize: 22, marginBottom: 16 }}>Most-researched deep dives</h2>
+        <div
+          style={{
+            display: "grid",
+            gridTemplateColumns: "repeat(auto-fill, minmax(260px, 1fr))",
+            gap: 14,
+          }}
+        >
+          {DEEP_DIVES.map((d) => (
+            <SpotlightLink
+              key={d.href}
+              href={d.href}
+              className="card card-interactive card-spotlight"
+              style={{ padding: 16, textDecoration: "none", display: "block" }}
+            >
+              <div className="card-title" style={{ fontWeight: 700, fontSize: 16 }}>{d.title}</div>
+              <div className="muted" style={{ fontSize: 13, marginTop: 6 }}>{d.blurb}</div>
+            </SpotlightLink>
+          ))}
+        </div>
+      </section>
 
       <section style={{ marginTop: 56 }}>
         <h2 style={{ fontSize: 22, marginBottom: 16 }}>Browse by category</h2>

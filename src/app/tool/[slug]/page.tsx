@@ -7,7 +7,9 @@ import {
   tools,
   getTool,
   getAlternatives,
+  getCompareFor,
   categoryLabel,
+  siteUrl,
 } from "@/lib/tools";
 
 export function generateStaticParams() {
@@ -30,6 +32,7 @@ export default function ToolPage({ params }: { params: { slug: string } }) {
   if (!tool) notFound();
 
   const alternatives = getAlternatives(tool.id);
+  const compareSlug = getCompareFor(tool.id);
   const rel = tool.affiliate ? "nofollow sponsored noopener" : "nofollow noopener";
 
   const jsonLd = {
@@ -61,6 +64,16 @@ export default function ToolPage({ params }: { params: { slug: string } }) {
         }
       : null;
 
+  const breadcrumbLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: siteUrl },
+      { "@type": "ListItem", position: 2, name: categoryLabel(tool.category), item: `${siteUrl}/category/${tool.category}` },
+      { "@type": "ListItem", position: 3, name: tool.name, item: `${siteUrl}/tool/${tool.id}` },
+    ],
+  };
+
   return (
     <div className="container-page" style={{ paddingTop: 32, paddingBottom: 40 }}>
       <script
@@ -73,6 +86,10 @@ export default function ToolPage({ params }: { params: { slug: string } }) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }}
         />
       )}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
+      />
 
       <Link href={`/category/${tool.category}`} className="muted" style={{ textDecoration: "none", fontSize: 14 }}>
         &larr; {categoryLabel(tool.category)}
@@ -144,6 +161,56 @@ export default function ToolPage({ params }: { params: { slug: string } }) {
         </div>
       </div>
 
+      {tool.bestFor && (
+        <div
+          className="card"
+          style={{ marginTop: 28, padding: 16, background: "var(--surface)", borderLeft: "4px solid var(--brand)" }}
+        >
+          <span className="muted" style={{ fontSize: 12, textTransform: "uppercase", letterSpacing: "0.5px" }}>Best for</span>
+          <p style={{ margin: "6px 0 0", lineHeight: 1.6 }}>{tool.bestFor}</p>
+        </div>
+      )}
+
+      {tool.longReview && tool.longReview.length > 0 && (
+        <section style={{ marginTop: 36 }}>
+          <h2 style={{ fontSize: 24, marginBottom: 12 }}>Detailed assessment</h2>
+          <div style={{ maxWidth: 760 }}>
+            {tool.longReview.map((para, i) => (
+              <p key={i} style={{ lineHeight: 1.8, margin: "0 0 16px", fontSize: 15 }}>{para}</p>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {tool.pricingTiers && tool.pricingTiers.length > 0 && (
+        <section style={{ marginTop: 36 }}>
+          <h2 style={{ fontSize: 24, marginBottom: 12 }}>Pricing plans</h2>
+          <div style={{ overflowX: "auto" }}>
+            <table style={{ width: "100%", borderCollapse: "collapse", fontSize: 14, minWidth: 480 }}>
+              <thead>
+                <tr style={{ background: "var(--surface)", textAlign: "left" }}>
+                  <th style={{ padding: "10px 12px", borderBottom: "1px solid var(--border)" }}>Plan</th>
+                  <th style={{ padding: "10px 12px", borderBottom: "1px solid var(--border)" }}>Price</th>
+                  <th style={{ padding: "10px 12px", borderBottom: "1px solid var(--border)" }}>What&apos;s included</th>
+                </tr>
+              </thead>
+              <tbody>
+                {tool.pricingTiers.map((tier) => (
+                  <tr key={tier.name}>
+                    <td style={{ padding: "10px 12px", borderBottom: "1px solid var(--border)", fontWeight: 600 }}>{tier.name}</td>
+                    <td style={{ padding: "10px 12px", borderBottom: "1px solid var(--border)" }}>{tier.price}</td>
+                    <td style={{ padding: "10px 12px", borderBottom: "1px solid var(--border)" }} className="muted">{tier.note}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+          <p className="muted" style={{ fontSize: 13, marginTop: 10 }}>
+            Prices are list rates at review time and change often \u2014 confirm on the vendor site before buying.
+          </p>
+        </section>
+      )}
+
       {alternatives.length > 0 && (
         <section style={{ marginTop: 48 }}>
           <h2 style={{ fontSize: 22, marginBottom: 16 }}>Alternatives to {tool.name}</h2>
@@ -158,6 +225,18 @@ export default function ToolPage({ params }: { params: { slug: string } }) {
               <ToolCard key={a.id} tool={a} />
             ))}
           </div>
+        </section>
+      )}
+
+      {compareSlug && (
+        <section style={{ marginTop: 32 }}>
+          <Link
+            href={`/compare/${compareSlug}`}
+            className="btn-ghost"
+            style={{ textDecoration: "none" }}
+          >
+            See how {tool.name} compares head-to-head &rarr;
+          </Link>
         </section>
       )}
 

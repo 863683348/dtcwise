@@ -18,6 +18,10 @@ export interface Tool {
   featured?: boolean;
   tagline?: string;
   faq?: { q: string; a: string }[];
+  // 深度评测扩展字段（P0：高展示深排名页提权，扩充到 800+ 字）
+  longReview?: string[];
+  bestFor?: string;
+  pricingTiers?: { name: string; price: string; note: string }[];
 }
 
 export const tools = data as Tool[];
@@ -81,6 +85,14 @@ export function getAlternatives(id: string): Tool[] {
   const tool = getTool(id);
   if (!tool) return [];
   return getByCategory(tool.category).filter((t) => t.id !== id);
+}
+
+// 找一个包含该工具的对比页 slug（用于工具页内链「head-to-head」）
+export function getCompareFor(id: string): string | null {
+  const slug = getCompareSlugs().find(
+    (s) => s.startsWith(`${id}-vs-`) || s.endsWith(`-vs-${id}`)
+  );
+  return slug ?? null;
 }
 
 // 月度榜单：评分降序，featured 优先
