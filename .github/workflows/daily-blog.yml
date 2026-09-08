@@ -1,0 +1,56 @@
+name: Daily Blog (dtcwise 100-day pipeline)
+
+on:
+  schedule:
+    # 白天时间安排表：北京 09:00 / 11:00 / 14:00 / 16:00 / 18:00（= UTC 01/03/06/08/10）
+    # 每天 5 个时段各发 1 篇：本地 02:10 自动化已把当天 5 篇英文写稿存入 content/queue/{日期}-slot-{0..4}.json
+    # 每个 cron 按当前时段发布对应队列稿（无队列稿则 no-op）
+    - cron: "0 1 * * *"  # UTC 01:00 = 北京 09:00 → slot 0
+    - cron: "0 3 * * *"  # UTC 03:00 = 北京 11:00 → slot 1
+    - cron: "0 6 * * *"  # UTC 06:00 = 北京 14:00 → slot 2
+    - cron: "0 8 * * *"  # UTC 08:00 = 北京 16:00 → slot 3
+    - cron: "0 10 * * *" # UTC 10:00 = 北京 18:00 → slot 4
+    - cron: "0 12 * * *" # UTC 12:00 = 北京 20:00 → catchup 兜底：补发当天未发布的 slot（白天 cron 偶发漏发时兜底）
+    - cron: "0 23 * * *" # UTC 23:00 = 北京 07:00 → 昨日核验兜底：补发昨天未发布的 slot（白天 cron + 20:00 兜底都漏跑时兜底）
+  workflow_dispatch:
+    inputs:
+      date: { description: "指定队列日期 YYYY-MM-DD（留空=今天 Asia/Shanghai）", required: false }
+      slot: { description: "指定 slot 0-4（留空=按当前时段推导）", required: false }
+      catchup: { description: "true=补发指定日期所有未发布 slot", required: false, default: "false", type: boolean }
+
+permissions:
+  contents: write
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with: { token: "${{ secrets.GITHUB_TOKEN }}", fetch-depth: 0 }
+
+      - uses: actions/setup-node@v4
+        with: { node-version: "22" }
+
+      - name: Layer 1 - publish queued post (single slot or catchup)
+        id: pub
+        run: |
+          ARGS=""
+          if [ "${{ inputs.catchup }}" == "true" ]; then ARGS="$ARGS --catchup"; fi
+          if [ -n "${{ inputs.date }}" ]; then ARGS="$ARGS --date ${{ inputs.date }}"; fi
+          if [ "${{ inputs.catchup }}" != "true" ] && [ -n "${{ inputs.slot }}" ]; then ARGS="$ARGS --slot ${{ inputs.slot }}"; fi
+          node scripts/publish-queued.mjs $ARGS
+
+      - name: Layer 2 - commit and push
+        if: steps.pub.outputs.pushed == '1'
+        run: |
+          git config user.name "dtcwise-bot"
+          git config user.email "dtcwise-bot@users.noreply.github.com"
+          git add src/data/blog.json content/queue/
+          git commit -m "auto: publish queued ${{ steps.pub.outputs.label }} $(date -u +%Y-%m-%d)"
+          git push origin main
+
+      - name: Layer 3 - IndexNow submit
+        if: steps.pub.outputs.pushed == '1'
+        run: |
+          node scripts/ping-indexnow.mjs
