@@ -41,10 +41,17 @@ for (const cat of categories) {
 const urlList = [...urls];
 const body = JSON.stringify({ host: HOST, key: KEY, keyLocation: KEY_LOCATION, urlList });
 
-const res = await fetch("https://api.indexnow.org/indexnow", {
-  method: "POST",
-  headers: { "Content-Type": "application/json" },
-  body,
-});
+// Retry transient 403/5xx (IndexNow sometimes rate-limits bursts); 200/202 = accepted.
+let res = null;
+for (let attempt = 1; attempt <= 3; attempt++) {
+  res = await fetch("https://api.indexnow.org/indexnow", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body,
+  });
+  if (res.ok) break;
+  process.stderr.write(`IndexNow attempt ${attempt}: HTTP ${res.status} — retrying...\n`);
+  await new Promise((r) => setTimeout(r, 5000 * attempt));
+}
 process.stderr.write(`IndexNow response: HTTP ${res.status} (${urlList.length} urls)\n`);
 process.exit(res.ok ? 0 : 1);
