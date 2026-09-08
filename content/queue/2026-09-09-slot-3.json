@@ -1,0 +1,15 @@
+{
+  "slug": "how-to-build-an-internal-linking-strategy",
+  "title": "How to Build an Internal Linking Strategy That Lifts Every Store Page",
+  "excerpt": "Internal links pass ranking power from your strong pages to your weak ones. A practical framework for linking products, categories, and posts.",
+  "date": "2026-09-09",
+  "category": "SEO",
+  "body": [
+    "Most DTC stores treat internal links as an afterthought, a menu here and a footer there. But internal links are the only ranking lever you fully control, and they decide how much of your site's authority reaches any given page. A product page that nobody links to is a page Google has to discover and rank on its own, which is why some of your best products never move in search.",
+    "Start with a hub and spoke structure. Your category pages are the hubs, and your product pages and blog posts are the spokes that point back to them. Every blog post should link to the category it supports, and every product page should link to its parent category, so the authority flows from your most-linked pages down to the ones that need it. This is also the pattern that creates the breadcrumb trail buyers expect.",
+    "Then add contextual links where they read naturally. A product page benefits from links to related products, a blog post benefits from links to the products it mentions, and both should point at the exact category path rather than generic text. Anchor text matters, so use descriptive phrases that say what the target page is about, and reserve your strongest keywords for the pages you most want to rank.",
+    "Audit the orphans first. Use a desktop crawler to export every URL and flag the pages with no internal links pointing at them. Screaming Frog is the usual choice here, and the /tool/screaming-frog page in the DTCwise SEO category explains the free tier and setup. Orphan pages can rank with external links alone, but they usually sit unindexed because nothing tells the crawler they matter. Fixing orphans is often the single highest-return SEO task a store can do, and it costs nothing but time.",
+    "Keep the depth shallow. A page should be reachable from the homepage within three clicks, so make sure important products are not buried behind five nested collections. Watch the internal links report in a tool like Ahrefs or Semrush to see which pages accumulate the most authority, then deliberately push some of it toward the pages you want to rank next quarter.",
+    "Review the structure quarterly, because products launch and retire and old links break. When you remove a product, replace its links with the closest surviving page instead of leaving a dead end. The DTCwise SEO category at /category/seo keeps the current crawling and link tools with ratings and pricing, which makes the quarterly audit a scheduled task instead of a slog."
+  ]
+}
