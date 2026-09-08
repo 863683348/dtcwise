@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-migrate-shopify-store-without-losing-traffic",
-  "title": "How to Migrate a Shopify Store Without Losing Traffic",
-  "excerpt": "Moving stores is where rankings die. A checklist for preserving URLs, redirects, and search equity when you change platforms or redesign.",
   "date": "2026-09-08",
-  "category": "Store Builders",
-  "body": [
-    "Migrating a store is a maintenance job with a marketing consequence. The move itself usually goes fine; the damage shows up weeks later when the pages that used to rank are gone, the internal links point nowhere, and the traffic you paid years to earn quietly evaporates. The good news is that search equity survives if you treat the migration like a data move rather than a redesign.",
-    "The rule that protects everything else is URL preservation. Keep your product, collection, and blog URLs exactly as they are, because every one of them carries rankings and backlinks that took months to accumulate. If the new platform cannot keep the URL structure, build a complete map of old-to-new paths before you switch and implement 301 redirects for every changed URL. A redirect is not a loss; it passes most of the link equity to the new page. A 404 is a permanent loss.",
-    "Next, audit what you have before you touch anything. Export your sitemap, your backlink profile, and your internal links, and make a list of every URL with measurable traffic or rankings. This is your migration ledger. When you compare after the move, you will know exactly which pages survived and which need attention, instead of guessing from a dashboard that looks fine at a glance.",
-    "Then handle the technical housekeeping in the right order. Update your canonical URLs, resubmit the new sitemap in Search Console and Bing Webmaster Tools, and check that robots.txt does not block anything that used to be crawlable. Keep the site live on the old platform until the DNS switch is verified, and watch 404 logs for the first two weeks after cutover; the pages that 404 there are the ones you forgot to map.",
-    "On the platform side, the migration is also a chance to fix structural debt rather than copy it. If you are moving to Shopify, use the native importer for products and customers, then re-create collections and menus by hand so the architecture is clean. WooCommerce gives you the most control but expects you to own hosting and security, which is a real cost at scale. BigCommerce sits between the two with solid multi-channel tools. The store builder category at /category/storebuilder keeps the current comparisons and pricing if you are still deciding.",
-    "Finally, schedule the migration for a low-traffic window and communicate it. Announce the maintenance in advance, keep the storefront stable during the cutover, and run a quick daily ranking check on your top twenty pages for a month. Traffic dip in the first week is normal while Google re-crawls; a dip that is still there in week four means a redirect or a page you forgot. Migration is the rare task where being boring on purpose is the entire strategy."
-  ]
+  "slot": 3
 }

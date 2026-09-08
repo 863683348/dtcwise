@@ -1,16 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-launch-a-subscription-model-dtc-store",
-  "title": "How to Launch a Subscription Model for Your DTC Store",
-  "excerpt": "A practical framework for adding subscriptions without rebuilding your store: product fit, pricing, and the tooling that makes it stick.",
   "date": "2026-09-08",
-  "category": "Subscription & Loyalty",
-  "body": [
-    "A subscription model is the fastest way to turn a store that sells once into a store that sells every month. The math is simple: if your average order is 40 dollars and a customer subscribes for six months, that one acquisition now covers the cost of three or four new customers. But subscriptions fail when they are bolted on without thinking about which products actually belong in a recurring box.",
-    "Start with product fit. The best subscription products share three traits: they get consumed or used up, they are reordered without much deliberation, and they arrive often enough that a monthly cadence feels natural. Coffee, vitamins, pet food, skincare, razors, contact-lens solution: consumables win. If you sell furniture or a one-time gadget, a subscription will feel forced, and customers will cancel at the first billing surprise.",
-    "Next, choose the subscription structure before you choose the software. The three patterns that work are subscribe-and-save (the customer buys normally but gets a discount for recurring delivery), a curated box (a new selection every cycle), and a membership (access to exclusive pricing or content for a monthly fee). Subscribe-and-save is the lowest risk for a first launch because it does not change what you sell, only how it is delivered.",
-    "Pricing deserves more thought than most founders give it. Offer a discount that feels meaningful but does not teach customers to wait for sales: 10 to 15 percent is the sweet spot for consumables. Set the billing anchor to the product's natural reorder cycle, not to your convenience. If a jar lasts six weeks, a six-week subscription will have far fewer cancellations than a monthly one. And always make pausing or skipping easy; a customer who can skip will stay, one who cannot will cancel.",
-    "On tooling, match the platform to your store rather than to a feature list. Recharge is the most widely used Shopify subscription app and handles the full lifecycle from checkout to dunning to failed-payment recovery. Bold Subscriptions is a solid alternative if you want a simpler flat-fee structure. If you sell physical products and want loyalty mechanics too, Smile or Yotpo Loyalty can wrap rewards around the subscription so points accumulate with every delivery. The DTCwise subscription and loyalty category keeps the current shortlist with ratings and pricing at /category/subscription, which beats reading ten pricing pages.",
-    "The launch itself should be boring and reliable. Put the subscription option on your top three products only, promote it to your existing email list before you spend a dollar on ads, and watch cancellation reasons for the first month. Most cancellations cluster in the first thirty days; that feedback is the cheapest product research you will ever run. Fix the top reason, relaunch, and scale.",
-    "A subscription is not a revenue hack, it is a retention strategy. Nail product fit, pick the right structure, price with the natural reorder cycle, and let the tooling handle the mechanics. That sequence is how a small DTC brand builds a predictable monthly base without rebuilding the store."
-  ]
+  "slot": 0
 }

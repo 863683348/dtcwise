@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-cut-cross-border-payment-fees",
-  "title": "How to Cut Cross-Border Payment Fees for a DTC Store",
-  "excerpt": "Payment fees quietly eat 2-4% of cross-border revenue. A breakdown of where the costs hide and how to reduce them without changing how you sell.",
   "date": "2026-09-08",
-  "category": "Payments & FX",
-  "body": [
-    "For a store selling across borders, payment and currency fees are the most ignored line item on the P&L. They are small enough to miss on any single order and large enough to matter over a year, and most of them are avoidable without changing anything customers see. The fix is knowing which of the three layers you are paying into: card processing, currency conversion, and cross-border fees.",
-    "The first layer is card processing, and it is the one everyone knows. Stripe and PayPal both charge roughly 2.9 percent plus a fixed fee per transaction, and that rate is not the same everywhere. European cards and business cards often carry higher interchange, so your effective rate depends on who buys, not on the headline number. The lever here is negotiating once you hit volume, or routing through a provider that bills in your settlement currency to avoid a markup on every single transaction.",
-    "The second layer is currency conversion, and this is where stores leak the most. When you sell in dollars but your supplier costs are in yuan or euros, you are converting money twice, once when you pay the supplier and again when you reconcile. Each conversion carries a spread that is invisible on the invoice. Dedicated multi-currency accounts like Airwallex and similar FX providers let you hold balances in multiple currencies, receive in the customer's currency, and pay suppliers in theirs, cutting out the double conversion almost entirely. This is the single highest-return change for a cross-border store.",
-    "The third layer is the cross-border fee itself, which some processors add as a flat percentage or a fixed amount on international transactions. It is usually hidden in the fine print and easy to miss. Before you negotiate anything, pull your processor's fee schedule and identify whether you are being charged a cross-border surcharge, because that is the line item you can often eliminate simply by switching settlement currency or using a provider with no international fee on local acquiring.",
-    "Practical sequence for most stores: first, reconcile a month of transactions in a spreadsheet and calculate your true effective rate across all three layers. Most founders are surprised to find it is 1 to 1.5 percent higher than the headline. Second, open a multi-currency account if you source or sell across borders. Third, revisit your processor choice once a year, because the market shifts faster than the pricing you signed. The DTCwise payments and FX category at /category/payments keeps the current providers with their fee structures and ratings, which makes the annual review a ten-minute job instead of an afternoon of sales calls.",
-    "None of this changes the checkout experience, so there is no conversion risk in optimizing it. A store doing 50,000 dollars a month across borders is typically leaving 500 to 700 dollars a month in fee spread. That is not a rounding error; it is a free margin increase, and it compounds with every order you scale."
-  ]
+  "slot": 4
 }

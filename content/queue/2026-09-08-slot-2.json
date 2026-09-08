@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-build-a-customer-support-playbook",
-  "title": "How to Build a Customer Support Playbook That Actually Scales",
-  "excerpt": "Template responses are not a playbook. Here is the framework for documenting your product, your tone, and your escalation rules before support demand hits.",
   "date": "2026-09-08",
-  "category": "Customer Support",
-  "body": [
-    "Support feels like a problem for later until the first viral post lands and fifty tickets arrive in a morning. By then it is too late to think, only to react. A playbook written when you have time is what lets a small team sound consistent, answer fast, and escalate the right things when everything is on fire.",
-    "A playbook is not a folder of copy-paste templates. It is three documents that answer different questions. The first is product knowledge: every SKU, its specs, its known failure modes, and the honest answer to the questions customers actually ask. Write these from real tickets, not from your marketing copy. The most common support questions in DTC are shipping time, sizing, return policy, and product use, and the answers should be written so a new hire can sound like you after one afternoon.",
-    "The second document is tone and policy. Define the voice in five lines: how you greet, whether you apologize on behalf of the courier or just the situation, how much you can discount before a human approves it, and the exact return and refund thresholds. The policy part matters most because inconsistency is what turns a normal complaint into a chargeback. If one agent refunds 30 percent and another offers 10, customers compare notes and your reputation pays the difference.",
-    "The third document is escalation. Map the triggers that move a ticket out of the normal queue: safety concerns, legal threats, public screenshots, repeated issues with one batch of product, anything involving payment disputes. For each trigger, write who handles it and the target response time. A playbook that ends at templates ends at the first angry customer; the escalation rules are what keep a small team from improvising under pressure.",
-    "On tooling, start with a helpdesk that routes and tags before you invest in automation. Gorgias is the standard for Shopify stores because it pulls order context into every ticket, so an agent sees what was bought and when without asking the customer to repeat it. Tidio adds live chat and a lightweight bot on the same plan, which is enough for most early stores. Zendesk and TawkTo are solid if you are platform-agnostic or need deeper workflows. The DTCwise customer support category at /category/support keeps the current lineup with ratings and pricing so you can pick without a demo cycle.",
-    "The playbook pays for itself the first time you need to hire. Write the product knowledge from real tickets this week, lock the tone and policy next week, and document the escalation triggers before your next product launch. Support that scales is not more people; it is fewer decisions left to improvisation."
-  ]
+  "slot": 2
 }
