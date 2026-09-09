@@ -1,5 +1,35 @@
 [
   {
+    "slug": "how-to-build-an-internal-linking-strategy",
+    "title": "How to Build an Internal Linking Strategy That Lifts Every Store Page",
+    "excerpt": "Internal links pass ranking power from your strong pages to your weak ones. A practical framework for linking products, categories, and posts.",
+    "date": "2026-09-09",
+    "category": "SEO",
+    "body": [
+      "Most DTC stores treat internal links as an afterthought, a menu here and a footer there. But internal links are the only ranking lever you fully control, and they decide how much of your site's authority reaches any given page. A product page that nobody links to is a page Google has to discover and rank on its own, which is why some of your best products never move in search.",
+      "Start with a hub and spoke structure. Your category pages are the hubs, and your product pages and blog posts are the spokes that point back to them. Every blog post should link to the category it supports, and every product page should link to its parent category, so the authority flows from your most-linked pages down to the ones that need it. This is also the pattern that creates the breadcrumb trail buyers expect.",
+      "Then add contextual links where they read naturally. A product page benefits from links to related products, a blog post benefits from links to the products it mentions, and both should point at the exact category path rather than generic text. Anchor text matters, so use descriptive phrases that say what the target page is about, and reserve your strongest keywords for the pages you most want to rank.",
+      "Audit the orphans first. Use a desktop crawler to export every URL and flag the pages with no internal links pointing at them. Screaming Frog is the usual choice here, and the /tool/screaming-frog page in the DTCwise SEO category explains the free tier and setup. Orphan pages can rank with external links alone, but they usually sit unindexed because nothing tells the crawler they matter. Fixing orphans is often the single highest-return SEO task a store can do, and it costs nothing but time.",
+      "Keep the depth shallow. A page should be reachable from the homepage within three clicks, so make sure important products are not buried behind five nested collections. Watch the internal links report in a tool like Ahrefs or Semrush to see which pages accumulate the most authority, then deliberately push some of it toward the pages you want to rank next quarter.",
+      "Review the structure quarterly, because products launch and retire and old links break. When you remove a product, replace its links with the closest surviving page instead of leaving a dead end. The DTCwise SEO category at /category/seo keeps the current crawling and link tools with ratings and pricing, which makes the quarterly audit a scheduled task instead of a slog."
+    ]
+  },
+  {
+    "slug": "how-to-build-an-ai-content-workflow-for-dtc",
+    "title": "How to Build an AI Content Workflow That Feeds Your DTC Store Every Week",
+    "excerpt": "A five-stage content workflow that turns keyword research into published blog posts without burning your week. AI does the drafting, you own the thinking.",
+    "date": "2026-09-09",
+    "category": "Content & AI",
+    "body": [
+      "The stores that win organic traffic are rarely the ones that write the most, they are the ones with a repeatable pipeline. If every post starts from a blank page, you will publish three times a month and burn out. A workflow turns content into an assembly line where each stage has a job and a handoff, and modern AI tools slot into the middle of it without replacing your judgment.",
+      "Stage one is the brief. Before any writing, define what the post is for: which keyword cluster it targets, which product or category it supports, and the single question it answers. A keyword tool like Semrush or Mangools shows you the commercial-intent terms that sit around your products and that a new store can actually win. Spend twenty minutes here and the rest of the pipeline runs on rails. Skip it and you will be rewriting everything later.",
+      "Stage two is the outline, and this is where you add the structure that AI will fill in. Write the sub-questions, the buyer objections, and the sections in the order a shopper would think about them. Tools like Surfer and Frase turn a keyword into a research-backed outline in minutes, and the /tool/surfer-seo page in the DTCwise content and AI category has the pricing and ratings if you want to compare them side by side. The outline is your quality floor, so do not let the tool pick it for you.",
+      "Stage three is the draft. Give the AI the brief and the outline, ask for plain paragraphs with facts you will verify, and you get a usable first pass in seconds. The rule that keeps drafts useful is to treat them as a starting point, not a submission. Check every product claim, price, and spec against your own catalog, because a confident-sounding error is worse than publishing nothing at all.",
+      "Stage four is the human edit, and it is shorter than you think. Fix the voice, cut the filler, add the concrete examples that only you know, and make sure each post earns at least one internal link to a category page and one to a product or tool page. Stage five is the measure loop: publish, note which posts pull organic traffic and rank, then feed the winners back into next week's briefs. This is the stage most pipelines skip, and it is the only one that compounds over time.",
+      "Run all five stages weekly and the difference between you and a store that posts sporadically becomes visible within a quarter. The DTCwise content and AI category at /category/content-ai keeps the current shortlist of AI writing and optimization tools with ratings and pricing, so the workflow stays cheap to operate as you scale."
+    ]
+  },
+  {
     "slug": "how-to-add-multi-currency-checkout",
     "title": "How to Add Multi-Currency Checkout Without Scaring Away International Buyers",
     "excerpt": "Selling into several countries fails when buyers meet surprise fees. A practical sequence for local pricing, display currency, and settlement.",

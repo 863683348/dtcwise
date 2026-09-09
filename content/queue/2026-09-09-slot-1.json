@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-build-an-ai-content-workflow-for-dtc",
-  "title": "How to Build an AI Content Workflow That Feeds Your DTC Store Every Week",
-  "excerpt": "A five-stage content workflow that turns keyword research into published blog posts without burning your week. AI does the drafting, you own the thinking.",
   "date": "2026-09-09",
-  "category": "Content & AI",
-  "body": [
-    "The stores that win organic traffic are rarely the ones that write the most, they are the ones with a repeatable pipeline. If every post starts from a blank page, you will publish three times a month and burn out. A workflow turns content into an assembly line where each stage has a job and a handoff, and modern AI tools slot into the middle of it without replacing your judgment.",
-    "Stage one is the brief. Before any writing, define what the post is for: which keyword cluster it targets, which product or category it supports, and the single question it answers. A keyword tool like Semrush or Mangools shows you the commercial-intent terms that sit around your products and that a new store can actually win. Spend twenty minutes here and the rest of the pipeline runs on rails. Skip it and you will be rewriting everything later.",
-    "Stage two is the outline, and this is where you add the structure that AI will fill in. Write the sub-questions, the buyer objections, and the sections in the order a shopper would think about them. Tools like Surfer and Frase turn a keyword into a research-backed outline in minutes, and the /tool/surfer-seo page in the DTCwise content and AI category has the pricing and ratings if you want to compare them side by side. The outline is your quality floor, so do not let the tool pick it for you.",
-    "Stage three is the draft. Give the AI the brief and the outline, ask for plain paragraphs with facts you will verify, and you get a usable first pass in seconds. The rule that keeps drafts useful is to treat them as a starting point, not a submission. Check every product claim, price, and spec against your own catalog, because a confident-sounding error is worse than publishing nothing at all.",
-    "Stage four is the human edit, and it is shorter than you think. Fix the voice, cut the filler, add the concrete examples that only you know, and make sure each post earns at least one internal link to a category page and one to a product or tool page. Stage five is the measure loop: publish, note which posts pull organic traffic and rank, then feed the winners back into next week's briefs. This is the stage most pipelines skip, and it is the only one that compounds over time.",
-    "Run all five stages weekly and the difference between you and a store that posts sporadically becomes visible within a quarter. The DTCwise content and AI category at /category/content-ai keeps the current shortlist of AI writing and optimization tools with ratings and pricing, so the workflow stays cheap to operate as you scale."
-  ]
+  "slot": 1
 }
