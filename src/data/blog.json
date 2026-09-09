@@ -1,5 +1,20 @@
 [
   {
+    "slug": "how-to-run-your-first-ab-test-shopify",
+    "title": "How to Run Your First A/B Test on a DTC Store Without Wasting Two Weeks",
+    "excerpt": "Most first tests fail because they test too much at once. A five-step process for running one clean experiment that tells you something real.",
+    "date": "2026-09-09",
+    "category": "CRO",
+    "body": [
+      "A/B testing sounds like a science until you run one, and then it sounds like a coin flip. The reason most first tests tell you nothing is not bad tools, it is scope. When you change the headline, the image, and the price all at once, you cannot attribute the result, and two weeks later you have learned nothing and changed everything.",
+      "Step one is to pick one element with a clear job. Choose the single thing most likely to move your store's weakest metric, usually the first screen of a product page or the checkout button copy. If you have not looked at behavior data yet, a free tool like Microsoft Clarity shows heatmaps and session recordings, so you can see where people stall instead of guessing. The DTCwise CRO category at /category/cro keeps a ranked list of these tools with pricing.",
+      "Step two is to write a hypothesis that is testable. A good hypothesis names the change, the expected effect, and the reason. For example, moving the reviews above the fold will lift add-to-cart rate because buyers on this store stall right after scrolling past the price. If you cannot finish that sentence, you do not have a test yet, you have an idea.",
+      "Step three is to run only one variant against the control and let the numbers decide. Split testing tools like VWO or Convert make this easy, but the discipline is the same without them: keep everything else identical, serve both versions to the same kind of visitor, and resist the urge to peek. Give the test enough traffic that a real difference can show up, because a test on a few hundred visitors is usually just noise.",
+      "Step four is to let the test reach its conclusion. Decide your minimum sample size before you start, wait for statistical significance, and do not stop early because one version looks ahead on day one. When it finishes, write down what happened and why, whether it won or lost. A losing test is still a finding, because it removes a variable you never have to test again.",
+      "Step five is to roll the winner out and start the next test. One clean experiment a week compounds, and after a quarter you will have a documented record of what your specific shoppers respond to, which is more valuable than any generic best-practice list. For the tools behind each step, the DTCwise CRO category at /category/cro keeps the current shortlist with ratings and pricing."
+    ]
+  },
+  {
     "slug": "how-to-teardown-a-winning-ad-creative",
     "title": "How to Teardown a Winning Ad Creative in 30 Minutes",
     "excerpt": "A 30-minute teardown framework that turns any competitor's winning ad into a repeatable angle for your own store. No copying, just structure.",
