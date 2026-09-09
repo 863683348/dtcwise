@@ -1,5 +1,20 @@
 [
   {
+    "slug": "how-to-add-multi-currency-checkout",
+    "title": "How to Add Multi-Currency Checkout Without Scaring Away International Buyers",
+    "excerpt": "Selling into several countries fails when buyers meet surprise fees. A practical sequence for local pricing, display currency, and settlement.",
+    "date": "2026-09-09",
+    "category": "Payments & FX",
+    "body": [
+      "A store that prices only in dollars quietly turns away every international visitor who does the mental math at checkout. The moment a buyer sees a foreign price and a vague conversion note, trust drops, and a large share simply closes the tab. Multi-currency checkout is the fix, but it fails when it is bolted on without thinking about display, settlement, and fee transparency.",
+      "Decide the display currency first. Show the price in the buyer's local currency at the very first touch, on the product page and in the cart, not only at the last step. Buyers who see a local price from the start convert better than those who discover the conversion after they have already chosen. Most store platforms can do this natively, and the app handles the live rate lookup in the background.",
+      "Then think about who converts the money. Displaying local prices does not force you to hold local balances, but it does force a choice about where the conversion happens. If your payment processor converts at checkout, you pay its markup on every single order. A multi-currency account like Airwallex lets you receive in the customer's currency, hold it, and convert when the rate suits you, and the /tool/airwallex page covers the fee structure and onboarding requirements.",
+      "Keep fees out of the surprise zone. The charge that kills international carts is the hidden conversion markup, not the shipping cost. If you cannot absorb the spread, be explicit about the final amount before the pay button, and set a fair exchange rate rather than the worst one available. Transparency at this step reduces abandoned carts more than any discount you could offer.",
+      "Set your settlement currency deliberately. Most stores are better off settling in their main operating currency and letting the account handle the conversion than juggling several bank balances. Test with one market first, one currency, and watch both conversion and refund handling, because a refund converts back at a different rate and the difference adds up over a quarter.",
+      "Roll the rollout out market by market, starting with your second-largest audience. Once the mechanics are stable, local pricing becomes a quiet competitive advantage that international buyers feel before they ever read a word of your copy. The DTCwise payments and FX category at /category/payments keeps the current processors and multi-currency accounts with ratings and pricing for the next step."
+    ]
+  },
+  {
     "slug": "how-to-run-your-first-ab-test-shopify",
     "title": "How to Run Your First A/B Test on a DTC Store Without Wasting Two Weeks",
     "excerpt": "Most first tests fail because they test too much at once. A five-step process for running one clean experiment that tells you something real.",
