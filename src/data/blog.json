@@ -1,5 +1,20 @@
 [
   {
+    "slug": "how-to-reduce-subscription-churn-and-recover-failed-payments",
+    "title": "How to Reduce Subscription Churn and Recover Failed Payments",
+    "excerpt": "Churn is rarely one big reason and almost always a list of small leaks. A practical plan for keeping subscribers longer and recovering the ones who slip away without meaning to.",
+    "date": "2026-09-10",
+    "category": "Subscription & Loyalty",
+    "body": [
+      "Most subscription brands treat churn as a single number on a dashboard, but it is really two separate problems with two separate fixes. The first is voluntary churn, where a subscriber decides to leave. The second is involuntary churn, where a subscriber disappears because a card fails at billing time. The second group is the cheaper one to recover, because the customer never actually decided to go. They just got charged on the wrong day with the wrong card, and nobody reached out in time.",
+      "Involuntary churn from failed payments accounts for a fifth to a third of monthly cancellations on many subscription programs, and most of it is preventable with a basic recovery sequence. Start with smart retry timing: three to five attempts spread over seven to fourteen days, and avoid billing on weekends when banks are slower to authorize. Send a card-update email after the first failure with a direct link to the payment settings, because a customer who still wants the product will fix the card in under a minute. Use the decline reason itself as a signal, since expired cards, insufficient funds, and fraud blocks each need a different message.",
+      "Voluntary churn is slower to fix but easier to understand if you collect the reason at cancellation. Group the answers and you will usually find one dominant theme, often price, a cadence that does not match how fast the product is consumed, or a delivery experience that disappointed. Fix the theme with a product or policy change before you reach for discounts, because a discount treats the symptom and trains the next cohort to wait for one.",
+      "A large share of voluntary churn is actually a mismatch between billing cadence and consumption. If a jar lasts six weeks, a six-week subscription will hold far better than a monthly one. Make skipping and pausing easy in the customer portal, since a subscriber who can pause stays in your funnel while one who cannot pauses by canceling. Offer annual prepay as an option for your most loyal cohort, which also improves cash flow and makes churn events rarer by construction.",
+      "After a cancellation, run a win-back sequence over thirty to ninety days rather than sending one final email. Announce product updates, show new usage ideas, and only then present a one-time offer. For active subscribers, wrap loyalty mechanics around the delivery so points accumulate with every box and the relationship has a second value layer beyond the product itself.",
+      "The tooling matters less than the sequence, but it does need to run unattended. Recharge is the most common engine for Shopify subscriptions and ships with dunning, retries, and a customer portal out of the box, while Bold Subscriptions covers the basics on a simpler flat-fee plan. The DTCwise subscription and loyalty category at /category/subscription keeps the current shortlist with ratings and pricing, which turns this whole decision into a ten-minute comparison instead of an afternoon of demos."
+    ]
+  },
+  {
     "slug": "how-to-build-an-internal-linking-strategy",
     "title": "How to Build an Internal Linking Strategy That Lifts Every Store Page",
     "excerpt": "Internal links pass ranking power from your strong pages to your weak ones. A practical framework for linking products, categories, and posts.",
