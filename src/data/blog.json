@@ -1,5 +1,20 @@
 [
   {
+    "slug": "how-to-set-up-a-multi-currency-checkout",
+    "title": "How to Set Up a Multi-Currency Checkout for Global Sales",
+    "excerpt": "Shoppers buy in their own currency or they abandon. How to price, display, and settle in local currencies without letting FX fees eat the margin.",
+    "date": "2026-09-10",
+    "category": "Payments & FX",
+    "body": [
+      "A large share of international shoppers abandons a checkout the moment prices appear in a foreign currency, because the number no longer means anything to them and they assume hidden conversion costs are coming. Displaying prices in the customer's local currency is one of the cheapest conversion lifts available to a cross-border store. The catch is that a naive setup converts the money twice and quietly donates the margin to FX spreads.",
+      "Understand the difference between display and settlement. Display currency is what the customer sees at checkout, and settlement currency is what lands in your account. Most platforms can convert automatically at the moment of purchase, which is simple and often fine at low volume. The cost shows up as a conversion spread on every transaction, usually one to three percent on top of the headline rate, and it is invisible on the invoice.",
+      "The clean setup for a store that sells across borders in volume is to hold and receive in multiple currencies. A multi-currency account lets you collect dollars, euros, and pounds as they are, pay suppliers in their own currency, and convert only when you choose. This removes the double conversion that happens when you receive in one currency, convert to your base, and then convert again to pay a supplier in another. Airwallex is the common choice for this workflow, and several other providers in the directory cover the same ground.",
+      "On the storefront side, set local pricing with rounding rules that feel natural rather than algorithmic. Prices like 19.99, 24.00, or 29.90 read better than the exact converted value, and most platforms let you set per-country pricing instead of a single automatic rate. Be deliberate about which markets get local pricing first, since each new currency adds a reconciliation line and a support question.",
+      "Watch the edges that turn a currency feature into a cost center. Card networks offer dynamic currency conversion at the point of sale, which sounds helpful and is usually expensive; disable or discourage it in favor of your own conversion. Check whether tax and duties are included or added at delivery, because a surprise import fee at the door generates returns and chargebacks far more often than a transparent landed cost.",
+      "Finally, reconcile monthly. Pull your effective exchange rate across all currencies and compare it with the interbank rate; a gap above two percent means the setup is leaking. Test the checkout in each currency with a small real order, and monitor settlement reports for the first two months after launch. The DTCwise payments and FX category at /category/payments keeps the current providers with their fee structures and ratings, which makes this review a ten-minute job instead of an afternoon of sales calls."
+    ]
+  },
+  {
     "slug": "how-to-handle-returns-and-refunds-without-killing-margins",
     "title": "How to Handle Returns and Refunds Without Killing Your Margins",
     "excerpt": "Returns are a support problem with a margin consequence. A system for fewer returns, cheaper returns, and refunds that do not escalate into chargebacks.",
