@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-handle-returns-and-refunds-without-killing-margins",
-  "title": "How to Handle Returns and Refunds Without Killing Your Margins",
-  "excerpt": "Returns are a support problem with a margin consequence. A system for fewer returns, cheaper returns, and refunds that do not escalate into chargebacks.",
   "date": "2026-09-10",
-  "category": "Customer Support",
-  "body": [
-    "Returns are the quiet margin killer in DTC. The refunded amount is only part of the cost; the original outbound shipping, the return leg, restocking time, and the customer who never comes back all compound on top of it. Apparel categories routinely run return rates of 20 to 30 percent, and a store that treats returns as an occasional support event is leaving thousands of dollars a month on the floor. The fix is a system with three jobs: fewer returns, cheaper returns, and refunds that never turn into chargebacks.",
-    "Fewer returns starts before the customer buys. Most returns happen because the product did not match the expectation set by the listing, so the highest-leverage work is expectation management: real measurements instead of vague sizing, photos and short videos of the actual item, honest fabric and material notes, and visible reviews with customer photos. A size guide with centimeter and inch measurements consistently does more for return rate than any return-policy tweak, because it prevents the mismatch in the first place.",
-    "When a return does happen, the policy should be generous enough to feel fair but structured enough to protect margin. Free returns above a threshold, store credit with a small bonus instead of a cash refund, and a return window that matches how long it actually takes to judge the product all nudge behavior in the right direction. A fair and predictable policy also matters on the dispute side, because most chargebacks start with a customer who felt forced to escalate rather than one who got a reasonable resolution.",
-    "On the operations side, make the return a self-serve flow rather than an email thread. A return portal that issues a prepaid label, routes the item to the right warehouse, and updates the order automatically removes the most time-consuming part of the process. Helpdesk context is what makes this fast: Gorgias pulls order history into every ticket so an agent sees what was bought, when it shipped, and what was promised without asking the customer to repeat it, and Re:amaze covers chat and helpdesk in one place for smaller teams.",
-    "The refund-versus-chargeback math should shape every decision. A refund costs you the order plus shipping; a chargeback costs you the order, the product, the processor fees, and accumulated risk that can eventually threaten your ability to process payments at all. Resolve disputes quickly, respond to card-issuer inquiries with tracking and order evidence, and use friendly resolution on the platforms that support it before the dispute formalizes.",
-    "Run the system for a month and the numbers will tell you where the leaks are: return rate by product, refund reason by category, and chargeback rate by payment method. The DTCwise customer support category at /category/support keeps the current shortlist with ratings and pricing, so the tooling choice around this workflow takes minutes instead of a demo cycle."
-  ]
+  "slot": 2
 }
