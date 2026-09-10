@@ -1,16 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-set-up-a-shopify-store-checklist",
-  "title": "The Complete Shopify Store Setup Checklist for a Professional Launch",
-  "excerpt": "Launch quality is decided before the first ad runs. Eight areas separate professional stores from hobby projects, and this checklist covers all of them.",
   "date": "2026-09-10",
-  "category": "Store Builders",
-  "body": [
-    "Most new stores fail on foundation, not on traffic. A store that converts 1 percent with a polished setup will usually beat a store converting 0.5 percent with the same ads, and conversion quality is decided before the first campaign goes live. This checklist covers the areas that separate a professional storefront from a hobby project, in the order they should be done.",
-    "Foundation first. Register a domain that matches the brand rather than a keyword, and point it at the store before you build anything. Pick a theme that loads fast on mobile, because a large share of your traffic will be phone traffic, and set up the basics that make a store look owned rather than default: logo, favicon, brand colors, and a real about page. Shopify makes the platform part of this fast, which is exactly why it is the default for most DTC brands.",
-    "Catalog hygiene comes next. Clean product titles, multiple real photos per product, consistent description formatting, and correct variant and inventory settings matter more than catalog size, since a store with twenty polished products outsells one with two hundred sloppy listings. Build collections and navigation that mirror how customers actually shop rather than how your spreadsheet is organized, and keep the menu short enough to scan on a phone.",
-    "Then wire the money flow. Configure payment providers, shipping rates and zones, and tax settings before launch, and run a full test order with a real card from checkout to confirmation email, including a refund, because the first test should not be a real customer. Add local-currency pricing if you sell internationally so buyers see prices in their own currency at checkout.",
-    "Trust and capture complete the skeleton. Privacy policy, terms of service, shipping policy, and return policy pages are the minimum for legitimacy, and they should exist before the first ad dollar is spent. Install email capture on day one, a review app before you have reviews, and basic analytics so every later decision has data behind it.",
-    "Finally, the go-live pass. Test the whole journey on a phone, verify that every automated email actually delivers, submit the sitemap to Google Search Console, and set up the post-purchase email that turns a first order into a second one. This is the part of the checklist that half of store owners skip, and it is the part that shows up in week-two retention numbers.",
-    "Run the checklist once and the store is ready for traffic; run it again after every major change and the foundation stays clean. The DTCwise store builders category at /category/storebuilder keeps the current shortlist with ratings and pricing, so platform comparisons stay quick as the store grows."
-  ]
+  "slot": 3
 }

@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-cut-shipping-costs-without-slowing-delivery",
-  "title": "How to Cut Shipping Costs Without Slowing Down Delivery",
-  "excerpt": "Shipping quietly eats 15 to 25 percent of revenue for many DTC brands. These levers cut the bill without adding a single day to transit time.",
   "date": "2026-09-10",
-  "category": "Fulfillment & Shipping",
-  "body": [
-    "Shipping is usually the biggest variable cost after the product itself, and most stores treat the carrier rate card as a fixed fact of life. It is not. The bill is made up of packaging decisions, zone routing, label purchasing, and surcharges, and each of those responds to direct action. A store shipping 500 orders a month can typically find 5 to 10 percent of the freight bill without changing a single delivery promise.",
-    "Start with dimensional weight, because packaging is the lever with the largest and least noticed effect. Carriers bill on the greater of actual weight and dimensional weight, so an oversized box with void fill charges you for volume you are not shipping. Right-size every SKU, switch to lightweight materials, and watch the quotes drop; a box that is 20 percent smaller can move a parcel into a cheaper zone and cut two to four dollars per shipment on heavier items.",
-    "Next, stop buying labels from a single carrier by default. Different parcels win with different carriers: lightweight regional packages often go cheapest with one, while heavy or business-address parcels win with another. Multi-carrier shipping software compares live rates at label time and routes each order to the cheapest option that still meets the delivery promise. ShipStation is the common hub for this workflow, and Easyship adds international courier comparison plus automated customs documents when you sell across borders.",
-    "Zone strategy is the structural play. Most of the cost difference between a cheap and an expensive shipment is the distance it travels, so shortening zones beats negotiating rates. If you use a 3PL or regional warehousing, holding inventory in two or three hubs moves parcels closer to buyers and changes the entire rate curve. For brands still shipping from a single location, ask carriers about regional rate programs and negotiate once your volume clears a few hundred parcels a month.",
-    "Finally, engineer the free-shipping threshold instead of leaving it at whatever sounds nice. Set it just above your average order value so it nudges carts upward rather than giving away margin on orders that would have shipped anyway. Review surcharges like fuel, residential, and remote-area fees at renewal time too, because those line items compound quietly and are frequently negotiable once you are a steady account.",
-    "None of this adds transit time, which is why it is the right order of operations: packaging first, then carrier routing, then zone strategy, then threshold design. The DTCwise fulfillment and shipping category at /category/fulfillment keeps the current shortlist with ratings and pricing, so the tooling and partner decisions stay a comparison you can finish in minutes."
-  ]
+  "slot": 1
 }
