@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-fix-slow-pages-to-win-more-seo-traffic",
-  "title": "How to Fix Slow Pages to Win More SEO Traffic",
-  "excerpt": "Page speed is a ranking factor and a conversion factor at the same time. A practical audit-and-fix framework for the pages that matter most to your store.",
   "date": "2026-09-11",
-  "category": "SEO",
-  "body": [
-    "A slow page costs you twice. Search engines treat load time as a small but consistent ranking signal, so a sluggish product page ranks slightly lower for the same keyword. The larger cost is behavioral: every extra second of load time raises bounce rate and lowers conversion, which means the traffic you already earn converts less. Speed work is therefore one of the rare fixes that helps both the top of the funnel and the bottom at the same time.",
-    "Start with the pages that matter, not all of them. Run a crawl of your site and sort by a combination of organic traffic and load time to build a priority list. Your money pages, product pages, category pages, and best-performing blog posts get fixed first, while rarely visited pages wait their turn. Speed audits that chase the entire site at once usually stall; a priority list keeps the work focused and the wins visible.",
-    "The biggest wins on most storefronts come from three sources. Images dominate page weight, so convert to next-generation formats, compress aggressively, and size images to the container rather than the original file. Then reduce the number of render-blocking scripts, especially third-party trackers that each add their own round trip. Then enable lazy loading so below-the-fold content only loads when the visitor scrolls to it. These three changes resolve the majority of slow-page cases before you touch any server settings.",
-    "Watch the critical rendering path on mobile, because that is where most of your traffic sits and where speed matters most. A mobile-first audit looks at the time to first paint and the time to interactive, not just the overall load event. Reduce the number of fonts and the size of their files, keep hero images compressed, and consider whether every app on your store actually needs to load on every page. Apps that load site-wide when they only function on one page are a common, invisible drag.",
-    "Measure before and after with real-user data rather than lab scores alone. Tools like Semrush and PageSpeed Insights give you lab metrics, but the best evidence is field data: how long your real visitors' devices took to load your pages. Track Core Web Vitals over a few weeks after each change. A single image-optimization pass often moves a store from the orange zone to the green zone, and green-zone pages routinely outperform slower competitors for the same query.",
-    "Treat speed as maintenance, not a one-time project. New apps, new images, and new embeds all add weight, so schedule a quick quarterly pass. The DTCwise SEO category at /category/seo keeps the current shortlist of SEO and site audit tools with ratings and pricing, which makes the measurement side of this workflow a ten-minute check instead of a guessing game."
-  ]
+  "slot": 3
 }
