@@ -1,5 +1,20 @@
 [
   {
+    "slug": "how-to-prioritize-conversion-tests-when-you-have-no-data",
+    "title": "How to Prioritize Conversion Tests When You Have No Data Yet",
+    "excerpt": "New stores have no conversion data to decide which test to run first. A prioritization framework that ranks tests by friction, cost, and reach instead.",
+    "date": "2026-09-11",
+    "category": "CRO",
+    "body": [
+      "New stores face a chicken-and-egg problem with conversion testing. Every CRO guide says to let the data choose your first test, but a store with a hundred sessions a month has no data worth trusting. The way out is to rank tests by logic instead of statistics. Prioritize by friction, by the size of the page you are touching, and by how cheap the change is to ship. This framework works from day one and stays useful as traffic grows.",
+      "Friction first. Walk your own funnel as a first-time buyer and list every place where a person has to decide, type, or wait. Abandoned cart is not the only leak; a storefront with no search, a product page with buried shipping information, or a checkout that demands an account before payment all create friction before the cart even exists. Rank the friction points by how early they appear in the funnel, because a leak at the top starves everything below it.",
+      "Reach second. A change on a page that every visitor sees outweighs a change on a page few visitors reach. Your homepage, your best product pages, and your checkout are high-reach surfaces, while a niche blog post is low reach no matter how clever the improvement. For each candidate fix, estimate the share of visitors it touches, and multiply that by the strength of the expected effect to get a rough priority score.",
+      "Cost third. The cheapest tests are often the most valuable: clarifying a headline, moving the buy button above the fold, showing shipping and return policy on the product page, adding a trust signal near the checkout. These take an afternoon to ship and are safe, reversible changes. Reserve the expensive tests, full redesigns or new page templates, for later when you have real data to justify them. Shipping ten cheap improvements beats agonizing over one big one.",
+      "Even with no traffic, you can gather qualitative data to sharpen the list. Session recording tools such as Hotjar and Lucky Orange let you watch how a handful of early visitors actually move through the site, and their heatmaps reveal where people hesitate or click without progress. A few sessions of real behavior will confirm or delete half the items on your friction list, giving your first test a genuine foundation instead of a guess.",
+      "Run the top of the list as a simple sequence, one change at a time, and measure the move on your chosen metric. With no statistical significance available, look for direction and magnitude, and keep the changes small enough to attribute. The DTCwise CRO category at /category/cro keeps the current shortlist of testing and analytics tools with ratings and pricing, so the tooling side of this workflow stays a quick decision rather than a research project."
+    ]
+  },
+  {
     "slug": "how-to-respond-to-negative-reviews-without-hurting-sales",
     "title": "How to Respond to Negative Reviews Without Hurting Sales",
     "excerpt": "A negative review is a conversion problem and a customer-relations moment at the same time. A response playbook that protects sales and often recovers the buyer.",
