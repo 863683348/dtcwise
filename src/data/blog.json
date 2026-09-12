@@ -1,5 +1,20 @@
 [
   {
+    "slug": "how-to-price-a-subscription-product-recurring-pricing",
+    "title": "How to Price a Subscription Product: Recurring Pricing Models That Hold",
+    "excerpt": "Subscription pricing is four decisions, not one number. How to choose between flat, frequency-based, tiered, and prepay models without building in churn.",
+    "date": "2026-09-12",
+    "category": "Subscription & Loyalty",
+    "body": [
+      "Subscription pricing looks like a simple number and is actually a system of four decisions: how often you bill, how the price scales with quantity or tier, how much of a discount you give for commitment, and what the cancellation and pause rules imply for revenue. Get the four decisions wrong and a subscription program generates refunds, confusion, and churn; get them right and it becomes the most predictable revenue line in the store. This breakdown walks through the models in order of how much they commit the customer.",
+      "The simplest model is flat recurring, one price billed on a fixed cadence, usually monthly or every four weeks. It is easy to explain and easy to bill, which makes it the right default for a single product that is consumed at a steady pace. The weakness is that it does not reward or adjust for consumption, so a customer who finishes the product early resents paying full price and one who consumes slowly feels they are overpaying. Start here only when your product has a clear, uniform use cycle.",
+      "Frequency-based pricing matches the bill to how the product is actually used, and it holds far better for consumables. If a jar lasts six weeks, offer a six-week plan rather than forcing a monthly cadence, and make the shipping and billing intervals the same length. The cadence is one of the highest-leverage decisions in the whole system, because a subscription that aligns with consumption rarely gets canceled for the reason of wrong timing, which is the most common cancellation reason on record.",
+      "Tiered and quantity-based pricing handle variable consumption and grow with the customer. A single-product customer pays a base rate, while a multi-unit household or a business customer gets a per-unit discount that still increases the total bill. The rule is to make the tiers obvious and the step-up cheap, because customers who can see a clear next tier upgrade on their own instead of leaving. A subscription platform that supports quantity steps and a customer portal makes these models run unattended.",
+      "Prepay and annual options are the commitment levers. A twelve-month plan at a fifteen to twenty percent discount improves cash flow, makes revenue more predictable, and structurally reduces churn, because a cancel decision becomes a renewal decision that happens once a year instead of once a month. The discount has to be real enough to move behavior and small enough not to teach customers to wait for a sale, so test the percentage against your margin before publishing it.",
+      "Whatever model you choose, the enforcement layer matters: smart retries on failed payments, easy pause and skip in the customer portal, and a win-back flow after cancellation. Recharge is the most common engine for Shopify subscriptions and ships with these mechanics plus a customer portal out of the box, which is why the pricing decision is usually the product one, not the tooling one. The DTCwise subscription and loyalty category at /category/subscription keeps the current shortlist with ratings and pricing, and the Recharge page at /tool/recharge covers the plans, so the whole setup stays a comparison you can finish quickly."
+    ]
+  },
+  {
     "slug": "how-to-turn-support-tickets-into-store-improvements",
     "title": "How to Turn Support Tickets Into Product and Page Improvements",
     "excerpt": "Every support ticket is free market research. A closed loop that turns ticket categories into product, page, and policy fixes, reviewed monthly.",
