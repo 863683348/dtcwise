@@ -1,0 +1,15 @@
+{
+  "slug": "teelaunch-pricing-what-you-actually-pay-in-year-one",
+  "title": "Teelaunch Pricing: What You Actually Pay in Year One",
+  "excerpt": "Teelaunch has no monthly subscription, but the year-one cost still lands in product base prices, decoration fees, and shipping on every order. A full breakdown of what a small print-on-demand store realistically spends.",
+  "date": "2026-09-14",
+  "category": "Print-on-Demand",
+  "body": [
+    "Teelaunch looks like the cheapest print-on-demand option on paper because there is no monthly subscription and no storefront fee. That framing is only half the story: the real cost is per order, and it stacks in three places, the product base price, the decoration fees, and shipping. For a store doing small volumes, the math is simple enough to model on a spreadsheet, and the discipline of doing it monthly is what separates a print store with margin from one that sells at cost.",
+    "Start with the product base price, which is the blank garment or item plus the print setup. Teelaunch's prices sit in the normal range for US-based print providers, which means a basic t-shirt lands in the low teens and a hoodie in the twenties before anything is printed on it. The trap is treating the base price as the real cost, because every decoration you add on top changes the number.",
+    "The second layer is decoration fees. Every print area, front, back, sleeve, or inside label, adds a fee per order, and full-color or large-surface prints cost more than a single small logo. The practical rule is to compute the cost of the most decorated version you actually sell, because that is the version customers pick, not the plain mockup you advertise.",
+    "The third layer is shipping, and it behaves differently from the product cost. Print-on-demand shipping is calculated per order from the provider's production facility to the customer, so two small orders to two different cities cost more than one larger order to one address. If your niche is low-ticket items, shipping can exceed the product cost entirely, which is why shipping is where year-one budgets quietly double.",
+    "There is also a hidden cost that has nothing to do with Teelaunch: the margin you lose by not consolidating. When every order is produced and shipped separately, you cannot batch, negotiate freight, or buffer inventory, so the per-unit cost stays at the retail single-item price forever. If a product becomes a consistent best seller, the economics improve by moving that one SKU to a fulfillment partner with bulk pricing, while the long tail stays on print-on-demand.",
+    "The year-one takeaway is to model the fully landed cost per design, not per product page. For each SKU, add base price, every decoration you offer, and an average shipping figure, then subtract from the retail price and check the margin before you run ads. The DTCwise print-on-demand category at /category/pod keeps the current shortlist with ratings and pricing, and the Teelaunch page at /tool/teelaunch holds the live fee structure, so the annual recheck stays a ten-minute task."
+  ]
+}
