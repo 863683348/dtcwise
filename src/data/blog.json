@@ -1,5 +1,20 @@
 [
   {
+    "slug": "how-to-turn-ad-spy-research-into-a-creative-brief",
+    "title": "How to Turn Ad Spy Research Into a Creative Brief",
+    "excerpt": "Spying on ads is only useful when the output is a brief you can hand to a designer or writer. A repeatable process for extracting angles, hooks, offers, and proof from spy data without copying a single ad.",
+    "date": "2026-09-14",
+    "category": "Ad Spy",
+    "body": [
+      "Ad spy tools give you thousands of winning creatives, which is precisely the problem: browsing them feels productive but produces nothing you can ship. The fix is to treat spy data as research input and define the output in advance. That output is a creative brief, a one-page document that tells a designer or writer exactly what to make, and the process below turns any spy session into one.",
+      "Step one is collecting with a filter, not a keyword. Decide the metric that matters, whether that is estimated spend, active duration, or engagement rate, then save only ads that have run for more than thirty days or carry high estimated spend. Long-running ads survived the marketplace's own testing, so they contain a winning angle worth studying, while short-lived ads are failed experiments you can learn from but should not copy.",
+      "Step two is extracting the four ingredients every brief needs: the angle, the hook, the offer, and the proof. The angle is who the ad speaks to and which problem it names, the hook is the first three seconds that stop the scroll, the offer is what the customer actually gets, and the proof is the evidence that makes the claim believable, whether that is a testimonial, a before-and-after, or a statistic. Write each one in a single sentence from the ads you saved.",
+      "Step three is aggregating before creating. Review ten to fifteen saved ads and look for the pattern that repeats across them, because a pattern that appears in many winning ads is a market signal, while a single clever ad is usually a one-off. Your brief should name the pattern as the strategy and treat the individual ads only as inspiration for execution, never as a template to replicate frame for frame.",
+      "Step four is writing the brief itself with a built-in variation plan. A strong brief specifies one target audience, one primary angle, and one offer, then asks for three hook variations and two visual directions instead of one finished ad. That structure turns one research session into a small test batch, which is the unit of learning that matters in paid social, because one ad tells you nothing and three to five ads in one direction tell you a lot.",
+      "Close the loop by tracking what happens to the briefs you ship: log the angle and hook of every ad you launch, then compare performance after a few weeks. Over two or three cycles, you will know which angles your brand can win with, and spy research stops being a distraction and becomes a repeatable pipeline. The DTCwise ad spy category at /category/ad-spy keeps the current shortlist of spy and intelligence tools with ratings and pricing, and the BigSpy page at /tool/bigspy covers the plan options, so the research side of this workflow stays a quick decision."
+    ]
+  },
+  {
     "slug": "zendrop-alternatives-for-fast-us-shipping-shortlist",
     "title": "Zendrop Alternatives for Fast US Shipping: A Shortlist",
     "excerpt": "Zendrop is the default answer for 2-5 day US delivery, but it is not the only one. A scenario-based shortlist of Zendrop alternatives organized by catalog size, budget, and how much automation you need.",
