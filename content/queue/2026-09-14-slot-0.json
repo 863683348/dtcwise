@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-choose-a-supplier-marketplace-like-syncee",
-  "title": "How to Choose a Dropshipping Supplier Marketplace Like Syncee",
-  "excerpt": "A supplier marketplace sits between raw AliExpress sourcing and premium US warehouses. Here is a fit test that scores data quality, inventory sync, shipping, and margin so you pick the right one before you commit a single product.",
   "date": "2026-09-14",
-  "category": "Dropshipping",
-  "body": [
-    "Most dropshippers start by scraping AliExpress, and most of them upgrade the day they get tired of broken inventory sync and customers asking why their order has no tracking. A supplier marketplace is the middle path: it aggregates vetted suppliers, normalizes their product data into clean feeds, and routes orders automatically. Syncee is the reference point here because it built its reputation on the quality of those data feeds rather than on warehouse speed, which makes it a useful benchmark for the whole category.",
-    "The first thing to score is data quality, because everything downstream depends on it. A good feed gives you accurate product titles, descriptions, multiple images, variants, and stock levels that update on a schedule. When a supplier changes a price or a stock count, the marketplace should push that change to your store automatically. If you are constantly correcting product pages by hand, the marketplace is not doing its job, no matter how many suppliers it lists.",
-    "The second score is inventory and order handling. Ask what happens when a supplier runs out of stock mid-order, how long order confirmation takes, and whether tracking numbers flow back into your store without manual work. Also check minimum order values, because some marketplaces look cheap until you realize every supplier wants a ten-unit minimum for the prices you actually want to sell at.",
-    "The third score is shipping reality. Marketplace catalogs mix local warehouses and overseas suppliers, so check the shipping method per supplier, not per marketplace. A marketplace that lets you filter suppliers by warehouse country and estimated delivery time is worth more than one with a bigger catalog, because the delivery promise is what keeps refund requests low.",
-    "Then run the margin test on three products you actually want to sell. For each one, add the supplier price, the marketplace markup if any, shipping, and the fee for the plan tier you need, then compare with the retail price you can defend. If the gross margin lands below thirty-five percent before ad cost, the product is a bad fit regardless of the platform, so score the marketplace on the products you can really sell, not on the total supplier count.",
-    "Finally, pilot before you commit. Import a small catalog, place one test order per supplier you plan to keep, and measure the full cycle from order to delivered package over two weeks. That one pilot tells you more than any comparison table. The DTCwise dropshipping category at /category/dropshipping keeps the current shortlist of supplier marketplaces with ratings and pricing, and the Syncee page at /tool/syncee covers the plan structure, so the fit test stays a comparison you can finish in an afternoon."
-  ]
+  "slot": 0
 }
