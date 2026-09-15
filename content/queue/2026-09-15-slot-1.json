@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "modalyst-review-who-it-fits-and-who-should-skip-it",
-  "title": "Modalyst Review: Who It Fits and Who Should Skip It",
-  "excerpt": "Modalyst is not a one-size-fits-all supplier network. It shines for stores that need fast US shipping and brand-ready suppliers, and it disappoints sellers competing purely on price. This fit test walks through the five questions that decide which camp you are in.",
   "date": "2026-09-15",
-  "category": "Dropshipping",
-  "body": [
-    "Feature lists make every dropshipping supplier network look the same, which is why the useful question is not what a platform offers but whether your store model fits it. Modalyst built its reputation on two things: US-based suppliers with faster delivery and a curated set of brand-ready products. That positioning is a perfect match for some stores and a costly mismatch for others, so the decision is really a five-question fit test you can run in an afternoon.",
-    "Question one is what your buyer expects on delivery speed. If you sell products customers expect within days, such as home goods, apparel, or anything gift-adjacent, the US warehouse advantage directly lifts conversion and cuts refund requests. If your buyers already accept two-week delivery because your prices are aggressive, that advantage is worth much less to you, and the cheaper overseas sourcing route stays competitive.",
-    "Question two is whether your margin model can carry the product cost. Curated suppliers charge more per unit than raw overseas listings because they add quality control, faster shipping, and cleaner product data. If you compete on price in a saturated niche, that per-unit premium eats the profit on every order. If you sell higher-ticket items or brand-driven products, the premium is the point, because it buys you the delivery experience that justifies the retail price.",
-    "Question three is how much time you want to spend on supplier management. Modalyst automates order routing and inventory sync, and its curated catalog removes the need to vet every supplier yourself. That is the right trade for a solo founder who wants to spend hours on marketing, not on supplier chat windows. If you enjoy negotiating directly with factories and already have a shortlist of suppliers, the automation is a feature you are paying for but not using.",
-    "Question four is product selection depth. The curated catalog is intentionally smaller than the open marketplaces, and that filter is valuable when it points you to proven products, but limiting if your niche depends on odd sizes, custom branding, or products the catalog does not cover. Check your top ten product ideas against the catalog before you commit, not after.",
-    "The practical test is a small pilot. Build a mini storefront with three products, place real test orders through the platform, and measure the cycle from order to delivered package on the actual routes your buyers will use. That measurement beats any comparison table. The DTCwise dropshipping category at /category/dropshipping keeps the current shortlist of supplier networks with ratings and pricing, and the Modalyst page at /tool/modalyst covers the plan structure, so the fit test stays grounded in data you can check today."
-  ]
+  "slot": 1
 }
