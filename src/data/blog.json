@@ -1,5 +1,20 @@
 [
   {
+    "slug": "subliminator-pricing-what-you-actually-pay-year-one",
+    "title": "Subliminator Pricing: What You Actually Pay in Year One",
+    "excerpt": "Most print-on-demand pricing conversations stop at the base price per item. Subliminator charges per order with no monthly fee, but the real year-one cost includes samples, shipping, reprints, and slow-moving inventory. Here is the full breakdown before you commit.",
+    "date": "2026-09-15",
+    "category": "Print-on-Demand",
+    "body": [
+      "Most print-on-demand pricing conversations stop at the base price per item, and that is where budget planning goes wrong. Subliminator charges per order with no monthly subscription, which sounds simple, but the cost you actually pay in year one is the base price multiplied by your order volume plus a stack of smaller line items that do not show up on the product page. Breaking those line items down before you launch tells you whether your retail price can carry them.",
+      "The first line item is the base print price, and it moves with quantity. Every order carries the cost of the blank product, the sublimation print, and the packaging, and most printers price these per item with tiered discounts as the quantity grows. The mistake is planning your margin around the discounted tier while your early orders sit at the single-unit rate. Build your year-one forecast on the tier you will actually hit in month three, not the tier you hope to hit by month twelve.",
+      "The second line item is samples, and it is the one sellers skip most often. Before you list a single design, you need a physical sample of every product and every placement you plan to sell, which means the product cost, shipping, and any import duty on a handful of pieces. It is a one-time cost, but it lands early, usually before the first dollar of revenue, so it needs a line in your startup budget instead of a surprise.",
+      "The third line item is shipping, and it behaves differently depending on where your buyers are. A printer with US production ships domestic orders fast, and fast delivery directly reduces refund requests, but the freight still comes out of your margin on every order. International orders add more, and if your target market is overseas, the shipping cost can exceed the print cost on small items, which rewrites the products you can profitably sell.",
+      "The fourth line item is the hidden one: reprints and quality failures. Sublimation printing rejects a small percentage of pieces, buyers occasionally return an item because the print placement or sizing did not match the photo, and every reprint consumes product and shipping cost twice. On a high-margin design this is absorbed quietly, on a low-margin design it can wipe out the profit of several sales, so keep the failure allowance inside your price.",
+      "The way to use all of this is a simple forecast. Write down your expected monthly orders, apply the tier you will realistically hit, add samples, shipping, and a failure allowance, and divide by your order count to get the true cost per order. Compare that to your retail price before you build your store around it. The DTCwise print-on-demand category at /category/pod keeps the current shortlist of printers with ratings and pricing, and the Subliminator page at /tool/subliminator covers the plan structure, so the full year-one estimate is something you can finish in one afternoon."
+    ]
+  },
+  {
     "slug": "how-to-build-a-multi-carrier-shipping-strategy",
     "title": "How to Build a Multi-Carrier Shipping Strategy",
     "excerpt": "One carrier for every order means paying premium rates on small parcels and losing negotiating power on volume. A practical framework for splitting orders across carriers by weight, speed, and destination.",
