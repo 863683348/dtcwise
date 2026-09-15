@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-choose-a-subscription-billing-app",
-  "title": "How to Choose a Subscription Billing App: A Fit Test",
-  "excerpt": "Subscription apps look similar until you map them to your offer. This fit test scores billing flexibility, payment recovery, customer self-service, and Shopify integration depth so you pick the one that survives year two, not just launch week.",
   "date": "2026-09-15",
-  "category": "Subscription & Loyalty",
-  "body": [
-    "Every subscription app sells the same headline: set up recurring billing in minutes. The differences only appear when you map an app to the specific offer you actually run, which is why the common mistake is choosing on feature count instead of fit. A useful selection process scores four dimensions against your real subscription model, and it takes one afternoon with a trial account.",
-    "The first dimension is billing flexibility, and it starts with the shape of your offer. A fixed monthly subscription for the same product every cycle is the easy case that every app handles. The hard cases are the ones you will add later: prorating when a customer upgrades mid-cycle, allowing quantity changes without canceling, mixing one-time add-ons into a recurring order, and letting subscribers swap variants from cycle to cycle. Sketch your subscription in three stages, launch, month three, and year one, then check whether the app still fits at each stage, because re-platforming a subscription base later is expensive and disruptive.",
-    "The second dimension is payment recovery, which is the biggest lever on subscription revenue. Cards fail on renewal day for reasons customers never fix on their own, and the difference between a 5 percent and a 15 percent recovery rate is a direct margin swing. Look for smart retries that adapt timing to the payment network, automatic card updater integration, and clear failure reporting that tells you which subscribers need a manual nudge before they churn for good.",
-    "The third dimension is customer self-service. The subscription relationship is a continuous one, so your buyers will want to pause a delivery, skip a month, change the frequency, or update their card without emailing support. A solid customer portal cuts support tickets at the exact moment your volume grows, and it reduces churn from frustration, because a subscriber who can fix their own problem stays subscribed.",
-    "The fourth dimension is integration depth with your store and your migration path. Confirm that the app writes subscription orders into your store's native order flow, respects your discount and loyalty apps, and handles your tax setup. If you already run subscriptions on another app, ask how cleanly the customer and payment data migrates, because starting a subset of subscribers fresh is often more honest than a promised bulk migration that lands in the wrong state.",
-    "Run the trial the way your customers will use it: set up your real products, place a real test order, pause and resume it, and force a failed payment to watch the retry sequence. That exercise decides the winner faster than any feature matrix. The DTCwise subscription and loyalty category at /category/subscription keeps the current shortlist of billing apps with ratings and pricing, and the Recharge page at /tool/recharge covers the plan structure, so the fit test stays grounded in numbers you can verify today."
-  ]
+  "slot": 3
 }
