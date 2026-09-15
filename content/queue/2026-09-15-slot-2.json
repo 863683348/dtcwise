@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "gooten-pricing-what-you-actually-pay-year-one",
-  "title": "Gooten Pricing: What You Actually Pay in Year One",
-  "excerpt": "Gooten quotes a per-item price with no monthly subscription, but the year-one bill also carries samples, shipping, reprint risk, and integration costs. This breakdown walks through every line item so you can estimate your real number before you sign up.",
   "date": "2026-09-15",
-  "category": "Fulfillment & Shipping",
-  "body": [
-    "Gooten presents its pricing as a simple per-item quote with no monthly subscription, and that is true as far as it goes. The number that matters for your business is the year-one total, which is the per-item price multiplied by your order volume plus a set of surrounding costs that never appear on a pricing page. Listing those costs explicitly is the difference between a budget that holds and a margin that quietly evaporates by month six.",
-    "The base per-item price is where most planning starts and stops. Gooten quotes each product with its own print and shipping cost, and the unit price drops as order volume grows, so the first decision is which volume tier your forecast supports. A store that sells one hundred units a month gets a very different quote than one selling ten, and quoting your expected volume up front gives you a number you can actually plan against instead of a single-unit sticker price.",
-    "The second line item is samples, and it is the most commonly skipped cost in print-on-demand planning. You need physical samples of every product and placement you intend to sell, because print alignment, fabric feel, and size accuracy only reveal themselves in hand. With a network like Gooten that spans multiple production partners, sample across the partners you will actually use, since quality can differ between facilities, and factor in shipping and any duties on those sample pieces.",
-    "The third line item is shipping across your fulfillment network. Gooten routes production to facilities near the buyer, which shortens delivery windows and reduces the freight your customer sees, but the shipping cost is still part of your landed price. The routing advantage shows up in conversion and refund rates, not in the line item itself, so measure delivery-time complaints before and after, and keep freight inside your margin on every order.",
-    "The fourth line item is the hidden one: reprints, quality failures, and returns. A small percentage of pieces fail quality checks, buyers return items for size or print placement reasons, and every reprint charges product and shipping a second time. On high-margin designs that is absorbed, on low-margin designs it erases several sales worth of profit, so build a failure allowance into your price rather than discovering it at reconciliation.",
-    "Turn the list into a forecast the same way you would for any supplier. Estimate monthly orders, apply your realistic volume tier, add samples, network-specific freight, and a failure allowance, then divide by order count for the true cost per order and compare it to your retail price. The DTCwise fulfillment and shipping category at /category/fulfillment keeps the current shortlist of production and fulfillment partners with ratings and pricing, and the Gooten page at /tool/gooten covers the quote structure, so the year-one estimate is a spreadsheet you can finish in one sitting."
-  ]
+  "slot": 2
 }
