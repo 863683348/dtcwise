@@ -1,5 +1,20 @@
 [
   {
+    "slug": "what-cross-border-payment-settlement-really-costs",
+    "title": "What Cross-Border Payment Settlement Really Costs Your Store",
+    "excerpt": "The fee you see at checkout is only the first layer of cross-border payment cost. Currency conversion, settlement timing, failed payments, and held balances quietly eat margin. This breakdown shows where the money goes and how to measure it.",
+    "date": "2026-09-15",
+    "category": "Payments & FX",
+    "body": [
+      "When a store owner talks about payment costs, they usually mean the processing fee shown at checkout, and that is only the top layer of the real number. For a store selling across borders, the actual cost of accepting money is the processing fee plus currency conversion, settlement timing, failed payments, and the friction of moving revenue into the accounts where you need it. Each layer is small on its own, together they can take several points off your margin, so it pays to measure them separately.",
+      "The first layer is the processing fee itself, and it is not one number. Domestic card transactions sit at one rate, cross-border transactions add an international assessment on top, and cards from some regions cost more than others. If most of your buyers pay in foreign currency with foreign-issued cards, the effective rate you pay is higher than the rate on your pricing page, so pull your statement and divide total fees by total volume to get your real blended rate.",
+      "The second layer is currency conversion, and this is where most stores overpay silently. When a buyer pays in their local currency, someone converts the funds, and the difference between the mid-market rate and the rate you actually receive is a fee that rarely appears on any invoice. The same applies when you convert payouts into your own currency to pay suppliers. Comparing the conversion rate your processor applies against the market rate, on every settlement, shows exactly how much of your margin is going to the spread.",
+      "The third layer is settlement timing, which is easy to ignore and expensive at scale. Some providers settle in a day, others hold funds for several days, and every day in the pipeline is working capital you cannot use for inventory or ads. Over a year of steady volume, a few extra days of delay on every batch is the equivalent of giving the provider an interest-free loan, so the settlement schedule belongs in the comparison alongside the fee percentage.",
+      "The fourth layer is the cost of friction in the money flow itself. Failed payments and declined cards mean lost sales and the time spent on follow-up. Cross-border payouts to suppliers or contractors carry their own transfer fees, and balances held in a foreign currency are exposed to exchange rate moves between settlement and the day you actually spend the funds. A provider that lets you hold and pay out in the same currency you earn in removes most of this friction in one move.",
+      "The way to make this measurable is a simple monthly statement review. Add your blended processing rate, the conversion spread on every batch, the working capital cost of settlement delay, and the payout fees, then compare the total against what an alternative setup would charge on the same volume. The DTCwise payments and FX category at /category/payments keeps the current shortlist of cross-border payment providers with ratings and pricing, and the Airwallex page at /tool/airwallex covers the account structure, so the full cost picture is something you can calculate this week."
+    ]
+  },
+  {
     "slug": "how-to-choose-a-subscription-billing-app",
     "title": "How to Choose a Subscription Billing App: A Fit Test",
     "excerpt": "Subscription apps look similar until you map them to your offer. This fit test scores billing flexibility, payment recovery, customer self-service, and Shopify integration depth so you pick the one that survives year two, not just launch week.",
