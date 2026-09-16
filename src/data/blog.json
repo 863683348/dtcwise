@@ -1,5 +1,20 @@
 [
   {
+    "slug": "apliiq-review-who-it-fits-and-who-should-skip-it",
+    "title": "Apliiq Review: Who It Fits and Who Should Skip It",
+    "excerpt": "Apliiq is a US-based print-on-demand service built around cut-and-sew blanks and premium finishes, which makes it a fit for some stores and a poor fit for others. This review walks through the scenarios where it earns its price and the cases where a simpler printer makes more sense.",
+    "date": "2026-09-16",
+    "category": "Print-on-Demand",
+    "body": [
+      "Print-on-demand services are usually compared on price per item, and that comparison hides the real question, which is whether the service fits the product you are selling. Apliiq is a US-based printer known for cut-and-sew blanks, premium fabrics, and branded labels, which means it sits at a different point in the market than budget printers. The useful question is not whether Apliiq is good, but which store profiles it is built for and which ones should look elsewhere.",
+      "Apliiq fits stores that treat clothing quality as the product. If your brand competes on the feel of the fabric, the cut of the garment, and the finish of the print rather than on price, the higher per-item cost is a feature, not a bug. Brands selling to customers who return when the fabric is thin, or who review on the weight of the garment, see fewer returns and better reviews when the blank quality is the differentiator. That is the store profile where the service earns its price every month.",
+      "Apliiq also fits stores that need brand detail on the physical product. Custom labels, premium packaging options, and consistent garment sizing matter when your buyers are repeat customers or when your product is a gift item where presentation is part of the value. A print shop that treats every order as a plain t-shirt cannot deliver that, and switching later is expensive because your catalog and photography are built around the previous product.",
+      "The service is a weaker fit for testing-heavy stores. If you are still discovering which designs sell, and you need to test dozens of variations against small budgets, the higher per-item cost of premium blanks multiplies the cost of every failed test. A budget printer lets you test a design for a fraction of the cost, and you can move to a premium printer only for the designs that have already proven themselves. The same logic applies to low-margin, high-volume stores where a few dollars per item decides whether the ad math works at all.",
+      "The practical version of this decision is a simple sequence. Start with your retail price and your ad cost per acquisition, subtract the cost per item at the printer you are considering, and check whether the margin survives. Then compare the failure costs, because a premium blank costs more to reprint and ship twice when a quality issue slips through. If the numbers work with premium blanks, the quality advantage compounds; if they barely work with a budget printer, they will not work with a premium one.",
+      "The DTCwise print-on-demand category at /category/pod keeps the current shortlist of printers with ratings and pricing, and the Apliiq page at /tool/apliiq covers the product catalog and plan structure, so you can check the fit against your own margin in one sitting. The rule to remember is simple: pick the printer that matches your product promise, not the one with the cheapest base price."
+    ]
+  },
+  {
     "slug": "how-to-split-support-between-chatbots-email-and-humans",
     "title": "How to Split Support Between Chatbots, Email, and Humans",
     "excerpt": "Good customer support is not about picking one channel, it is about deciding which layer handles which job. This breakdown shows how to divide work between chatbots, email, and human agents so simple questions resolve instantly and hard problems still get a person.",
