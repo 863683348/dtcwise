@@ -1,5 +1,20 @@
 [
   {
+    "slug": "what-building-an-online-store-really-costs-four-paths",
+    "title": "What Building an Online Store Really Costs: Four Paths",
+    "excerpt": "The cost of launching a store depends on which building path you choose, and the differences go far beyond the monthly fee. This breakdown compares four realistic paths, from a hosted builder to a custom build, including the costs that never appear on a pricing page.",
+    "date": "2026-09-16",
+    "category": "Store Builders",
+    "body": [
+      "Most store builders advertise a monthly price, and that number is the least useful part of the launch budget. The real cost of building an online store is the monthly plan plus the app stack, the theme, the payment fees, and the hours of your own time, and every one of those changes depending on which of the four main paths you choose. Comparing the paths on total year-one cost, rather than the headline subscription, is the difference between a budget that survives and one that surprises you.",
+      "The first path is a hosted store builder, which is the default choice for most DTC sellers. Platforms like Shopify charge a monthly plan, but the real budget comes from the apps you add, because the built-in feature set covers a fraction of what a growing store needs. Email marketing, reviews, subscriptions, loyalty, and shipping tools each add a subscription, and together they often exceed the base plan. The advantage is speed: you can be live in a weekend, and the platform absorbs hosting, security, and updates. The cost is that every specialized feature becomes another monthly line item.",
+      "The second path is a website builder that starts cheaper and asks you to assemble more yourself. Drag-and-drop builders cover stores with simple catalogs and light feature needs, and the entry cost is genuinely lower, which suits a side project or a single-product store. The trade-off appears at the edges: custom checkout behavior, deeper shipping rules, and advanced integrations get harder, and many sellers end up migrating to a fuller platform after their first growth spurt. If you choose this path, price the migration in from day one.",
+      "The third path is open-source self-hosting, which has the lowest subscription cost and the highest hidden cost. You pay for the software once, but then you pay for hosting, security, updates, and every bug fix in your own time or your developer's time. A store that needs heavy customization can make this path worthwhile, but a small catalog on a managed platform is usually cheaper in real terms, because your hours have a value even when you do not bill them.",
+      "The fourth path is a headless or custom build, and it is only worth the money at a specific stage. Separating the front end from the commerce backend gives you total control over speed and design, but it multiplies the development cost and the number of systems you maintain. For most stores this is a later-stage upgrade, not a launch decision, and the right trigger is usually a measurable problem like checkout speed or a design ceiling, not a vague desire for more control.",
+      "The way to choose is to price all four paths against your actual plan. Write down your catalog size, your feature needs, your design ambition, and the hours you can spend, then estimate the year-one cost of each path including apps, fees, and your time. The DTCwise store builders category at /category/storebuilder keeps the current shortlist of platforms with ratings and pricing, and the Shopify page at /tool/shopify covers the plan structure, so you can run the comparison against real numbers this week."
+    ]
+  },
+  {
     "slug": "gooten-alternatives-for-scalable-fulfillment-shortlist",
     "title": "Gooten Alternatives for Scalable Fulfillment: A Shortlist",
     "excerpt": "Gooten is a solid on-demand fulfillment network, but it is not the only route to scalable shipping. This shortlist covers the alternative setups worth evaluating when your store outgrows a single printer or needs faster domestic delivery, with the trade-offs of each.",
