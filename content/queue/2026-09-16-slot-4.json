@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-split-support-between-chatbots-email-and-humans",
-  "title": "How to Split Support Between Chatbots, Email, and Humans",
-  "excerpt": "Good customer support is not about picking one channel, it is about deciding which layer handles which job. This breakdown shows how to divide work between chatbots, email, and human agents so simple questions resolve instantly and hard problems still get a person.",
   "date": "2026-09-16",
-  "category": "Customer Support",
-  "body": [
-    "The first mistake stores make with customer support is treating automation as a replacement for people. The better model is a layered system where a chatbot, email, and human agents each handle the work they are good at, and the goal is to keep response times low without making customers feel trapped in a loop. The way to build that split is to start from the questions your customers actually ask, then assign each type of work to the layer that resolves it fastest.",
-    "The first layer is the chatbot, and it should handle only the questions that have a correct answer. Order status, tracking numbers, return window rules, shipping times, and simple product facts are resolved instantly by a bot that is wired to your order data, and resolving them automatically removes the bulk of repetitive tickets from your queue. The trap is letting the bot answer questions it cannot verify, because a confident wrong answer creates a worse experience than a slow one, so give the bot only the questions where it can pull a fact from your systems.",
-    "The second layer is email, and it is the workhorse for anything that needs context. Product fit questions, sizing issues, exchange requests, and order changes benefit from a written trail and a human touch, and email gives agents the time to check the order history before replying. The cost of email is latency, which is why it works best for problems that do not need an immediate answer. Setting a clear reply-time target, even a simple one like within a few hours, keeps this layer predictable without hiring a full team.",
-    "The third layer is live human support, and it is reserved for the cases that genuinely need it. Account access problems, billing disputes, damaged items, and anything where a customer is frustrated benefit from a person who can make a judgment call in real time. The mistake is opening live chat to every question, because that floods the most expensive resource with work the lower layers could have resolved. Instead, let the bot and email handle the resolvable cases and keep humans for the escalations that protect your revenue and your reputation.",
-    "The way to design the split is to measure your ticket mix first. For one week, tag every incoming question with the layer that should have resolved it, then count how many bot-answerable, email-answerable, and human-only tickets you see. Most stores find that a large share of their queue is fact questions that automation can absorb, which lets a small human team focus on the cases that actually move the needle on retention.",
-    "The DTCwise customer support category at /category/support keeps the current shortlist of helpdesk tools with ratings and pricing, and the Gorgias page at /tool/gorgias covers the channel setup, so you can build the layered model with real response-time targets this month."
-  ]
+  "slot": 4
 }
