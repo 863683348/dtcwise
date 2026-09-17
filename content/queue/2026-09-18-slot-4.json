@@ -1,0 +1,15 @@
+{
+  "slug": "how-to-optimize-collection-pages-for-seo",
+  "title": "How to Optimize Collection Pages for SEO",
+  "excerpt": "Collection pages carry the commercial-intent searches that shoppers use right before buying, yet many stores leave them as auto-generated grids. This guide covers the keyword focus, page copy, supporting structure, and proof signals that make a category page earn clicks and rank.",
+  "date": "2026-09-18",
+  "category": "SEO",
+  "body": [
+    "Collection pages are often the most valuable pages on a DTC store, because they target the commercial-intent keywords that shoppers use right before buying. Yet many stores treat them as afterthoughts, letting the platform auto-generate a generic heading and a product grid with no supporting copy. Optimizing a collection page is a focused project that pays back quickly when done systematically.",
+    "Start with the keyword and the intent behind it. Each collection should target one clear commercial phrase, such as a category, a use case, or an audience, and the page should make it obvious that it is the best answer for that query. Match the collection title to the phrase shoppers actually search, and avoid collections that combine unrelated products under a vague name, because a fuzzy collection ranks for nothing and confuses buyers.",
+    "Write a real description above or below the grid. Search engines need text to understand what the collection is about, and shoppers need a reason to stay. A short, useful block that explains the range, names the top benefits, and answers the obvious questions outperforms a wall of keywords, and it also gives you room to differentiate the collection from every similar page on the internet.",
+    "Strengthen the page with supporting structure. Clean URLs that include the keyword, a single descriptive title tag, a meta description that states the offer, and internal links from the homepage, blog, and related collections all push relevance signals. Breadcrumbs and a logical category hierarchy help both crawlers and customers understand where the page sits in your store.",
+    "Add proof and navigation signals that keep shoppers on the page. Filtering by price, size, color, and rating turns a generic grid into a useful shopping surface, and review snippets or bestseller markers add the social proof that converts. Pages that help a visitor narrow down to the right product rank better on engagement and sell more of what they do get traffic.",
+    "Audit your existing collections before building new ones. Find the pages with the most impressions but weak click-through, tighten their titles and descriptions, add copy where none exists, and watch the search console data for two to four weeks to see which changes move the needle. The DTCwise SEO category at /category/seo keeps the current list of SEO tools with ratings and pricing, and the Semrush page at /tool/semrush covers the keyword and audit workflows you need to prioritize which collection pages to fix first."
+  ]
+}
