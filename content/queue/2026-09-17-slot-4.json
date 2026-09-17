@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-protect-margins-from-fx-volatility",
-  "title": "How to Protect Your Margins from FX Volatility",
-  "excerpt": "Cross-border sellers price in one currency and get paid in another, and currency swings quietly change the profit on every order. This guide covers multi-currency accounts, settlement timing, local-currency pricing, and simple hedging so exchange rates stop eroding your margin.",
   "date": "2026-09-17",
-  "category": "Payments & FX",
-  "body": [
-    "Most cross-border sellers watch conversion rates only when they transfer money, but exchange rates move your profit on every single order from the moment you quote a price. You set a price in one currency, your buyer pays in another, and the settlement rate decides how much actually lands in your account. A few percent of movement on a thin-margin product is the difference between a profitable campaign and a losing one, so currency management belongs in your pricing process, not just your payout routine.",
-    "The first protection is a multi-currency account. Instead of converting everything into one home currency and paying fees at every step, hold the currencies you actually earn in separate balances and convert only when the rate is favorable or when you need funds. This gives you timing control, because you can wait out bad rates instead of accepting whatever the conversion window offers, and it removes the double conversion that happens when you move funds through an intermediate currency.",
-    "The second protection is settlement and payout timing. The rate you receive depends on when the payment processor converts your funds, and different providers settle on different schedules, from same-day to several days later. That delay is a hidden lottery when rates move quickly. Choose a payout cadence that matches your cost cycle: if you buy inventory weekly, converting earnings on the same weekly rhythm means your income and your costs move together and the rate difference stays small.",
-    "The third protection is local-currency pricing. When you show buyers prices in their own currency, they understand the cost instantly and your conversion rate rises, and the exchange rate applied to those prices is something you control in your pricing tool rather than something your payment processor decides at checkout. Set your display rate with a small buffer above the mid-market rate so short-term swings are absorbed by the buffer instead of cutting into your margin, and review that buffer as rates trend in either direction.",
-    "The fourth protection is a simple hedging habit. Full hedging products are overkill for most stores, but you can smooth volatility with basic moves: order inventory in the same currency you sell in where your suppliers allow it, lock in rates for large upcoming purchases when the rate is favorable, and hold a small cash buffer in your main selling currency so you are never forced to convert at a bad moment to pay a bill.",
-    "Build the routine once and it runs quietly in the background. Set your pricing buffer, choose a settlement cadence that matches your costs, keep balances in the currencies you earn, and review your effective rate every month to see where margin is leaking. The DTCwise payments category at /category/payments keeps the current list of cross-border payment providers with ratings and fees, and the Airwallex page at /tool/airwallex covers multi-currency accounts and settlement options you can set up today."
-  ]
+  "slot": 4
 }
