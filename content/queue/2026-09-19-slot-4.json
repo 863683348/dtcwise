@@ -1,0 +1,15 @@
+{
+  "slug": "what-fulfillment-metrics-matter-in-year-one",
+  "title": "What Fulfillment Metrics Actually Matter in Year One",
+  "excerpt": "New stores track shipping cost while ignoring the metrics that decide repeat sales. Here are the fulfillment numbers that matter in year one and how to build a scorecard around them.",
+  "date": "2026-09-19",
+  "category": "Fulfillment & Shipping",
+  "body": [
+    "New DTC owners usually track the wrong fulfillment numbers. They watch shipping cost per order, which feels urgent, while ignoring the metrics that actually decide whether customers come back: on-time delivery, order accuracy, and how fast an order leaves your door. In the first year, the goal is not the cheapest fulfillment, it is fulfillment that is consistent enough to protect your reputation and your repeat purchase rate.",
+    "On-time delivery rate is the number that matters most. Measure the share of orders that arrive within the window you promised at checkout, because that promise is what your ad copy and product page set. When on-time rate drops below the high nineties, refund requests and chargebacks climb, and ad platforms and marketplaces start to treat your store as a delivery risk.",
+    "Order accuracy is the second metric. It measures how often customers receive exactly what they ordered, in the right size, color, and quantity. A wrong item or a missing part produces a support ticket, a return, and often a bad review, all of which cost far more than the shipping label that caused the error. If accuracy slips, slow down automation and add a quality check before fixing anything else.",
+    "Order-to-dispatch time is the third. It is the gap between the moment a customer pays and the moment the carrier scans the package. Short dispatch times reduce the window for buyer anxiety and cancellation requests, and they feed straight into your on-time rate. If you fulfill in-house, this metric tells you whether your picking process can scale; if you use a 3PL, it tells you whether the partner is actually performing.",
+    "The cost metrics matter, but only in context. Landed cost per order, which combines pick, pack, label, and delivery, is useful for pricing decisions, but a cheap option with a poor on-time rate will cost you more in refunds and lost repeat purchases than it saves. Build a scorecard that weighs cost against the three service metrics above and make trade-offs against the scorecard, not against the invoice.",
+    "Pick the two metrics you are worst at and set a sixty-day target for each, then review them weekly until they move. Most stores find that fixing dispatch time lifts on-time delivery and reduces support load at the same time. The DTCwise Fulfillment and Shipping category at /category/fulfillment keeps the current shortlist of 3PLs and shipping tools with ratings and pricing, and the ShipBob page at /tool/shipbob covers its fulfillment plans and dashboard."
+  ]
+}

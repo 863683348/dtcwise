@@ -1,0 +1,15 @@
+{
+  "slug": "how-to-build-a-loyalty-program-without-killing-margins",
+  "title": "How to Build a Loyalty Program Without Killing Margins",
+  "excerpt": "Loyalty programs quietly destroy margins when points become blanket discounts. This guide structures points, referrals, and VIP tiers so every reward pays for itself through a repeat purchase.",
+  "date": "2026-09-19",
+  "category": "Subscription & Loyalty",
+  "body": [
+    "A loyalty program is easy to design badly: hand out points on every dollar, let customers redeem them against anything, and watch your margin disappear under the rewards you promised. The version that works treats points, referrals, and VIP tiers as levers that drive a second purchase, not as a blanket discount. The discipline is to structure every reward so it pays for itself through incremental revenue.",
+    "Start with the earning side. Award points on the behaviors you actually want more of, such as a second order, a review with a photo, a birthday-month purchase, or a referral that converts. When points reward a repeat purchase rather than just a first one, you are using the program to move a customer from one order to two, which is where the real profit lives in DTC.",
+    "Then set a redemption structure that protects margin. Cap the discount a reward can apply, exclude already-discounted items from redemption, or require a minimum order value before points can be used. A customer who has to spend a little more to redeem will return more value to you than one who burns points on a low-ticket item you barely make money on.",
+    "Referrals deserve their own careful design. A reward that gives the referrer credit after the friend's first order converts more cleanly than one that pays out before, because it ties your cost to an actual sale. You can also reward the new customer with a first-order benefit that lifts their lifetime value, so the program builds a cohort of buyers instead of a stream of one-time deals.",
+    "VIP tiers change the economics again. Instead of offering discounts to everyone, gate your best perks behind a spending threshold, which makes the program a retention tool rather than a price cut for the whole customer base. Tiers based on annual spend also give you a natural reason to email customers about how close they are to the next level, a message that consistently lifts repeat purchase rates.",
+    "Before launch, model the worst case: assume every earned point gets redeemed at its maximum value and check that your blended margin still holds. That single test separates a program that builds loyalty from one that quietly buys it. The DTCwise Subscriptions and Loyalty category at /category/subscription keeps the current shortlist of loyalty apps with ratings and pricing, and the Smile.io page at /tool/smile covers its points, referrals, and VIP features."
+  ]
+}
