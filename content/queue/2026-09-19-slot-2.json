@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "alidropship-pricing-what-you-actually-pay-year-one",
-  "title": "AliDropship Pricing: What You Actually Pay in Year One",
-  "excerpt": "AliDropship runs on a one-time license instead of a monthly fee. This breakdown totals the real year-one cost, including the WordPress site, hosting, and per-order product and shipping expenses every dropshipper carries.",
   "date": "2026-09-19",
-  "category": "Dropshipping",
-  "body": [
-    "AliDropship stands out in the dropshipping world for one reason: it charges a one-time fee instead of a monthly subscription. The core plugin costs a single upfront payment, and after that you are not on a recurring SaaS meter. That model is attractive on day one, but the real question for a buyer is what the full year actually costs once you add the WordPress site, hosting, a domain, a theme, and the product and shipping costs that every dropshipper pays regardless of platform.",
-    "The one-time license is the headline number, and it buys the WordPress plugin that turns AliExpress products into an automated store. That single payment replaces the recurring fees of subscription-based alternatives, which can run from free tiers up to several hundred dollars a month depending on order volume. Over a full year, the math can favor the one-time model for a store that plans to operate steadily rather than sprint for a few months and then stop.",
-    "The real cost picture includes the store itself. AliDropship runs on WordPress and WooCommerce, so you are paying for hosting, a domain, a theme, and the small plugin add-ons that make a WooCommerce store run smoothly. A lean setup can stay in the low tens of dollars per month, and a more managed setup with premium hosting and a commercial theme pushes that higher. Those are fixed costs you carry whether you sell ten orders or a thousand.",
-    "Then comes the variable side that every dropshipper carries: the AliExpress product price and the shipping cost passed through on each order. Because AliDropship links directly to AliExpress suppliers, your landed cost tracks those market prices, and your margin depends on how well you choose suppliers and how you set your retail prices. There is no US warehouse markup, but there is also no inventory buffer, so delivery times reflect whatever your supplier can offer.",
-    "The honest way to compare is to build a year-one table. Start with the one-time license, add twelve months of hosting and domain, add any premium theme or add-ons you need, then multiply your expected orders by the average margin per order after product and shipping. Compare that total against twelve months of a subscription platform at your projected order volume, and the winner usually depends on how consistent your monthly orders are.",
-    "For a store that owns its site outright and values a flat cost structure, the one-time model can save real money over a full year. For a store that needs fast US delivery or expects volumes to spike and drop, a subscription platform with warehouse support may justify its recurring fee. The DTCwise Dropshipping category at /category/dropshipping keeps the current shortlist of supplier platforms with ratings and pricing, and the AliDropship page at /tool/alidropship covers its license and cost structure in detail."
-  ]
+  "slot": 2
 }
