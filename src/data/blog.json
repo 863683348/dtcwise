@@ -1,5 +1,35 @@
 [
   {
+    "slug": "what-fulfillment-metrics-matter-in-year-one",
+    "title": "What Fulfillment Metrics Actually Matter in Year One",
+    "excerpt": "New stores track shipping cost while ignoring the metrics that decide repeat sales. Here are the fulfillment numbers that matter in year one and how to build a scorecard around them.",
+    "date": "2026-09-19",
+    "category": "Fulfillment & Shipping",
+    "body": [
+      "New DTC owners usually track the wrong fulfillment numbers. They watch shipping cost per order, which feels urgent, while ignoring the metrics that actually decide whether customers come back: on-time delivery, order accuracy, and how fast an order leaves your door. In the first year, the goal is not the cheapest fulfillment, it is fulfillment that is consistent enough to protect your reputation and your repeat purchase rate.",
+      "On-time delivery rate is the number that matters most. Measure the share of orders that arrive within the window you promised at checkout, because that promise is what your ad copy and product page set. When on-time rate drops below the high nineties, refund requests and chargebacks climb, and ad platforms and marketplaces start to treat your store as a delivery risk.",
+      "Order accuracy is the second metric. It measures how often customers receive exactly what they ordered, in the right size, color, and quantity. A wrong item or a missing part produces a support ticket, a return, and often a bad review, all of which cost far more than the shipping label that caused the error. If accuracy slips, slow down automation and add a quality check before fixing anything else.",
+      "Order-to-dispatch time is the third. It is the gap between the moment a customer pays and the moment the carrier scans the package. Short dispatch times reduce the window for buyer anxiety and cancellation requests, and they feed straight into your on-time rate. If you fulfill in-house, this metric tells you whether your picking process can scale; if you use a 3PL, it tells you whether the partner is actually performing.",
+      "The cost metrics matter, but only in context. Landed cost per order, which combines pick, pack, label, and delivery, is useful for pricing decisions, but a cheap option with a poor on-time rate will cost you more in refunds and lost repeat purchases than it saves. Build a scorecard that weighs cost against the three service metrics above and make trade-offs against the scorecard, not against the invoice.",
+      "Pick the two metrics you are worst at and set a sixty-day target for each, then review them weekly until they move. Most stores find that fixing dispatch time lifts on-time delivery and reduces support load at the same time. The DTCwise Fulfillment and Shipping category at /category/fulfillment keeps the current shortlist of 3PLs and shipping tools with ratings and pricing, and the ShipBob page at /tool/shipbob covers its fulfillment plans and dashboard."
+    ]
+  },
+  {
+    "slug": "zendrop-review-who-it-fits-and-who-should-skip-it",
+    "title": "Zendrop Review: Who It Fits and Who Should Skip It",
+    "excerpt": "Zendrop promises two-to-five-day US delivery with automatic fulfillment. This review lays out who the speed-focused platform genuinely fits, who should skip it, and the three numbers to check before you commit.",
+    "date": "2026-09-19",
+    "category": "Dropshipping",
+    "body": [
+      "Zendrop sits at the speed-focused end of the dropshipping spectrum. It operates its own US warehouses and promises two-to-five-day delivery, with order fulfillment handled automatically once a sale lands. For a store whose whole promise is fast arrival times and whose customers are in the United States, that positioning is exactly what converts window shoppers into buyers, because delivery speed is one of the strongest levers a dropshipping store has.",
+      "The clearest fit is a seller who ships mainly to US customers and sells products with steady, predictable demand. When you can forecast what sells, Zendrop's in-house inventory and fast dispatch keep your store's reputation intact, your ad account stable on delivery scores, and your refund requests low. That combination matters most when you run paid traffic, because ad platforms and marketplaces track late deliveries and penalize stores that miss their promises.",
+      "Zendrop also fits stores that want automation without building a supply chain. Private label and branding options, automatic order fulfillment, and a clean product import flow mean a small team can run a real catalog without a dedicated operations person. If your bottleneck is time rather than budget, a flat monthly plan often pays for itself in hours saved on manual order handling alone.",
+      "The store that should skip Zendrop is one competing purely on price in crowded commodity niches. When the same product is available from several suppliers and your customers choose on cost, a US-warehouse model with higher per-unit pricing will erode your margin before you earn the delivery-speed advantage. In that case a supplier-direct or AliExpress-based tool with lower product cost protects profit, even at the cost of longer delivery times.",
+      "The other store that should skip it is one with a wide, constantly rotating catalog. If you chase trending products and change your lineup every few weeks, holding in-house inventory across fast-moving SKUs becomes expensive, and you end up paying warehouse economics for products you may never reorder. A pay-per-order model with no monthly commitment suits experimenters better than a platform that rewards committed volumes.",
+      "Before you commit, run a two-week test on your five best sellers and track three numbers: landed cost per order, delivery speed versus your current setup, and the refund rate driven by delivery issues. If all three improve, the switch is justified. The DTCwise Dropshipping category at /category/dropshipping keeps the current shortlist of supplier platforms with ratings and pricing, and the Zendrop page at /tool/zendrop covers its plans and fee structure."
+    ]
+  },
+  {
     "slug": "how-to-build-a-loyalty-program-without-killing-margins",
     "title": "How to Build a Loyalty Program Without Killing Margins",
     "excerpt": "Loyalty programs quietly destroy margins when points become blanket discounts. This guide structures points, referrals, and VIP tiers so every reward pays for itself through a repeat purchase.",
