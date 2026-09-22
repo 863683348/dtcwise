@@ -206,7 +206,7 @@ export default function ToolPage({ params }: { params: { slug: string } }) {
             </table>
           </div>
           <p className="muted" style={{ fontSize: 13, marginTop: 10 }}>
-            Prices are list rates at review time and change often \u2014 confirm on the vendor site before buying.
+            Prices are list rates at review time and change often — confirm on the vendor site before buying.
           </p>
         </section>
       )}

@@ -96,24 +96,48 @@ function svg(tool) {
 </svg>`;
 }
 
-function buildFaq(tool) {
+function peersOf(tool, all) {
+  return all
+    .filter((x) => x.id !== tool.id && x.category === tool.category)
+    .sort((a, b) => (b.rating || 0) - (a.rating || 0))
+    .slice(0, 3);
+}
+
+/** 生成工具页 FAQ：全部字段由工具数据派生，不泄漏联盟/返佣等内部信息。 */
+function buildFaq(tool, all) {
   const label = catLabel[tool.category] || tool.category;
-  const rating = tool.rating || 0;
-  const intro =
-    tool.tagline ||
-    firstSentence(tool.review) ||
-    `${tool.name} is a ${label} tool for DTC sellers.`;
-  const worth =
-    rating >= 4.3
-      ? `Yes — ${tool.name} earns a ${rating.toFixed(1)}/5 editor rating and is a strong pick in the ${label} category for DTC and independent store operators.`
-      : `${tool.name} holds a ${rating.toFixed(1)}/5 rating. It is a viable option in ${label} for stores that prioritize its specific strengths over broader alternatives.`;
-  const cost = tool.commission
-    ? `${tool.name} pricing: ${tool.pricing}. Affiliates earn ${tool.commission} with a ${tool.cookie} cookie window.`
-    : `${tool.name} pricing: ${tool.pricing}.`;
+  const rating = Number(tool.rating || 0);
+  const peers = peersOf(tool, all);
+
+  const what = `${tool.name} is a ${label.toLowerCase()} tool for DTC, Shopify and independent e-commerce stores. ${tool.review}`;
+
+  let cost = `${tool.name} is listed at ${tool.pricing}.`;
+  if (tool.pricingTiers && tool.pricingTiers.length) {
+    cost += ` Current plans: ${tool.pricingTiers
+      .map((x) => `${x.name} ${x.price}${x.note ? ` (${x.note})` : ""}`)
+      .join("; ")}.`;
+  }
+  cost += " Vendor pricing changes often — confirm the current rate on the official site before subscribing.";
+
+  let worth = `${tool.name} scores ${rating.toFixed(1)}/5 in our hands-on review.`;
+  if (tool.pros && tool.pros.length) worth += ` Its main strengths: ${tool.pros.slice(0, 3).join(", ").toLowerCase()}.`;
+  if (tool.cons && tool.cons.length) worth += ` The trade-offs to accept: ${tool.cons.join(", ").toLowerCase()}.`;
+  if (tool.bestFor) worth += ` ${tool.bestFor}`;
+
+  let alt;
+  if (peers.length) {
+    alt = `If ${tool.name} is not the right fit, the closest options in our ${label} shortlist are ${peers
+      .map((p) => `${p.name} (${Number(p.rating || 0).toFixed(1)}/5, ${p.pricing})`)
+      .join(", ")}. Compare them side by side before you commit.`;
+  } else {
+    alt = `${tool.name} is currently one of the tools we cover in ${label}; browse the category page for the full shortlist.`;
+  }
+
   return [
-    { q: `What is ${tool.name}?`, a: intro },
+    { q: `What is ${tool.name}?`, a: what },
     { q: `How much does ${tool.name} cost?`, a: cost },
     { q: `Is ${tool.name} worth it for DTC brands?`, a: worth },
+    { q: `What are the best alternatives to ${tool.name}?`, a: alt },
   ];
 }
 
@@ -121,9 +145,8 @@ let count = 0;
 for (const t of tools) {
   fs.writeFileSync(path.join(outDir, `${t.id}.svg`), svg(t));
   t.screenshot = `/screenshots/${t.id}.svg`;
-  if (!Array.isArray(t.faq) || t.faq.length === 0) {
-    t.faq = buildFaq(t);
-  }
+  // FAQ 由数据强制重算：确保修订后的 buildFaq 能覆盖历史生成结果
+  t.faq = buildFaq(t, tools);
   count++;
 }
 fs.writeFileSync(dataPath, JSON.stringify(tools, null, 2) + "\n");
