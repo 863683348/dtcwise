@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-vet-a-curated-wholesale-marketplace-for-your-boutique",
-  "title": "How to Vet a Curated Wholesale Marketplace for Your Boutique",
-  "excerpt": "Curated wholesale marketplaces promise hand-picked brands, but curation quality varies. A five-step vetting process before committing your boutique's cash and shelf space.",
   "date": "2026-09-24",
-  "category": "Dropshipping",
-  "body": [
-    "Curated wholesale marketplaces sit between open supplier directories and traditional trade shows: platforms like Modalyst gather independent brands, review them, and present their catalogs to boutiques with integrated ordering. Curation is the selling point, but curation quality varies enormously between platforms and between brands on the same platform. A boutique that vets properly avoids the two expensive mistakes: dead inventory and brands that disappear after the first order.",
-    "Step one is auditing the curation process itself. Ask what the platform actually verifies: business registration, product samples, brand revenue, or just a signup form? Platforms that publish their vetting criteria and rejection rates are more trustworthy than ones that market curation without evidence. Also check brand churn: a healthy marketplace grows its brand count; a struggling one quietly loses brands, and every departed brand is a reorder problem for boutiques holding its inventory.",
-    "Step two is evaluating individual brands as if you were buying direct, because you effectively are. Check whether the brand sells on its own site at prices that leave you margin after wholesale terms, whether its product photography matches what arrives, and how long it has been on the platform. New brands carry risk but also freshness; look for at least one social presence and consistent catalog activity over months, not a single upload.",
-    "Step three is modeling the real unit economics, which means reading wholesale terms beyond the sticker price. Minimum order quantities per style, case-pack sizes, shipping costs from the brand's region, return policies on unsold stock, and payment terms all change the math. A product at forty dollars wholesale with a six-piece minimum and no returns is riskier than a fifty-dollar product you can buy two of at a time. Marketplaces differ here too: some enforce net payment terms and consolidated shipping, others pass brand policies straight through.",
-    "Step four is the test order. Buy the smallest possible assortment from three to five brands, receive it, inspect packaging and consistency, and, if you operate physical retail, put the pieces on the floor for two weekends before any larger commitment. Digital-first boutiques should test the dropship path if the marketplace offers hybrid terms, since shipping time and packaging quality from independent brands vary more than any directory admits.",
-    "Step five is checking the platform's tools against your workflow: reorder speed, inventory sync if you sell both online and in-store, and net-terms financing. The DTCwise Dropshipping category at /category/dropshipping ranks curated marketplaces including Modalyst with current terms, and the Modalyst page at /tool/modalyst details its brand mix and fee structure. Vetting takes a week; replacing dead inventory takes a season."
-  ]
+  "slot": 2
 }
