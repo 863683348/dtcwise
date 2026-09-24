@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-build-a-cancellation-save-flow-for-subscriptions",
-  "title": "How to Build a Cancellation Save Flow for Subscriptions",
-  "excerpt": "Most cancellations are fixable, not churn. Build a four-step save flow: exit surveys, reason-matched offers, one-click pause, and honest save-rate measurement.",
   "date": "2026-09-20",
-  "category": "Subscription & Loyalty",
-  "body": [
-    "When a subscriber clicks cancel, the instinct is to show a discount immediately. That reflex saves some revenue but trains everyone to cancel for deals, and it ignores the real problem: cancellation reasons are different, and a flat offer only fixes one of them. A save flow worth building has four steps, each mapped to why people actually leave.",
-    "Step one is the exit survey, and it must be short enough that people answer it. Four or five categories cover most cases: too expensive, not using it enough, product fatigue, billing problem, and moving on. Keep the free-text box optional. What you learn here drives everything else, because a subscriber who had a failed payment is a completely different save than one who owns three unopened boxes.",
-    "Step two is matching the offer to the reason. Price objections respond to a temporary discount or a downgrade to a smaller plan. Product fatigue responds to letting them swap products or skip a cycle, which costs you nothing but inventory timing. Billing problems respond to fixing the payment method and apologizing. Offering fifty percent off to someone whose card expired is a pure margin donation, and it happens constantly in stores that skipped this step.",
-    "Step three is the pause option, which is the highest-value save most stores underuse. A one-click pause for thirty or sixty days keeps the subscription alive without forcing a decision. Many cancellations are really about timing, a buyer who over-ordered, a seasonal need, a temporary budget squeeze. Pause converts a permanent loss into a delayed restart, and its acceptance rate often beats any discount you could offer. Recharge and similar billing platforms expose pause natively, which makes this nearly free to implement. The billing tool page at /tool/recharge lists how pause, skip, and swap behaviors work per plan tier.",
-    "Step four is honest measurement. Track save rate by reason, revenue retained, and the margin impact of offers, plus restart rate for paused subscriptions. If your save flow retains twenty percent of cancellations with healthy margins, it is working. If it retains forty percent by giving away forty percent off to everyone, you are buying revenue and calling it loyalty.",
-    "The DTCwise Subscription and Loyalty category at /category/subscription compares billing and loyalty tools with current ratings, including which save-flow features ship by default versus require custom work. Build the flow once, measure it quarterly, and the compounding effect on recurring revenue is significant. Subscription businesses live and die by retention mechanics like this, not by top-of-funnel ads."
-  ]
+  "slot": 3
 }

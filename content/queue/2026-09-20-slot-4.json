@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-fight-chargebacks-without-losing-merchant-account",
-  "title": "How to Fight Chargebacks Without Losing Your Merchant Account",
-  "excerpt": "Chargebacks cost three times the refund: the sale, the fee, and your dispute ratio. Here is the prevention and evidence system that keeps your merchant account safe.",
   "date": "2026-09-20",
-  "category": "Payments & FX",
-  "body": [
-    "A chargeback never costs you just the refund. You lose the product if it already shipped, pay a dispute fee that often runs fifteen to twenty-five dollars, spend staff time assembling evidence, and inch closer to the dispute ratio that puts a merchant account on a monitoring program. Stores that treat chargebacks as random bad luck keep paying that full price. Stores with a system cut both the count and the losses.",
-    "Prevention starts with the three cheapest fixes. First, make your billing descriptor recognizable, because a meaningful share of disputes are simply buyers who did not connect a charge to your brand. Second, send an order confirmation that restates the product, price, and delivery window, which removes the surprise that triggers impulse disputes. Third, upload tracking numbers to the payment processor as standard practice, because tracking data is the single strongest evidence in most non-receipt disputes.",
-    "When a dispute does arrive, the response window is unforgiving, usually seven to ten days to submit evidence. Build your evidence package by dispute type rather than writing from scratch each time. For non-receipt claims, that is tracking with delivery confirmation and signature if the value justifies it. For product-not-as-described claims, that is product photos, your listing screenshots at the time of purchase, and your return policy. For fraud claims, that is IP match data, prior order history, and any communication with the buyer.",
-    "Understand what representment actually is: you are not arguing with the customer, you are presenting evidence to the issuing bank, and it decides based on documentation, not sympathy. Keep your submission factual, chronological, and short. Banks process thousands of these; a two-page package with the three decisive documents beats a twenty-page emotional letter every time.",
-    "Finally, monitor your dispute ratio monthly, not quarterly. Most card networks flag accounts around the one percent threshold, and rising ratios usually trace back to one product, one ad campaign, or one fulfillment failure. Dispute alert services can notify you before a chargeback formally lands, letting you refund the buyer directly and avoid the network dispute entirely. The DTCwise Payments and FX category at /category/payments covers payment processors and dispute tools with current ratings, and the Chargeflow page at /tool/chargeflow explains how automated dispute recovery works and what it costs when it wins.",
-    "Chargeback defense is not a finance problem, it is an operations habit. The stores with clean ratios are the ones where descriptors, confirmations, and tracking uploads happen automatically on every order, so disputes become rare exceptions instead of a monthly tax."
-  ]
+  "slot": 4
 }

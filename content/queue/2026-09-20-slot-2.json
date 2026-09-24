@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-evaluate-a-print-on-demand-platform-like-teelaunch",
-  "title": "How to Evaluate a Print-on-Demand Platform Like Teelaunch",
-  "excerpt": "A five-point evaluation for POD platforms that goes beyond the homepage: catalog depth, sample discipline, shipping granularity, integration behavior, and true unit cost.",
   "date": "2026-09-20",
-  "category": "Print-on-Demand",
-  "body": [
-    "Choosing a print on demand platform by homepage promises is how stores end up migrating twice in a year. Teelaunch is a good reference case because its strengths sit in places many sellers forget to check: catalog breadth beyond apparel and per-product production routing. Whether you end up with Teelaunch or a competitor, run every platform through the same five-point evaluation before you move your catalog.",
-    "Point one is catalog depth in your actual niche, not overall SKU count. A platform listing ten thousand products is useless if only forty make sense for your audience. Teelaunch, for example, extends well past shirts into mugs, posters, phone cases, and wall art, which matters if your brand can expand horizontally. List the twenty products you genuinely plan to sell in twelve months and confirm every one exists with acceptable base quality and mockup options today.",
-    "Point two is sample discipline. Any serious evaluation includes ordering your own products, and not just once. Order a thick-fabric item, a thin one, and something with multi-part assembly like a framed print. The differences in print quality and packaging between product lines tell you how the platform routes production. If one SKU arrives pristine and another arrives late with a crooked print, that variance will show up in your reviews at scale.",
-    "Point three is shipping granularity. Look for per-region rates rather than flat worldwide shipping, because flat rates mean you either overprice for your home market or lose money abroad. Check whether tracking events sync back to your store automatically and how the platform communicates production delays. Silence during a delay is what generates support tickets, and support tickets during a product launch are what generate refund requests.",
-    "Point four is integration behavior under stress. Connect the platform to a test store and simulate failures: an out-of-stock bestseller, an address rejection, a refund request after production started. The answers define your ops workload later. Point five is true unit cost, which means base price plus shipping plus transaction overhead on your realistic order mix, not the headline product price. The DTCwise Print-on-Demand category at /category/print-on-demand ranks platforms on these dimensions with current pricing, and the Teelaunch page at /tool/teelaunch maps its catalog, production times, and shipping model in detail.",
-    "Five points, one afternoon of testing, and you will know more than most sellers learn in a year of running on the wrong platform. The stores that win with POD are rarely the ones with the best designs alone; they are the ones whose fulfillment layer never becomes the story their customers tell."
-  ]
+  "slot": 2
 }
