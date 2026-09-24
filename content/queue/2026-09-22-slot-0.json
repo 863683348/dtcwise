@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "alidropship-review-who-it-fits-and-who-should-skip-it",
-  "title": "AliDropship Review: Who It Fits and Who Should Skip It",
-  "excerpt": "AliDropship's one-time-license, self-hosted model fits budget-conscious solo sellers on WordPress, but Shopify-native teams and high-volume stores should think twice before buying.",
   "date": "2026-09-22",
-  "category": "Dropshipping",
-  "body": [
-    "AliDropship approaches dropshipping tooling from the opposite direction of most competitors: instead of a monthly cloud subscription connecting to your hosted store, it sells a one-time-license plugin that turns a WordPress site into a self-hosted AliExpress dropshipping store. That single design decision explains nearly every strength and weakness in this review, so it is where any fit assessment should start.",
-    "It fits a specific seller profile well. Budget-conscious solo operators who want zero monthly platform fees will appreciate that the license pays for itself within months compared to subscription tools. WordPress-comfortable users get full ownership: the store, its data, and the freedom to modify anything. And sellers committed to the AliExpress sourcing model get genuinely deep integration, with product import, automated price markups, stock and price sync, and order fulfillment flowing through the plugin without per-order fees.",
-    "The add-on ecosystem is a real differentiator. AliDropship sells focused extensions for store templates, social proof, abandoned carts, and similar store functions, plus its own hosted stores service for buyers who want the store built for them. Combined with the company's published case studies of its own stores, the ecosystem is coherent for someone learning the dropshipping operating loop on a tight budget.",
-    "Now the honest limitations. First, you inherit WordPress: hosting quality, security updates, backups, and plugin conflicts are your problem, and a slow shared host will silently cap conversion. Second, the platform is Shopify-adjacent rather than Shopify-native; if your team already lives in the Shopify app ecosystem, running a parallel WordPress stack creates real overhead. Third, the automation boundary sits at AliExpress ordering, meaning shipping variance, quality swings, and delivery times remain exactly what AliExpress gives you. Curated supplier options exist through the plugin's premium products database, but the sourcing layer stays thinner than dedicated marketplaces like Syncee or Spocket.",
-    "Who should skip it? High-volume stores that need multi-warehouse routing, faster shipping promises, or branded packaging will outgrow the model quickly. Sellers unwilling to touch hosting should stay on cloud tools. And anyone whose competitive plan depends on shipping speed will find AliExpress-direct delivery a structural disadvantage in Western markets where two-day delivery is becoming the baseline expectation.",
-    "The DTCwise Dropshipping category at /category/dropshipping compares AliDropship with cloud-based alternatives on cost model and automation depth, and the AliDropship page at /tool/alidropship details current license pricing, hosting requirements, and add-on costs so you can model year-one spend against a subscription tool before choosing."
-  ]
+  "slot": 0
 }
