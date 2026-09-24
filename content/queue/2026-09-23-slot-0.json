@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "modalyst-alternatives-wholesale-marketplace-sourcing-shortlist",
-  "title": "Modalyst Alternatives for Wholesale Marketplace Sourcing: A Shortlist",
-  "excerpt": "Modalyst covers curated branded suppliers well, but bulk wholesale, EU depth, and margin-driven stores need different options. Four alternatives, matched by scenario.",
   "date": "2026-09-23",
-  "category": "Dropshipping",
-  "body": [
-    "Modalyst occupies the curated corner of dropshipping sourcing: independent brands and boutique suppliers, many in the US and Europe, with a lean toward fashion and lifestyle. That curation is its value and its constraint. Stores that need bulk wholesale pricing, deeper European coverage, or lower unit costs for price-competitive positioning should test the four alternatives below before locking their catalog into one marketplace.",
-    "Spocket is the closest structural alternative and the first test for EU-weighted stores. Its supplier base skews heavily toward European and American suppliers, with a large British and continental presence that Modalyst does not match. Branded invoicing on many suppliers helps private-label positioning, and pricing per plan is predictable. If your complaint about Modalyst is catalog coverage rather than curation philosophy, Spocket is usually the answer.",
-    "Zendrop serves the opposite complaint: margin pressure. Its sourcing model, combining a supplier marketplace with private US fulfillment for proven products, lets stores start with marketplace convenience and graduate bestsellers into faster, cheaper fulfillment. For price-competitive positioning where Modalyst's boutique pricing squeezes margins below viability, Zendrop's model keeps the catalog but rebuilds the unit economics. The hybrid behavior, standard dropshipping for tests and private fulfillment for winners, mirrors how real stores actually operate.",
-    "Syncee is the breadth option. Its marketplace lists thousands of verified suppliers across more regions and more categories than Modalyst, with strong catalog-sync tooling for stores managing multiple storefronts. Curation is lighter than Modalyst's boutique focus, which cuts both ways: more SKUs to find unique products, more variance in supplier reliability, so its supplier ratings and filters matter. Stores in home goods, pets, or general lifestyle niches usually find better coverage here than in fashion-forward marketplaces.",
-    "Faire deserves mention as the fourth name for a specific scenario: stores that have outgrown dropshipping entirely for some product lines and want true wholesale terms, net payment options, and case-quantity buying from independent brands. It requires inventory commitment, which is a different risk model, but for a store with proven demand on certain SKUs, wholesale buying often doubles the margin that dropship sourcing allows. The comparison at /alternatives/modalyst breaks down when that trade makes sense.",
-    "The DTCwise Dropshipping category at /category/dropshipping ranks all of these with current ratings and pricing, and the Modalyst page at /tool/modalyst details its supplier mix, plan tiers, and transaction fees so you can compare real landed costs against the alternatives before moving any part of your catalog."
-  ]
+  "slot": 0
 }

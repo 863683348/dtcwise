@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-build-a-competitor-ad-calendar-from-spy-data",
-  "title": "How to Build a Competitor Ad Calendar from Spy Data",
-  "excerpt": "Spy tool data becomes useful when organized over time. Build a competitor ad calendar that reveals launch rhythms, seasonal pushes, and creative fatigue patterns.",
   "date": "2026-09-23",
-  "category": "Ad Spy",
-  "body": [
-    "Ad spy tools dump thousands of creatives into a searchable feed, and most stores treat them as a slot machine: scroll, find a winner, copy it. The better use is longitudinal. When you track what competitors run over weeks instead of screenshots in isolation, patterns emerge that single creatives never show: launch rhythms, seasonal pushes, and how long a winning creative actually survives. That intelligence becomes a calendar, and the calendar changes media planning.",
-    "Start by choosing five to eight competitors worth tracking, and split them into two groups: direct rivals selling similar products at similar prices, and adjacent brands whose audiences overlap yours but whose category differs. The second group matters because they often run the creative formats your audience has not yet seen exhausted. Track them in your spy tool by brand name and domain so their full active-ad history accumulates.",
-    "For each competitor, log three data points weekly: how many active ads they run, the age span of those ads, and the format mix, video versus static versus carousel. A competitor running forty fresh creatives monthly is testing aggressively and their survivors are validated winners. A competitor running one long-lived ad is milking a proven asset, which tells you the offer behind it works and the creative is protected. These are opposite signals requiring opposite responses.",
-    "The calendar layer comes from dates. Mark when each competitor launched new creative batches, when promotions started and ended, and the gap between them. Most stores have a rhythm: new drops every four to six weeks, sitewide pushes around paydays or holidays, clearance windows before new inventory. Overlaying three months of this data exposes the rhythm, and once you see it, you can anticipate rather than react. If your biggest rival always pushes hard in the first week of the month, your promos belong in the third week when their budget is spent.",
-    "Creative fatigue is the last pattern the calendar reveals. Note how long each competitor's top ads stay live before replacement; in most DTC niches the answer is two to six weeks. That number, borrowed from brands spending more than you, is a free benchmark for your own refresh cadence. Tools like BigSpy make the accumulation automatic with date-filtered ad libraries and alerts, and the tool page at /tool/bigspy covers its filters and monitoring features.",
-    "The DTCwise Ad Spy category at /category/ad-spy compares spy platforms on library depth and tracking features. Spend one hour weekly maintaining the calendar and it will pay for itself the first time your launch lands in a gap where competitors are quiet, because the cheapest attention is the kind nobody else is bidding for."
-  ]
+  "slot": 4
 }

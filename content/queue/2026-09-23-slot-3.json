@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-build-a-topical-map-for-a-dtc-blog",
-  "title": "How to Build a Topical Map for a DTC Blog",
-  "excerpt": "Random blog posts dilute SEO authority. Build a topical map: one core topic, pillar pages, supporting clusters, and a publishing order that builds momentum.",
   "date": "2026-09-23",
-  "category": "Content & AI",
-  "body": [
-    "Most DTC blogs fail not from bad writing but from random publishing: a gift guide this week, a size chart next week, a trend piece after that. Search engines reward sites that demonstrate depth on a topic, which means a hundred scattered posts lose to a competitor's twenty organized ones. A topical map fixes this by deciding, before any writing happens, what your site will be known for and in what order the content arrives.",
-    "Start by choosing the core topic, and make it commercial rather than clever. The right core sits at the intersection of what you sell, what buyers search before purchasing, and what you can write about with genuine depth. A store selling running gear picks trail running shoes or marathon training gear, not fitness in general. Write the core as a short phrase; everything else in the map descends from it.",
-    "Next, define the pillar page: the comprehensive guide that anchors the topic. It targets the broadest search intent in the cluster and links out to every supporting article. Then brainstorm clusters as the questions buyers ask on the way to purchase: comparisons, how-to guides, sizing and care questions, gift and occasion angles, and problem-solution pieces. Twenty to forty cluster topics is a realistic first map for a DTC store, and each cluster article links back to the pillar and sideways to two or three related articles. This internal structure is the actual mechanism of topical authority; isolated posts do not build it.",
-    "Prioritization is where most maps die, so keep it simple. Score each topic on two axes: search volume evidence and business value, meaning how close the article sits to a purchase decision. Publish the pillar first, then the highest business-value clusters, because comparison and buying-guide content converts earlier than informational pieces and funds the rest of the project. One strong article per week for six months beats a burst of ten followed by silence.",
-    "AI tools make the mapping and drafting faster, but keep editorial judgment human: use AI for clustering keyword research, drafting outlines, and first passes, then inject the product knowledge and customer language only your team has. Tools like Frase combine topical research with content briefs, which suits this workflow directly; the tool page at /tool/frase details its brief and optimization features.",
-    "The DTCwise Content and AI category at /category/content-ai compares research and writing tools for small teams. Revisit the map quarterly: search console data will show which cluster edges are earning impressions, and those edges are where the next articles belong. A topical map is not a constraint on creativity; it is what makes each article count."
-  ]
+  "slot": 3
 }
