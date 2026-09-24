@@ -1,5 +1,20 @@
 [
   {
+    "slug": "review-collection-rules-every-dtc-store-should-know",
+    "title": "Review Collection Rules Every DTC Store Should Know",
+    "excerpt": "Review collection has legal and platform rules most stores learn the hard way: incentives, verification, negative-review handling, and syndication. A plain-language guide.",
+    "date": "2026-09-24",
+    "category": "Reviews",
+    "body": [
+      "Review programs look like pure marketing until something goes wrong: an FTC warning letter, a marketplace suspension, or a chargeback citing fake reviews as evidence. The rules governing review collection are straightforward, but they are enforced unevenly enough that many stores develop bad habits that eventually cost them. Here is the plain-language version of what matters.",
+      "First, incentivized reviews require disclosure, everywhere. Offering discounts or gifts in exchange for reviews is legal when the incentive is disclosed and the reviewer states it, which is why legitimate programs label reviews as incentivized. What is not legal in the United States is conditioning incentives on positive sentiment; a discount for any honest review is fine, a discount contingent on five stars is a violation with real enforcement behind it now. Build the disclosure into your review app's flow rather than trusting reviewers to remember it.",
+      "Second, verified-buyer labeling means something specific. Labeling a review as from a verified purchase when your app cannot confirm the purchase is misrepresentation, and it cuts against you in disputes and platform audits alike. Most mainstream review apps like Judge.me verify against Shopify orders automatically, which is one of the quiet reasons to use an integrated app rather than manual collection; the tool page at /tool/judgeme details its verification flow.",
+      "Third, you may not suppress negative reviews. Contracts or emails that pressure customers to remove or soften criticism, gating flows that only happy customers ever see the review form, and filtering by star rating before publication all sit in legally gray to clearly prohibited territory depending on jurisdiction and platform. The compliant alternative is to respond publicly and constructively, which converts better anyway: a thoughtful reply to a two-star review signals more trust to prospective buyers than a wall of unblemished five-stars.",
+      "Fourth, imported and syndicated reviews carry origin obligations. If you import reviews from another platform or a previous store, they must be from customers who actually bought the same product, and syndicated reviews from other retail channels must be labeled as such. Importing a five-star library from a different product is the fastest route to the review-equalizer problems regulators have been actively pursuing.",
+      "Finally, keep your collection emails compliant with email law itself: transactional review requests tied to a purchase are generally safe, but add marketing content to them and you inherit commercial email requirements. The DTCwise Reviews category at /category/reviews compares review apps on verification, syndication labeling, and moderation controls. Clean programs are not just risk management; they convert better, because modern buyers can smell a filtered review section, and they punish it with their wallets."
+    ]
+  },
+  {
     "slug": "how-to-vet-a-curated-wholesale-marketplace-for-your-boutique",
     "title": "How to Vet a Curated Wholesale Marketplace for Your Boutique",
     "excerpt": "Curated wholesale marketplaces promise hand-picked brands, but curation quality varies. A five-step vetting process before committing your boutique's cash and shelf space.",
