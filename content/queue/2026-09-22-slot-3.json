@@ -1,0 +1,15 @@
+{
+  "slug": "how-to-audit-your-product-page-above-the-fold",
+  "title": "How to Audit Your Product Page Above the Fold",
+  "excerpt": "The first screen decides most product page conversions. A ten-minute audit of the above-the-fold area: gallery, price block, promise line, and trust signals.",
+  "date": "2026-09-22",
+  "category": "CRO",
+  "body": [
+    "Most product page visitors decide whether to keep reading within the first screen, and most conversion audits start three scrolls too late. The above-the-fold area, everything visible without scrolling on a typical phone, carries a disproportionate share of the decision. Auditing it takes ten minutes per page and consistently surfaces fixes worth more than a month of testing ideas from a spreadsheet.",
+    "Start with the gallery, because it dominates mobile first screens. Three checks: does the first image show the product in use rather than on a white background, do the first three images communicate the full product including scale, and is there any motion, a short video or a rotating view, that communicates what photos cannot? White-background hero images test well in marketplaces and test poorly on brand stores where the context of use is what differentiates you. If your first image could belong to any competitor, that is the finding.",
+    "Next, the price block. The price itself is rarely the problem; ambiguity is. Check that variant selection is obvious without explanation, that any discount shows the math, meaning original price, sale price, and what triggered it, and that delivery cost and timing appear before the buy button. Unexpected shipping cost is the classic mobile abandonment trigger, and hiding it below the fold to inflate add-to-cart rates merely moves the loss to checkout.",
+    "Third, the promise line, the short sentence under the product title. Weak versions describe the product category; strong versions answer why this product for this buyer. Compare yours against three real customer reviews and borrow their exact language, because review vocabulary is the highest-converting copy source you own and it is free. If the promise line is missing entirely on mobile, that is usually the single highest-impact fix on the page.",
+    "Fourth, trust signals. Above the fold you need two or three, not ten: a rating summary with count, a returns or guarantee line, and a payment security mark near the button. Audit them for honesty too, because a five-star badge with no count reads as fake to experienced buyers. Record everything on a device of each type, phone and desktop, since layouts that look complete on desktop routinely collapse on mobile where most DTC traffic lives.",
+    "Then let behavior data confirm the audit. Heatmap tools like Hotjar show where first-screen attention actually lands versus where you placed the important elements. The tool page at /tool/hotjar covers session recordings and heatmaps pricing, and the DTCwise CRO category at /category/cro ranks research and testing tools by fit for small stores. Audit quarterly, fix the top finding each time, and the above-the-fold area compounds into your cheapest conversion lift."
+  ]
+}
