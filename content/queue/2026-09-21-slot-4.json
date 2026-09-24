@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-pick-store-platform-architecture-without-overbuilding",
-  "title": "How to Pick Your Store Platform Architecture Without Overbuilding",
-  "excerpt": "Most stores overbuild their platform stack. Match architecture to revenue stage: hosted apps first, composable stacks only when constraints actually appear.",
   "date": "2026-09-21",
-  "category": "Store Builders",
-  "body": [
-    "Platform architecture debates usually skip the only question that matters: what does your revenue stage actually require? A store doing forty thousand a year does not need a composable commerce stack, and a store doing four million may be bleeding money on hosted-app patchwork. Overbuilding costs real money in developer hours and maintenance, and underbuilding costs conversion. Here is how to match the stack to the stage without wasting either.",
-    "Stage one, pre-revenue to roughly one hundred thousand a year, belongs on a hosted platform with minimal customization. Shopify, Bigcommerce, or Wix with a premium theme covers product, checkout, email capture, and analytics. The discipline here is refusing custom code: every hour spent modifying checkout flow at this stage is an hour not spent on product photos and ads, which move revenue far more. The DTCwise Store Builders category at /category/storebuilder ranks hosted platforms on fees, app ecosystems, and migration paths.",
-    "Stage two, roughly one hundred thousand to one million, is where specific constraints appear, and the right response is fixing constraints one by one, not rebuilding. Slow product pages point to theme and app bloat, not the platform. Checkout limitations point to platform-native upgrade options first. International selling points to market-specific storefronts. Each constraint has an incremental fix; treating any of them as a reason to migrate usually trades a solvable problem for a six-month replatforming project.",
-    "Stage three, past the million mark or with genuinely unusual requirements, is where custom architecture earns its cost. Signs you are actually there: subscription logic the app ecosystem cannot express, marketplace features with multi-vendor payouts, inventory spanning owned warehouses and dropship partners with different promise times, or compliance requirements that hosted platforms cannot sign off on. This is composable or headless territory, and even then the smart version reuses hosted checkout where possible rather than rebuilding payments.",
-    "Two guardrails keep the decision honest. First, calculate total cost of ownership annually, including apps, developer retainer, maintenance, and the internal time spent on the stack, because sticker prices mislead in both directions. Second, before any migration, write down the measurable failures of the current stack; if the list is shorter than five concrete items with revenue impact, you have a grass-is-greener problem, not an architecture problem.",
-    "Platform pages like /tool/bigcommerce and /tool/shopify on DTCwise detail where each hosted option stops scaling, which is more useful for this decision than feature checklists. The best architecture is the boring one that handles this year's problems, because every month spent replatforming is a month your competitors spend on customers."
-  ]
+  "slot": 4
 }

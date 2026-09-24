@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-set-support-slas-for-a-small-dtc-team",
-  "title": "How to Set Support SLAs for a Small DTC Team",
-  "excerpt": "A realistic SLA system for two-to-five-person support teams: priority tiers, response versus resolution targets, and the guardrails that prevent burnout.",
   "date": "2026-09-21",
-  "category": "Customer Support",
-  "body": [
-    "SLAs get a bad reputation among small teams because enterprise versions require ticketing bureaucracy nobody has time for. But a service level agreement does not need enterprise software to work; it needs three decisions made explicitly instead of by mood. Small DTC teams that define these three things resolve tickets faster and, more importantly, stop letting support expand to fill every waking hour.",
-    "Decision one is your priority tiers. Three are enough for a small team. Urgent means a customer cannot use what they paid for or a payment is wrong, and these get same-session responses. High means order status, shipping delays, and damaged items, answered within four business hours. Everything else, including pre-purchase questions and wholesale inquiries, lands in the standard tier with a one-business-day target. Write the definitions down, because the value of tiers is that they settle arguments about what to answer first.",
-    "Decision two is separating response from resolution. Many teams measure only first response time and discover customers waited four days for three replies that fixed nothing. Track both: first response within your tier target, and resolution within a multiple of it, typically eight to forty-eight hours depending on whether the issue needs a carrier investigation. Publishing both numbers internally creates an honest picture; tracking only response time creates a culture of fast useless replies.",
-    "Decision three is coverage windows and the auto-reply that fills them. A two-person team cannot cover sixteen waking hours, and pretending to is how burnout starts. Set business hours honestly, then make the off-hours auto-reply do real work: state when a human will reply, link tracking and FAQ self-service, and for refund-adjacent tickets offer the returns portal link immediately. Customers forgive waiting far more readily than they forgive silence.",
-    "Tooling should enforce the SLAs, not just record them. Helpdesk platforms like Gorgias can auto-prioritize order-related tickets, surface the customer's order data beside the conversation, and flag breaches before they happen. The tool page at /tool/gorgias details its Shopify-native automation and plan pricing, and the DTCwise Customer Support category at /category/support compares helpdesks on automation depth and per-ticket cost.",
-    "Revisit the numbers quarterly with real data: if the standard tier resolves in three hours, tighten it; if urgent tickets keep breaching, fix staffing rather than lowering the bar. An SLA is a promise to customers and a boundary for the team, and both sides only work when the numbers match reality."
-  ]
+  "slot": 3
 }
