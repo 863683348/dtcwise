@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "customer-support-qa-scorecard-lean-teams",
-  "title": "A Customer Support QA Scorecard for Lean DTC Teams",
-  "excerpt": "Small stores cannot staff a QA team, but inconsistent replies still cost sales. This scorecard gives a one page rubric any owner can use to grade tickets and lift reply quality fast.",
   "date": "2026-10-01",
-  "category": "Customer Support",
-  "body": [
-    "When you are a one or two person team, support quality lives or dies on habit. There is no QA department reviewing transcripts, so a rushed reply on a bad day becomes a refund and a public complaint. A simple scorecard fixes most of this without hiring. The Customer Support category at /category/support collects the playbooks and tools we rate for small stores so you can build the system once.",
-    "Score every ticket on five things: did the reply lead with the customer's actual problem, was the policy stated clearly, was the tone human, was the next step obvious, and was it sent within your stated response window. Give each a one to five and average them. A ticket under three tells you exactly which habit to fix, and the pattern across a week shows where training pays off more than any new software would.",
-    "The fastest win is the response window. Stores that promise same day but answer in two days train customers to escalate. Set a window you can keep on your worst week, then beat it. Gorgias and similar help desks at /tool/gorgias let you tag response time automatically, so the scorecard becomes a report instead of a manual count that eats the hour you should spend on orders.",
-    "Tone is the second lever. A reply that sounds like a real person defuses more anger than a perfect policy read in a robot voice. Write a short library of approved phrasings for refunds, delays, and out of stock, then let the team adapt them. Consistency matters more than cleverness, and a library keeps new helpers from improvising under stress when a frustrated customer is waiting.",
-    "Close the loop with a weekly ten minute review. Read the three lowest scored tickets together, decide one change, and ship it. That might be a FAQ edit, a macro, or a clearer shipping banner. Small stores improve support fastest when the feedback loop is daily, not quarterly. The tool guide at /tool/gorgias shows which views make this review painless so it stays a habit.",
-    "Measure the outcome, not just the score. Track repeat contact rate and refund requests alongside your average score, because a polished reply that still sends the customer elsewhere is a fail. Over a month, a lean team using this scorecard typically cuts repeat contacts and lifts review ratings without adding headcount. Start the rubric this week and review it every Friday with the same discipline you give your ad spend."
-  ]
+  "slot": 3
 }
