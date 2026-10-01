@@ -1,0 +1,15 @@
+{
+  "slug": "alidropship-pricing-explained-year-one",
+  "title": "AliDropship Pricing Explained: Your Real Year-One Bill",
+  "excerpt": "AliDropship sells a one time plugin rather than a monthly sub, which changes the math. This cost breakdown shows what you actually pay in year one once hosting, add ons, and samples are in the picture.",
+  "date": "2026-10-01",
+  "category": "Dropshipping",
+  "body": [
+    "Most dropshipping tools charge you every month and call it a subscription. AliDropship takes the opposite path: you buy the plugin once and own it. That sounds cheaper, and for a lean solo store it often is, but the year one bill has more line items than the checkout page shows. The Dropshipping category at /category/dropshipping tracks the full cost picture across plugins and suppliers so you can compare on reality.",
+    "Start with the license. The core AliDropship plugin is a single payment, and the WooCommerce version follows the same model. You then need hosting, which runs from a few dollars a month on shared plans to thirty plus on managed WooCommerce. Domain, SSL, and a transactional email tool add another small fixed cost. None of this is hidden, but newcomers forget it when they compare AliDropship only against monthly SaaS tools that bundle hosting.",
+    "Add ons are where budgets drift. A custom store build, premium themes, and the abandoned cart or social login modules are each separate purchases. If you want a done for you store, the price jumps by a few hundred dollars in one line. Review the exact module list at /tool/alidropship before you assume the one time fee covers everything you saw in a demo, and price the stack you will actually use.",
+    "Samples are a real year one cost that nobody puts in the calculator. Before you run paid traffic to a product, you should order it yourself to check quality, packaging, and delivery time. Across a catalog of twenty products, sample orders can reach a few hundred dollars. Skip this and you advertise blind, which costs far more in refunds and angry reviews than the samples ever would have.",
+    "Payment and transaction fees sit outside AliDropship entirely. Your gateway, currency conversion, and chargeback disputes are separate line items that scale with sales, not with the plugin. Plan for roughly three to five percent of revenue leaving through fees on top of product cost. The pricing page at /tool/alidropship lists the plugin side; the rest is your operating reality and grows only when orders do.",
+    "Bottom line for year one: a disciplined solo store can run AliDropship for the one time license plus a few hundred in hosting, samples, and one or two add ons. A store that buys a custom build and a long add on list can spend ten times that. Decide which owner you are before you compare it to a monthly tool, and read /tool/alidropship with your actual plan in hand rather than a hopeful one."
+  ]
+}
