@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "cross-border-chargeback-reduction-playbook",
-  "title": "A Cross-Border Chargeback Reduction Playbook",
-  "excerpt": "Cross-border stores attract more disputes than domestic ones, and each one costs fees plus time. This playbook covers the pre sale and post sale moves that cut chargebacks before they hit your processor.",
   "date": "2026-10-01",
-  "category": "Payments & FX",
-  "body": [
-    "Selling across borders means your cardholder and your bank often sit in different worlds, and disputes rise with that distance. A cross-border chargeback is not just a lost sale; it carries a fee, a manual review, and a hit to your processor risk score. The Payments & FX category at /category/payments covers the processors and FX tools we rate for global stores so you can pick a stack that fights disputes with you.",
-    "Most chargebacks are avoidable at checkout. Use 3D Secure where available, show the exact charge name your customer will see on their statement, and bill in the local currency when you can. A confusing statement descriptor causes friendly fraud more than any product issue. Airwallex and similar global accounts at /tool/airwallex help you present clean local descriptors and settle in local currency, which alone lowers a share of disputes before they start.",
-    "Delivery proof is your evidence. Keep tracking that shows delivered to the cardholder address, and store signed confirmation for high value orders. When a dispute lands, your processor asks for this within a tight window, so the file must be ready the day you ship, not the day you panic. Build the evidence habit before your first chargeback, not after, because missing proof is an automatic loss regardless of who was right.",
-    "Proactive communication prevents more disputes than evidence wins. Send a clear order confirmation, a shipped notice, and a delivered notice, each with a one click way to reach you. Many customers file a chargeback simply because they forgot they ordered or could not find your support. A visible, fast reply path turns a dispute into a resolved ticket and keeps your dispute rate under the processor threshold.",
-    "Watch the patterns. If chargebacks cluster on one product, one country, or one ad, pause and investigate before scaling spend. Fraud rings often probe a single vector. Routing risky transactions through stricter rules per region, and using a processor that surfaces dispute reason codes early, keeps small problems from becoming a monthly bleed. The tool breakdown at /tool/airwallex shows which controls matter most for a cross border store.",
-    "Treat chargebacks as a metric, not a tax. Track dispute rate weekly, aim for a fraction of a percent, and review every reason code. Stores that do this keep processor fees low and accounts healthy as they expand into new markets. Start with clean descriptors and delivery proof this week, and the rest of the playbook pays for itself in saved fees and a processor that stops flagging your name."
-  ]
+  "slot": 4
 }
