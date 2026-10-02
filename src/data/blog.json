@@ -1,5 +1,20 @@
 [
   {
+    "slug": "how-to-turn-support-tickets-into-content-briefs-with-ai",
+    "title": "How to Turn Support Tickets Into Content Briefs With AI",
+    "excerpt": "Support inboxes contain the exact questions your content should answer. This workflow shows how to cluster ticket themes, draft briefs with AI, and publish pages that cut ticket volume and earn search traffic.",
+    "date": "2026-10-02",
+    "category": "Content & AI",
+    "body": [
+      "Every support ticket is a question a customer cared enough to ask, and the same questions show up hundreds of times a year. That makes the helpdesk one of the cheapest sources of content ideas available to a store, because the demand is already proven and phrased in the customer's own words. Turning those questions into published answers reduces ticket volume and earns search traffic at the same time. The Content & AI category at /category/content-ai keeps the current shortlist with ratings and pricing for content tools.",
+      "Start by collecting raw material rather than writing anything. Export three to six months of tickets, including chat transcripts and the subject lines people typed into the contact form. Strip names and order numbers, then read a sample of two hundred to get a feel for the language. You will usually see the same handful of themes: shipping times, sizing, care instructions, returns, and a few product specific questions only your store can answer. Those themes are your content map.",
+      "Cluster the themes and rank them by frequency and by cost. A question that generates five tickets a week and a refund is worth a page. A question that appears twice a month is worth a line in an existing FAQ. For each cluster, write down the exact phrases customers used, because those phrases are also what they type into a search box. The tool overview at /tool/clearscope shows how content tools score a draft against the terms a topic should cover, which is useful once you move from clustering into drafting.",
+      "Now use AI for the part it is genuinely good at, turning a cluster into a structured brief. Give it the customer phrases, the product details, and the job to be done, then ask for an outline with the questions a page must answer in order. Ask it to call out the confusing parts explicitly, since customers usually write in because something on the site was unclear. Keep the result as a document your writer can work from rather than publishing the raw output as is.",
+      "A human pass is mandatory before anything goes live. AI drafts tend to be confidently vague about the details that matter most, which is exactly the shipping cutoff, the fabric composition, or the return window the customer was asking about. Fill those in with real numbers from your operation, add screenshots where a process is visual, and link the page to the relevant product and policy pages. Then measure the result. If the page is doing its job, the related ticket cluster shrinks over the following month.",
+      "This workflow fits stores with enough support volume to produce patterns, typically a few hundred tickets a month or more, and it compounds because each season adds new questions. It is a poor use of time if the inbox is too small to cluster, in which case a single well maintained FAQ page does the same job. Start with the two most expensive themes and publish one page a week. The Content & AI category at /category/content-ai keeps the current shortlist with ratings and pricing if you want to compare drafting and optimization tools."
+    ]
+  },
+  {
     "slug": "how-to-price-subscription-tiers-without-cannibalizing-sales",
     "title": "How to Price Subscription Tiers Without Cannibalizing One-Time Sales",
     "excerpt": "A subscription tier can grow recurring revenue or quietly steal margin from full price orders. This framework covers how to set tier levels, perks, and guardrails so subscribers add value instead of discounting demand.",
