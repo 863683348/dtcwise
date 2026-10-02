@@ -1,5 +1,20 @@
 [
   {
+    "slug": "how-to-price-subscription-tiers-without-cannibalizing-sales",
+    "title": "How to Price Subscription Tiers Without Cannibalizing One-Time Sales",
+    "excerpt": "A subscription tier can grow recurring revenue or quietly steal margin from full price orders. This framework covers how to set tier levels, perks, and guardrails so subscribers add value instead of discounting demand.",
+    "date": "2026-10-02",
+    "category": "Subscription & Loyalty",
+    "body": [
+      "Subscription revenue is attractive because it is predictable, and predictable revenue makes inventory, ad spend, and hiring easier to plan. The risk is that a well meaning subscribe and save option simply discounts customers who were going to buy at full price anyway. Before you set a discount, it is worth understanding which of your orders are genuinely repeat purchases. The Subscription & Loyalty category at /category/subscription keeps the current shortlist with ratings and pricing for subscription apps.",
+      "Start with the repurchase data you already have. Pull twelve months of orders and find the interval at which a meaningful share of customers comes back on their own. If the median gap between first and second order is six weeks, a thirty day subscription fights your customers and a sixty day one leaves money on the table. The tool overview at /tool/skio shows how subscription apps model cadence and billing, and matching the app setting to observed behavior is most of the work.",
+      "Then decide what the subscriber actually receives. A percentage discount is easy to launch and expensive to keep, because it applies forever. A value ladder often works better: free shipping on subscription orders, early access to new products, a bundle that is not sold one time, or a small gift at the third cycle. Perks cost less than margin and they are harder for a customer to compare against a competitor offering a flat percentage off the same product.",
+      "Anchoring matters as much as the discount size. Offer a monthly option at a modest saving and a prepaid three or six month option at a deeper one. Prepaid plans pull cash forward, reduce the number of billing events that can fail, and lock in the customer across the period where churn is highest. Many stores find that a well priced prepaid tier carries most of the subscription margin while the monthly tier does the customer acquisition work.",
+      "Add guardrails so the subscription does not hollow out your one time business. Keep a clear one time purchase path on the product page instead of defaulting to subscribe and save, since a preselected subscription converts today and annoys people later. Make pausing easy and visible, because a customer who pauses is a customer you can win back, while a customer who cancels over a small friction rarely returns. Set a minimum number of cycles before cancellation if your unit economics require it, and say so plainly at signup.",
+      "This framework fits consumable and replenishable products with a clear usage cycle, from coffee and supplements to skincare and pet supplies. It fits poorly for fashion or anything bought occasionally, where a recurring charge feels like a commitment to something the customer does not want on a schedule. Test one tier on your top two products before rolling it across the catalog. The Subscription & Loyalty category at /category/subscription keeps the current shortlist with ratings and pricing if you want to compare apps before you build the flow."
+    ]
+  },
+  {
     "slug": "peak-season-fulfillment-planning-with-gooten",
     "title": "How to Plan Peak Season Fulfillment With a Network Like Gooten",
     "excerpt": "Peak season breaks fulfillment plans that worked all summer. This planning guide covers capacity, routing, cutoff dates, and backup decisions for stores running a distributed production network.",
