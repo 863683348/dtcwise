@@ -1,5 +1,20 @@
 [
   {
+    "slug": "teelaunch-for-drinkware-and-hard-goods-what-to-check",
+    "title": "Teelaunch for Drinkware and Hard Goods: What to Check Before You Commit",
+    "excerpt": "Teelaunch is known for apparel, but drinkware and hard goods follow different production rules. This guide covers what to verify on materials, packaging, routing, and margin before you launch a non apparel line.",
+    "date": "2026-10-02",
+    "category": "Print-on-Demand",
+    "body": [
+      "Teelaunch earned most of its reputation on printed apparel, and that is where many stores first meet it. Drinkware, ornaments, and other hard goods run on a different set of production rules, and a store that assumes the apparel playbook transfers cleanly gets surprised by breakage, packaging, and routing. Before you add a non apparel line, it helps to understand exactly what changes. The Print-on-Demand category at /category/pod keeps the current shortlist with ratings and pricing across production types.",
+      "Start with the print method rather than the product photo. Most drinkware and coated hard goods are produced with dye sublimation or a similar heat transfer, which means the artwork is fused into a polymer coating instead of sitting on top of it. That gives a durable finish, but it also limits color reproduction and rules out blanks that cannot take the heat. The tool overview at /tool/teelaunch lists which products and decoration methods are actually supported, and that single check removes most of the guesswork before you build a catalog.",
+      "Packaging is the second thing that changes. A folded tee ships in a poly mailer and survives almost anything. A ceramic mug or a glass ornament needs void fill, a box, and a carrier that does not treat it like soft goods. Ask how fragile SKUs are packed, whether the packaging is branded or plain, and what the replacement policy is when something arrives chipped. Breakage is not a rare edge case in hard goods, it is a line item you should budget for from the first month.",
+      "Build the margin with that breakage allowance included. Take the base product cost, add the decoration, add the real shipping rate to your primary market, then add two or three percent for replacements and reships. Stores that skip the last line discover it during a holiday spike, when a replacement order also has to arrive inside the gifting window. If the number still clears your target contribution margin after a realistic return rate, the SKU earns its place in the catalog. If it only works at full price with zero replacements, it is a promotional risk.",
+      "Routing matters more as you add weight. Hard goods cost more to move, so a single production point can quietly turn a profitable mug into a loss on distant routes. Look at where the network sits relative to your top three markets and whether express options exist at a sane price. Test with real orders to your own address before the season starts, and time the full path from checkout to doorstep rather than trusting a production estimate alone. Two weeks of sampling tells you more than any spec sheet.",
+      "Teelaunch fits stores that want a wide catalog under one integration and are willing to sample carefully before scaling a hard goods line. It is a weaker fit if your brand promise depends on premium retail packaging, or if your entire margin comes from lightweight apparel where shipping is nearly free. Sample first, measure the landed cost, then decide how many hard goods SKUs deserve a slot. The Print-on-Demand category at /category/pod keeps the current shortlist with ratings and pricing if you want to compare production partners side by side."
+    ]
+  },
+  {
     "slug": "cross-border-chargeback-reduction-playbook",
     "title": "A Cross-Border Chargeback Reduction Playbook",
     "excerpt": "Cross-border stores attract more disputes than domestic ones, and each one costs fees plus time. This playbook covers the pre sale and post sale moves that cut chargebacks before they hit your processor.",
