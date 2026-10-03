@@ -1,0 +1,15 @@
+{
+  "slug": "how-to-set-up-a-safe-store-change-workflow",
+  "title": "How to Set Up a Safe Store Change Workflow Before Peak Season",
+  "excerpt": "Most store outages are self-inflicted. A staging copy, a change log, and a rollback habit let a small team ship theme and app changes without putting revenue at risk.",
+  "date": "2026-10-04",
+  "category": "Store Builders",
+  "body": [
+    "The most expensive store failures are not traffic spikes or platform incidents. They are a theme edit pushed late in the afternoon, an app update that overwrites a checkout script, or a navigation change that breaks a collection URL. None of these require a large engineering team to prevent. They require a repeatable change workflow that a two-person team can actually follow when things are busy and nobody has time to think carefully.",
+    "Start with a staging copy of the theme. Duplicating the live theme and publishing only after review is the single highest-value habit in store operations. It costs nothing on most platforms and it turns every risky edit into a reversible one. Keep each duplicate named with the date and the change, so that when something goes wrong weeks later you can find the version that worked instead of guessing from memory.",
+    "Keep a plain change log. One line per change, with the date, what was touched, who made it, and how to undo it. This sounds like bureaucracy until the moment conversion rate drops and nobody remembers which of nine edits caused it. The log also shortens onboarding dramatically, because a new contractor can read a month of changes in two minutes rather than reverse-engineering the theme from scratch.",
+    "Separate app changes from theme changes and never ship both in the same window. Apps inject scripts that interact with the theme in ways you cannot fully predict, and when you change both at once you lose the ability to attribute a regression. Install on staging first, check the pages that carry revenue, then schedule the production install for a low-traffic hour and watch the funnel for the rest of that day.",
+    "Write a rollback rule and honor it. If a change is live and a revenue metric moves beyond a set threshold in a short window, revert first and investigate afterward. Debugging a live broken checkout costs far more than losing an afternoon of a feature you wanted. Make the threshold concrete, such as a twenty percent drop in add-to-cart over two hours, so the decision is mechanical rather than emotional when it matters.",
+    "Do a pre-season freeze review. In the two weeks before your highest-volume period, freeze non-essential theme work, remove unused apps, and confirm that your staging copy matches production. The DTCwise Store Builders category at /category/storebuilder keeps the current shortlist with ratings and pricing, and the Shopify profile at /tool/shopify covers the platform limits worth knowing before you rebuild anything on top of it."
+  ]
+}
