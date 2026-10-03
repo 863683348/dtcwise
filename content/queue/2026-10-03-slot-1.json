@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-test-a-new-product-category-with-modalyst",
-  "title": "How to Test a New Product Category With Modalyst",
-  "excerpt": "Adding a category is cheaper than adding a brand. This walkthrough covers how to use a curated supplier marketplace to test a new product line with real orders before you hold any inventory.",
   "date": "2026-10-03",
-  "category": "Dropshipping",
-  "body": [
-    "Most stores do not need a new niche, they need a new category inside the one they already own. A candle brand can test room spray, a fitness store can test recovery tools, and both can do it without a purchase order. The risk is that testing with random suppliers produces random results: inconsistent shipping, mismatched quality, and refund requests you cannot explain. A curated marketplace reduces that noise because the suppliers are pre-vetted. The Dropshipping category at /category/dropshipping keeps the current shortlist with ratings and pricing.",
-    "Pick the test with a hypothesis, not a vibe. Write down what you expect: that at least eight percent of existing customers will buy the new category, that average order value rises, or that the category earns repeat purchases within ninety days. One number gives you a stopping rule. Without it you keep listing products because a few sell, and a category that moves two units a month at a thin margin is not a category, it is a distraction that costs you merchandising attention.",
-    "Choose ten to twenty products, not two hundred. The point of the first round is to learn which price band and product type your audience responds to, and a wide catalog hides that signal. Filter by ship-from location first so delivery estimates are believable in the market you sell to, then by supplier rating, then by whether the product has real photos instead of only supplier renders. Listings built from renders convert worse and generate more tickets about items not matching the description.",
-    "Price for the second order, not the first. New categories often get priced too low to win the first sale, which attracts one-time buyers and leaves no room for returns or ads. Work backwards: take the landed cost including shipping, add your target contribution margin, and check whether the resulting price sits inside the range your existing customers already pay. If it does not, the category is wrong for your list rather than wrong in general, and no amount of discounting fixes that mismatch.",
-    "Run the test for a fixed window, usually four to six weeks, and drive traffic you already have: email, SMS, post-purchase offers, and a homepage slot. Do not judge the category on paid social in week one, because creative has not learned yet and you will blame the product for a targeting problem. Watch three signals: conversion rate relative to your core products, refund rate, and the share of buyers who come back within the window.",
-    "At the end of the window, keep the top two or three products and delete the rest. Deleting is the part most sellers skip, and a store with forty dead listings is slower to manage and harder to merchandise. If the winners hold margin and repeat, that is when you consider deeper supplier terms or holding stock. You can review supplier coverage, shipping regions, and current pricing on the Modalyst page at /tool/modalyst, and compare it with other curated sourcing platforms in the Dropshipping category at /category/dropshipping."
-  ]
+  "slot": 1
 }
