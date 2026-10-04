@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-handle-gooten-reprints-and-damaged-shipments",
-  "title": "How to Handle Gooten Reprints and Damaged Shipments Without Eating the Cost",
-  "excerpt": "Print-on-demand returns are rarely the customer's fault. A clear reprint policy, a photo requirement, and a weekly claim log keep replacement costs visible instead of buried inside refunds.",
   "date": "2026-10-04",
-  "category": "Fulfillment & Shipping",
-  "body": [
-    "Print-on-demand changes what a return actually means. There is no warehouse to send the item back to, so almost every case resolves as a reprint, a refund, or a store credit. The problem is not the occasional damaged mug. The problem is that replacement costs land in the same accounting line as refunds, so nobody notices when the rate climbs. Setting a reprint policy before you need one is the cheapest operations work a print-on-demand brand can do.",
-    "Define the four cases up front: damaged in transit, print defect, wrong item received, and buyer's remorse. The first three are your cost to fix and should never require the customer to return anything, because the item cannot be restocked anyway. The fourth is a business decision, and many brands offer store credit instead of cash because the product has no resale value. Writing this distinction into your policy page removes most arguments, since customers generally accept a stated rule far more readily than a case-by-case negotiation.",
-    "Require a photo. One image of the damage and one of the shipping label resolves nearly every claim and deters a meaningful share of fraudulent ones. Make the request part of your first support reply rather than a follow-up, and state that reprints ship within one business day of the photo arriving. Speed here is worth more than the replacement cost, because a fast reprint is the single most reliable way to turn a bad unboxing into a repeat purchase.",
-    "Keep a weekly claim log with four columns: order, product, supplier, and root cause. After a month the log tells you which products and which carriers generate claims. Print defects cluster on specific SKUs and specific print placements, and the fix is usually a mockup change or dropping a colorway rather than switching suppliers. Transit damage clusters by carrier and packaging, and the fix is often a box upgrade on one lane rather than a new partner.",
-    "Budget for it explicitly. A mature print-on-demand catalog runs a replacement rate in the low single digits. Set that percentage as a line in your margin model from day one instead of treating it as a surprise at the end of the quarter. If your rate runs materially higher, the cause is almost always visible in the claim log: a fragile product, a weak carrier, or a mockup that overpromises on printable area.",
-    "Close the loop with your catalog. Products that generate repeated claims should come off the advertising list even if they still sell organically, because paid traffic multiplies the support load on exactly the items that fail most. The DTCwise Fulfillment & Shipping category at /category/fulfillment keeps the current shortlist with ratings and pricing, and the Gooten profile at /tool/gooten covers the production and shipping details worth confirming before you scale a catalog on it."
-  ]
+  "slot": 2
 }
