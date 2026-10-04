@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-cut-crawl-waste-from-faceted-navigation",
-  "title": "How to Cut Crawl Waste From Faceted Navigation on a DTC Store",
-  "excerpt": "Filters are useful to shoppers and expensive to crawlers. Here is how to decide which filter combinations deserve an index and which should stay closed to search engines.",
   "date": "2026-10-04",
-  "category": "SEO",
-  "body": [
-    "Faceted navigation is the quiet tax on DTC SEO. Every size, color, material, and price filter creates a URL, and the combinations multiply fast: six filters with five values each can generate thousands of crawlable pages that no shopper ever searched for. Search engines spend a finite crawl budget per site, so pages spent on filter permutations are pages not spent on your new collections and blog posts.",
-    "Start by listing what actually deserves an index. A filter combination earns a crawlable URL only when it maps to real search demand. A category plus one high-intent facet, such as material or use case, usually qualifies. A category plus three facets almost never does. Pull your search console query data and your on-site search logs and mark the facet values people genuinely type, because those are your candidates and everything else is noise.",
-    "Close the rest. The mechanics depend on your platform, but the principle is consistent: noindex the combinations you do not want in results, and block crawling of the parameters that generate infinite variants such as price ranges and sort orders. Keep at least one clean path to every product so nothing becomes orphaned. Indexable filter pages should carry their own title, a short intro paragraph, and internal links from the parent category.",
-    "Watch for the two failure modes. The first is over-blocking, where a legitimate landing page disappears from the index along with the noise, and you quietly lose the traffic it already earned. The second is partial blocking, where the page is marked noindex but remains crawlable, so the budget is spent anyway and the signal stays muddled. Check the rendered page source rather than trusting a setting inside an app, because apps and themes frequently disagree about which directive wins.",
-    "Give the pages you keep a reason to exist. A filter page with twelve products and no copy rarely ranks, because it duplicates the parent category with less authority. Add a paragraph of genuine buying guidance, link to the three most relevant guides on your site, and confirm that the product grid loads the same content a shopper would see. Thin filter pages are also the first thing to prune during a quality update, so consolidating them protects the rest of the site.",
-    "Measure the result over a full month rather than a week. Crawl stats and indexed page counts move slowly, and the win usually shows up as faster discovery of new URLs rather than an immediate ranking jump. The DTCwise SEO category at /category/seo keeps the current shortlist with ratings and pricing, and the Screaming Frog profile at /tool/screaming-frog covers the crawl audit workflow worth running each quarter."
-  ]
+  "slot": 4
 }
