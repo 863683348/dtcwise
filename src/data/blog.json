@@ -1,5 +1,20 @@
 [
   {
+    "slug": "how-to-run-a-syncee-listing-qa-pass-before-you-publish",
+    "title": "How to Run a Syncee Listing QA Pass Before You Publish",
+    "excerpt": "A supplier feed can look clean and still ship broken listings. Here is the pre-publish QA pass we use on Syncee catalog data to catch pricing, variant, and image problems early.",
+    "date": "2026-10-04",
+    "category": "Dropshipping",
+    "body": [
+      "Most dropshipping catalogs do not fail at the point of import. They fail two weeks later, when a variant that looked fine in the feed turns out to be out of stock, or when a product title carries a supplier's internal SKU straight onto your storefront. A short QA pass before you publish costs about twenty minutes per batch and saves the support tickets, refunds, and wasted ad spend that follow a bad listing. The steps below assume you are pulling catalog data through a supplier marketplace such as Syncee, but the same checks apply to any feed you import in bulk.",
+      "Start with a price sanity check rather than a content check. Export the batch and sort by unit cost, then by your intended retail price. Anything under a 2.5x markup deserves a second look, because shipping, payment fees, and returns will eat the rest. Watch especially for variants priced identically to the parent product, which usually means the feed did not carry variant-level pricing and you are about to sell a premium size at the base cost.",
+      "Variant structure is the second failure point. Open the five highest-priced products in the batch and confirm that every option actually maps to a real purchasable variant. Feeds frequently flatten a color and size matrix into a single dropdown, so a customer picks one attribute and receives a random version of the other. If the marketplace exposes sample ordering, place one order on the variant you are least sure about before you spend money advertising it.",
+      "Titles and descriptions need a human rewrite, but first they need a triage pass. Strip supplier codes, all-caps words, and any reference to a marketplace you do not sell on. Search your own product data for the supplier's brand name, because that leak alone can drive customers straight to a cheaper source. Keep the attributes that carry buyer intent, such as material, size, and compatibility, and rewrite the opening characters of each title so it reads like something a shopper would actually type into a search box.",
+      "Images deserve a separate pass because they are the most common reason a listing gets disapproved in paid channels. Check that the first image sits on a plain background, that no overlay text or watermark appears, and that the aspect ratio is consistent across the batch. If the feed only supplies supplier photography, plan a reshoot for the ten products you intend to advertise and use the feed images for the long-tail catalog items you expect to sell organically.",
+      "Finally, set a review cadence. Catalog data drifts, since suppliers change costs, discontinue variants, and adjust stock logic without notice. Re-run the price and stock checks on your top fifty sellers every two weeks and on the rest monthly. The DTCwise Dropshipping category at /category/dropshipping keeps the current shortlist with ratings and pricing, and the Syncee profile at /tool/syncee lists the data fields worth checking on every import."
+    ]
+  },
+  {
     "slug": "how-to-test-a-new-product-category-with-modalyst",
     "title": "How to Test a New Product Category With Modalyst",
     "excerpt": "Adding a category is cheaper than adding a brand. This walkthrough covers how to use a curated supplier marketplace to test a new product line with real orders before you hold any inventory.",
