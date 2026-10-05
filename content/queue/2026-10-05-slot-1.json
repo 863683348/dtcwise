@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-run-a-limited-drop-with-teelaunch-from-mockup-to-close",
-  "title": "How to Run a Limited-Time Drop With Teelaunch From Mockup to Close",
-  "excerpt": "A practical runbook for a time-boxed print-on-demand drop: choosing the product line, approving mockups, setting price and close date, and reconciling orders after the window shuts.",
   "date": "2026-10-05",
-  "category": "Print-on-Demand",
-  "body": [
-    "A limited drop compresses weeks of merchandising into a few days, and print-on-demand is what makes that affordable. Teelaunch fits this format because you are not committing to inventory, only to a design, a product set, and a hard close date. The failure mode is operational rather than creative: mockups approved too late, product pages that go live before pricing is checked, and a close date nobody communicated. Work backwards from the close date and every decision gets easier to schedule.",
-    "Pick the product line first, not the design. Drinkware, posters, and apparel each carry different production times and different defect rates, and a drop that mixes all three creates three separate risk profiles. Choose one core product and one optional add-on. Lock the colorways and sizes you will actually offer, because every extra variant adds a mockup to approve and a page element to check. Fewer variants also means fewer customer service tickets when the drop closes and orders start moving.",
-    "Build the mockup set early and review it as a customer would. Check how the artwork sits on the largest and smallest size in the line, confirm that text does not fall across a seam or a handle, and export at the resolution the product page needs. Approve a single master file rather than per-variant files, so a late design change is one edit instead of twelve. Keep the approved mockups and the production file in the same folder, named by drop, so the next launch reuses the structure.",
-    "Price the drop before you publish. Add your base cost, your target margin, and the shipping you will actually pay, then stress-test the number against a discounted cart and a multi-item order. A drop that relies on urgency often attracts bundle orders, and free shipping thresholds can quietly erase the margin on those. Set the close date in the product copy and in your email and social posts, and make sure the checkout can enforce it, since an offer that stays live after the date costs you credibility.",
-    "During the drop, watch two numbers daily: order error rate and production queue time. A spike in either usually means a variant mapping or a file problem, and catching it on day one protects the rest of the run. After the close, reconcile fulfilled orders against refunds and reprints within a week, while the details are still fresh. That reconciliation is also your pricing input for the next drop, because real defect rates are far more useful than estimates.",
-    "Then decide whether the design earns a permanent spot in the catalog. The strongest drops become evergreen listings with a slightly higher price, and the weakest simply end. The DTCwise Teelaunch listing at /tool/teelaunch covers product range and integration details, and the Print-on-Demand category at /category/pod keeps the current shortlist with ratings and pricing."
-  ]
+  "slot": 1
 }

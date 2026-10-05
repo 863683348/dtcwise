@@ -1,5 +1,35 @@
 [
   {
+    "slug": "how-to-build-a-help-center-that-actually-deflects-tickets",
+    "title": "How to Build a Self-Serve Help Center That Actually Deflects Tickets",
+    "excerpt": "How to build a self-serve help center from real ticket data: which topics to write first, where to surface answers, and how to measure deflection instead of page views.",
+    "date": "2026-10-05",
+    "category": "Customer Support",
+    "body": [
+      "A help center that deflects nothing is just a prettier inbox. The difference between a page that answers a question and a page that prevents a ticket is whether it was written from the tickets themselves. Start with the last two months of conversations, group them by intent, and count them. Most stores find that three or four topics account for half of all volume, usually order status, returns, sizing, and address changes. Those four deserve articles before anything else does.",
+      "Write each article to close a specific action, not to describe a policy. Where is my order should tell the shopper how to find their tracking, what the current production window is for made-to-order items, and what to do if the estimate has passed. Returns should state the window, the condition requirements, and the exact steps, with a link to start the process. A policy paragraph written in legal language generates a follow-up ticket, which costs more than the article saved.",
+      "Put the answers where the question happens. Order status belongs in the confirmation email and the account page, sizing belongs on the product page next to the size selector, and address changes belong in the checkout and the post-purchase flow. A help center buried in the footer will only be found by people who already gave up on self-service. Surface the relevant article inline, and let the contact form appear only after the article has been shown.",
+      "Give the contact path a clear shape. If a shopper reads the article and still needs a human, the form should ask for the order number and the topic up front so routing is automatic. Macros for the top four intents should be written once and kept in sync with the articles, so the answer is identical whichever path the customer takes. The DTCwise helpscout listing at /tool/helpscout covers shared inbox and docs features, and the Customer Support category at /category/support keeps the current shortlist with ratings and pricing.",
+      "Measure deflection, not page views. Track the share of sessions that view an article and then submit a ticket in the next twenty-four hours, and compare it against the same window before the article existed. A rising article view count with flat ticket volume means the content is being found but not believed, which is usually a sign the answer is buried under caveats. Rewrite those articles so the actionable step sits in the first two sentences.",
+      "Keep the help center on a maintenance rhythm. Revisit the top four articles whenever you change shipping carriers, suppliers, or return windows, and review the full set once a quarter against fresh ticket data. New products and new markets create new questions within weeks, and a stale article is worse than none because it sends confident shoppers down a wrong path. Add one article per month from whatever has climbed into the top ten intents, and the deflection rate compounds."
+    ]
+  },
+  {
+    "slug": "how-to-run-a-limited-drop-with-teelaunch-from-mockup-to-close",
+    "title": "How to Run a Limited-Time Drop With Teelaunch From Mockup to Close",
+    "excerpt": "A practical runbook for a time-boxed print-on-demand drop: choosing the product line, approving mockups, setting price and close date, and reconciling orders after the window shuts.",
+    "date": "2026-10-05",
+    "category": "Print-on-Demand",
+    "body": [
+      "A limited drop compresses weeks of merchandising into a few days, and print-on-demand is what makes that affordable. Teelaunch fits this format because you are not committing to inventory, only to a design, a product set, and a hard close date. The failure mode is operational rather than creative: mockups approved too late, product pages that go live before pricing is checked, and a close date nobody communicated. Work backwards from the close date and every decision gets easier to schedule.",
+      "Pick the product line first, not the design. Drinkware, posters, and apparel each carry different production times and different defect rates, and a drop that mixes all three creates three separate risk profiles. Choose one core product and one optional add-on. Lock the colorways and sizes you will actually offer, because every extra variant adds a mockup to approve and a page element to check. Fewer variants also means fewer customer service tickets when the drop closes and orders start moving.",
+      "Build the mockup set early and review it as a customer would. Check how the artwork sits on the largest and smallest size in the line, confirm that text does not fall across a seam or a handle, and export at the resolution the product page needs. Approve a single master file rather than per-variant files, so a late design change is one edit instead of twelve. Keep the approved mockups and the production file in the same folder, named by drop, so the next launch reuses the structure.",
+      "Price the drop before you publish. Add your base cost, your target margin, and the shipping you will actually pay, then stress-test the number against a discounted cart and a multi-item order. A drop that relies on urgency often attracts bundle orders, and free shipping thresholds can quietly erase the margin on those. Set the close date in the product copy and in your email and social posts, and make sure the checkout can enforce it, since an offer that stays live after the date costs you credibility.",
+      "During the drop, watch two numbers daily: order error rate and production queue time. A spike in either usually means a variant mapping or a file problem, and catching it on day one protects the rest of the run. After the close, reconcile fulfilled orders against refunds and reprints within a week, while the details are still fresh. That reconciliation is also your pricing input for the next drop, because real defect rates are far more useful than estimates.",
+      "Then decide whether the design earns a permanent spot in the catalog. The strongest drops become evergreen listings with a slightly higher price, and the weakest simply end. The DTCwise Teelaunch listing at /tool/teelaunch covers product range and integration details, and the Print-on-Demand category at /category/pod keeps the current shortlist with ratings and pricing."
+    ]
+  },
+  {
     "slug": "how-to-trim-a-checkout-that-loses-shoppers-at-shipping",
     "title": "How to Trim a Checkout That Loses Shoppers at the Shipping Step",
     "excerpt": "Where checkout funnels leak and how to fix the shipping step: surfacing ranges earlier, cutting rate options, compressing form fields, and measuring exits by device.",
