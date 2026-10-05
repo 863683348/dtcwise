@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-migrate-your-catalog-to-alidropship-without-duplicates",
-  "title": "How to Migrate Your Catalog to AliDropship Without Duplicating Listings",
-  "excerpt": "A step-by-step migration plan for moving an existing dropshipping catalog into AliDropship: what to export, how to map variants, and how to avoid duplicate listings.",
   "date": "2026-10-05",
-  "category": "Dropshipping",
-  "body": [
-    "Moving from manual AliExpress ordering to a plugin-driven workflow usually happens once a store passes a few hundred orders a month. AliDropship promises that product import, price rules, and order placement stop being manual chores. The risk is that a rushed import leaves two versions of every product, broken variant maps, and suppliers attached to the wrong listings. Treat the move as data hygiene work with a start, a test window, and a cleanup pass rather than an afternoon of clicking.",
-    "Start by exporting your current catalog and sorting it by revenue over the last ninety days. Anything with no orders in that window does not need to move. For everything else, record the supplier URL, the variant structure, and your landed cost per variant. Dead SKUs are the main source of duplicates later, because a stale import tends to recreate products you already retired. Keep the export as your rollback reference, and decide now which system owns pricing after the move, since two tools editing prices at once is how listings drift apart.",
-    "Variant mapping deserves its own pass. Supplier listings often use option labels that do not match your store, and a size chart that reads S to XL on one side and a numeric range on the other will silently break order routing. Build a table that maps every source variant to a store variant before importing anything. If a product has more than two option axes, or options that shift price in ways your store cannot express, leave it out of the first batch and handle it by hand. A smaller correct catalog beats a large broken one.",
-    "Set pricing rules before the import runs, not after. Decide your markup, your rounding rule, and whether shipping is folded into the displayed price or shown at checkout. Automation is the biggest time saving here, but it also multiplies small errors, so run the rule against a sample of twenty products and check every result manually. Confirm your price floors still hold after currency conversion, because a rounding rule that looks fine at home currency can drop a product below cost once rates move.",
-    "Run the new setup in parallel for two weeks. Keep the old listings live, route a small share of orders through the new pipeline, and log every failure with the product and variant involved. Most errors cluster around a handful of suppliers rather than the whole catalog, and you will see the pattern within the first fifty orders. Retire the old listings only after the error rate flattens, then redirect the retired URLs to the surviving versions so existing traffic and links keep hitting a live page.",
-    "The cleanup pass is where the migration earns its keep. Strip orphan variants, standardize titles and option labels, and write down the mapping rules you used so the next import is faster. The DTCwise AliDropship listing at /tool/alidropship covers the automation features in more detail, and the Dropshipping category at /category/dropshipping keeps the current shortlist with ratings and pricing."
-  ]
+  "slot": 0
 }
