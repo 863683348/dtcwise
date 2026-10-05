@@ -1,5 +1,20 @@
 [
   {
+    "slug": "how-to-trim-a-checkout-that-loses-shoppers-at-shipping",
+    "title": "How to Trim a Checkout That Loses Shoppers at the Shipping Step",
+    "excerpt": "Where checkout funnels leak and how to fix the shipping step: surfacing ranges earlier, cutting rate options, compressing form fields, and measuring exits by device.",
+    "date": "2026-10-05",
+    "category": "CRO",
+    "body": [
+      "Most checkout abandonment clusters in one place: the moment a shopper sees the shipping cost and the delivery estimate. Everything before that step is intent, and everything after is paperwork. If your funnel drops hardest at shipping, the problem is rarely the number itself, it is the surprise. Price, timing, and options need to appear earlier and behave predictably. Treat this as an engineering problem with a measurable before and after, not a redesign for its own sake.",
+      "Surface the shipping range on the product page. A stated range with a carrier name and an estimate beats a blank that resolves at checkout, even when the real number is higher than the shopper hoped. Add the free shipping threshold to the cart rather than hiding it, and make the remaining amount to qualify explicit. Shoppers who abandon at shipping usually were not rejecting the cost, they were rejecting the uncertainty of a number they could not plan around.",
+      "Cut the number of choices at the shipping step. Three options is plenty: an economy option with an honest window, a standard option, and an expedited option for people who need it by a date. Every additional rate adds comparison time and doubt. If you sell internationally, show duties and import fees as clearly as the freight charge, because an unexpected bill at delivery produces refunds and disputes that cost far more than the margin you protected by hiding it.",
+      "Compress the form fields. Prefill everything you already know, ask for address lines only when the first one is filled, and move anything optional out of the required path. Test whether guests can check out without creating an account, because a forced signup right after a shipping surprise is a reliable way to lose the sale. Then measure field-level abandonment and fix the worst offender each week rather than rebuilding the whole page at once.",
+      "Instrument the funnel so the next change is evidence-based. Record where each session exits, not just the overall rate, and split the data by device, since mobile checkouts fail for different reasons than desktop ones. Session replays around the shipping step are especially useful, because they show hesitation that no aggregate number reveals. The DTCwise Hotjar listing at /tool/hotjar covers behavior analytics that make those exits visible, and the CRO category at /category/cro keeps the current shortlist with ratings and pricing.",
+      "Ship the changes in small batches and hold each one for a full week before judging it. A shipping step change needs enough orders to clear noise, and a holiday week will distort any comparison. Keep a changelog with dates and the metric you expected to move, so you can tell which edits earned their keep. The goal is not a clever checkout, it is one where the cost appears early, the options stay few, and the form asks for nothing it does not need."
+    ]
+  },
+  {
     "slug": "how-to-manage-subliminator-variants-without-bloating-your-catalog",
     "title": "How to Manage Subliminator Variants Without Bloating Your Catalog",
     "excerpt": "A catalog discipline guide for all-over print sellers: how to decide which cuts, colorways, and sizes deserve a variant, how to version artwork files, and when to delist.",
