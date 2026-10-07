@@ -1,16 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-plan-a-product-line-around-one-hero-design-on-subliminator",
-  "title": "How to Plan a Product Line Around One Hero Design on Subliminator",
-  "excerpt": "How to plan a product line around one hero design: coverage checks that kill bad SKUs early, a three tier pricing ladder, and the file discipline that keeps reorders consistent.",
   "date": "2026-10-07",
-  "category": "Print-on-Demand",
-  "body": [
-    "All-over print rewards focus. The economics of sublimation make the design file the expensive asset and the blank the cheap variable, so a store that spreads ten designs across three products will usually lose to a store that spreads one strong design across ten products. Planning a line around a single hero design lets you reuse the same proof, the same color profile, and the same photo shoot across every listing, which lowers the cost of each new SKU you add.",
-    "Start with coverage math. A pattern that tiles beautifully across a tee front will often break at a hoodie pocket seam or distort badly on a stretched panel. Before you commit to a product list, map the hero design onto each candidate blank and look for three failure points: seams cutting through the focal element, pattern scaling past recognition, and stretch distorting the geometry. Cut any SKU where the design stops reading at a glance, because a product photo that looks like a mistake will not convert.",
-    "Pick a small carrier set that shares one production profile. A practical structure is one entry SKU at a low price point, two core apparel SKUs carrying most of the volume, and one premium SKU with a much higher margin. The entry SKU earns the first purchase and the email address. The core SKUs carry the repeat orders. The premium SKU is where contribution margin comes from, so it deserves the most careful proofing.",
-    "Price the ladder before you build it. Work backwards from the landed cost of each blank plus decoration, add payment fees and a realistic return allowance, then check whether the premium SKU clears target margin at full price and the entry SKU still works after a discount. A line where only the cheapest product makes money trains customers to buy the item that hurts you most.",
-    "Merchandise the hero design as a collection rather than as unrelated listings. Use one naming convention, one cover image treatment, and one description opener, so a shopper can tell at a glance that the leggings and the hoodie belong together. Put the full range on the product page of the core SKU, because the second purchase is usually the same design on a different blank, and selling it there is far cheaper than winning the click again.",
-    "Operationally, proof once per blank and keep the files together. Sublimation color shifts between fabrics, so a profile that produces the right red on light jersey may print dull on heavier fleece. Store the approved file, the blank identifier, and the proof photo in one place so reorders reproduce the first run. Add a sample with every new SKU, and do not list it until the physical item matches the mockup.",
-    "If you are shortlisting production partners for this kind of line, the DTCwise Print-on-Demand category at /category/pod keeps the current shortlist with ratings and pricing. The Subliminator profile at /tool/subliminator covers the all-over print catalog it supports, which is the fastest way to confirm that your hero design has enough compatible blanks to build a real ladder."
-  ]
+  "slot": 1
 }

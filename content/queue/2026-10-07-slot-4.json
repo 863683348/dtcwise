@@ -1,16 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-audit-your-store-app-stack-before-peak-season",
-  "title": "How to Audit Your Store App Stack Before Peak Season",
-  "excerpt": "How to audit your store app stack before peak season: build a readable inventory, remove overlap, measure the real load cost, and set a change freeze you can actually enforce.",
   "date": "2026-10-07",
-  "category": "Store Builders",
-  "body": [
-    "Store apps accumulate the way browser tabs do. Each one solved a real problem when it was installed, and two years later nobody remembers which problem or whether it is still solved. Peak season is the worst possible moment to discover that three apps are injecting overlapping scripts into your cart, so the audit belongs in the quiet weeks before, when a mistake costs an afternoon of work rather than a weekend of revenue.",
-    "Start with an inventory a stranger could read. For every installed app, write down what it does in one sentence, what it costs per month, when it was last meaningfully used, and who on the team depends on it. The last-used column is where the surprises live. Apps installed for a single campaign, a single theme build, or a single developer who has since moved on are usually still billing, still loading scripts, and still doing nothing useful for the store.",
-    "Look for overlap next. Most stores quietly run two or three tools with significant functional overlap: review widgets that also collect photos, upsell apps that also run popups, analytics tools that fire the same events twice. Choose the app that owns each job and remove the others. Where the outgoing app holds data you need, export it first, because reviews, email subscribers, and quiz responses are painful to rebuild and impossible to recover once the account has been closed.",
-    "Measure the performance cost instead of guessing at it. Record load times for the homepage, a product page, and the cart, then disable one app at a time in a staging copy and measure again. Script weight is cumulative, and a collection of individually acceptable apps can add seconds to a mobile session. Those seconds matter most on the cart, where a slow render costs completed checkouts, and they matter most on mobile, where peak traffic increasingly lives.",
-    "Remove in a deliberate order. Disable the app first and leave it installed for a few days so you can restore it instantly if something breaks. Watch for silent dependencies: theme snippets that reference the app, checkout scripts, and email templates that pull in app blocks. Once nothing has visibly changed, remove the app and clean up the leftover code in the same change, because abandoned snippets are how a fast store slowly becomes a slow one without anyone ever making a decision.",
-    "Finish with a change policy for the peak window. Set the date after which no new app reaches production without approval, name the person who approves it, and require a staging check before anything touches checkout. Write it somewhere the whole team can see. Most peak season incidents are not caused by bad apps, they are caused by perfectly good apps installed at the wrong moment by someone with the best intentions and no rollback plan.",
-    "The DTCwise Store Builders category at /category/storebuilder keeps the current shortlist with ratings and pricing, which is the fastest way to check whether a newer tool has absorbed an app you are still paying for. The Shopify profile at /tool/shopify covers the platform limits and plan features that shape what your stack can realistically do."
-  ]
+  "slot": 4
 }
