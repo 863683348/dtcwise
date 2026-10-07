@@ -1,16 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-run-a-subscription-pause-and-skip-program",
-  "title": "How to Run a Subscription Pause and Skip Program That Keeps Buyers",
-  "excerpt": "How to build a pause and skip program that turns cancellations into delays: the four options to offer, where to surface them, guardrails that hold, and four numbers to track.",
   "date": "2026-10-07",
-  "category": "Subscription & Loyalty",
-  "body": [
-    "Most subscription cancellations are not rejections. They are timing problems: the customer has too much product, is travelling, or simply wants something different this month, and the only visible option on the portal is cancel. A pause and skip program converts that moment from a loss into a delay, and the difference shows up directly in retention, because a subscriber who returns after six weeks is far cheaper to keep than a new one is to acquire.",
-    "Design the options before you design the page. Four choices cover nearly every reason a subscriber gives. Skipping handles the too much product problem. Pausing handles travel and short-term budget gaps. Changing frequency handles the subscriber whose real consumption is slower than your default cadence. Swapping the product handles boredom, which is the most underrated churn reason in consumables and the one most stores never think to offer at all.",
-    "Surface the options where the decision happens rather than where it is convenient for you. The pre-billing reminder is the highest leverage placement, because it arrives exactly when the subscriber is already thinking about the upcoming charge. Link straight to the pause and skip controls instead of to a generic account page. Every extra click between the reminder and the action is a subscriber who takes the fastest available path, and that path is usually the cancel button.",
-    "Set guardrails so the program does not quietly become free storage. Define a maximum pause length, decide what happens to loyalty tiers and accumulated discounts while an account is paused, and send a clear reminder before the auto-resume date. Transparency matters more than generosity here. A subscriber who resumes on the expected date and sees the expected charge feels in control. A subscriber who is surprised by a renewal feels tricked, and that feeling produces disputes instead of revenue.",
-    "Be careful about discounting a pause. A subscriber who says they have too much product does not need a coupon, they need a delay, and offering money in that moment teaches people to threaten cancellation for a discount. Save the incentive for cases where the objection is genuinely about value or price, and keep the pause clean when the objection is timing. The same logic applies to skipping: let people skip without a penalty, because a penalty turns a temporary problem into a permanent exit.",
-    "Measure the program on four numbers: pause rate, resume rate, churn across the two cycles after a resume, and lifetime value for subscribers who paused at least once compared with those who never did. Track involuntary churn separately, because failed payments and intentional skips look similar in a dashboard and behave completely differently in reality. If resume rates are weak, the cause is usually the reminder cadence rather than the offer, and a well timed message before auto-resume is the cheapest fix available.",
-    "The DTCwise Subscription & Loyalty category at /category/subscription keeps the current shortlist with ratings and pricing for the tooling that makes this possible. The Recharge profile at /tool/recharge covers the portal and dunning features in detail, which is worth reading before you build pause logic on a platform that cannot express it cleanly."
-  ]
+  "slot": 3
 }
