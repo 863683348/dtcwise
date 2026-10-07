@@ -1,5 +1,21 @@
 [
   {
+    "slug": "how-to-read-session-replays-to-fix-a-product-page",
+    "title": "How to Read Session Replays to Find What Is Breaking Your Product Page",
+    "excerpt": "A practical way to use session replays on a product page: sample the right sessions, tag recurring hesitation patterns, rank fixes by revenue impact, and validate with a follow-up test.",
+    "date": "2026-10-08",
+    "category": "CRO",
+    "body": [
+      "Funnel data tells you where people leave. It does not tell you why, and the why is usually the whole point. Session replays fill that gap, but only if you watch them with a question rather than browsing them for confirmation. The productive way to use recordings on a product page is to sample a narrow set of sessions, look for repeated hesitation, and turn what you see into a ranked list of fixes.",
+      "Define the sample before you press play. Pick sessions that match one outcome: mobile visitors who scrolled past the buy button and left, desktop visitors who opened the size chart and abandoned, or anyone who reached the cart from this page and came back. Fifty sessions from one narrow segment teach you more than two hundred random ones, because the pattern you want is a repeat rather than an anecdote.",
+      "Watch for hesitation instead of clicks. The signals that matter are scroll reversal, rapid back and forth between images and description, hovering over price or shipping text without moving on, and repeated taps on something that is not interactive. Those behaviors mark the moment a question went unanswered. Write down the timestamp and the question you think the visitor was asking, then move to the next session.",
+      "Convert observations into patterns with counts. After twenty or thirty sessions, group your notes: shipping cost unclear, sizing confidence, missing material or care details, delivery timing, returns policy. Frequency is what turns an opinion into a priority. One person confused by a size chart is noise, while nine people opening it and leaving is a page problem with a revenue number attached to it.",
+      "Rank fixes by how much revenue they touch rather than how easy they are. A shipping threshold that nearly every visitor hesitates over is worth more than a headline rewrite nobody noticed. Estimate impact by multiplying pattern frequency by the traffic and conversion rate of that segment, then work down the list. This is also where you decide what not to do, which is usually most of the ideas a replay session generates.",
+      "Validate before you believe the result. Change one element tied to the top pattern, hold everything else steady, and give it enough traffic and time to mean something. Watch a fresh batch of sessions from the same segment afterward to see whether the hesitation moved or simply relocated. Replays are excellent at generating hypotheses and poor at proving them, so the before and after watch is the part that keeps you honest.",
+      "Treat this as a recurring habit rather than a one-off audit. Ten sessions a week on your highest traffic product page will surface problems long before they appear as a conversion rate drop in a monthly report. The DTCwise CRO category at /category/cro keeps the current shortlist with ratings and pricing for behavior analytics and testing tools, and the Lucky Orange profile at /tool/luckyorange covers its session recording, heatmap, and survey features."
+    ]
+  },
+  {
     "slug": "how-to-audit-your-store-app-stack-before-peak-season",
     "title": "How to Audit Your Store App Stack Before Peak Season",
     "excerpt": "How to audit your store app stack before peak season: build a readable inventory, remove overlap, measure the real load cost, and set a change freeze you can actually enforce.",
