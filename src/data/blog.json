@@ -1,5 +1,21 @@
 [
   {
+    "slug": "how-to-set-delivery-promises-that-match-gooten-production-times",
+    "title": "How to Set Delivery Promises That Match Gooten Production Times",
+    "excerpt": "How to turn production and transit data into delivery promises you can publish: real cutoff times, named buffers, per-region windows, and wording that prevents support tickets.",
+    "date": "2026-10-08",
+    "category": "Fulfillment & Shipping",
+    "body": [
+      "Delivery promises are a product decision disguised as copy. The window you publish on a product page sets expectations for every order that follows, and when it is optimistic the cost shows up as tickets, cancellations, and disputes rather than as a line item. Print-on-demand makes this harder because production time sits between the order and the carrier, which means the promise has two halves that move independently.",
+      "Separate production from transit before you write anything down. Production is the time between order placement and the label being created, and it shifts with product type, decoration method, and seasonality. Transit is what the carrier does afterward, and it shifts with destination and service level. Publishing one blended number hides which half is volatile and prevents you from fixing the right one when orders start running late.",
+      "Pull real data instead of using published averages. Take the last sixty to ninety days of orders, group them by product type, and record the median and the ninetieth percentile for production days. The median tells you what a normal order feels like, while the upper figure tells you what unlucky orders look like. Build your public window off the upper number, because the customers who receive the tail end are also the ones who write in.",
+      "Add a buffer with a reason attached. Allow one day for weekend and holiday cutoffs, an extra day for anything involving manual proofing, and a second day for regions where customs review is routine. Buffers that are named and documented survive contact with a busy week, while vague padding gets trimmed the first time someone wants the page to look faster. Keep them in a shared document so support, marketing, and whoever edits product pages quote the same window.",
+      "Set cutoff times that match when orders actually get released. If orders placed after two in the afternoon do not enter production until the next business day, publish that cutoff rather than pretending the clock starts at midnight. Clear cutoffs turn an ambiguous wait into a promise the buyer can verify, and they give support a concrete answer when someone asks why an order has not moved yet.",
+      "Write the window in every place that influences the purchase. The product page, cart, checkout, confirmation email, and tracking page should all show the same range, phrased in business days with the production component visible. Three to five business days in production plus three to five in transit is longer than saying six to ten days, but it produces far fewer angry messages, because the buyer understands that something is happening before the carrier takes over.",
+      "Close the loop with measurement. Track the share of orders landing inside the published window by region and review it weekly during peak season. When a region drifts, widen that window first and fix the underlying cause in parallel. The DTCwise Fulfillment & Shipping category at /category/fulfillment keeps the current shortlist with ratings and pricing for partners in this space, and the Gooten profile at /tool/gooten covers the catalog, routing, and production model behind windows like these."
+    ]
+  },
+  {
     "slug": "how-to-run-a-back-in-stock-program-that-sells-without-discounts",
     "title": "How to Run a Back-in-Stock Program That Sells Without Discounts",
     "excerpt": "How to build restock alerts that convert: variant-level capture, waitlist segmentation, send timing rules, inventory-aware limits, and copy that sells on availability instead of price.",
