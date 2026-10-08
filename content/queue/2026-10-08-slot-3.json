@@ -1,16 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-run-a-back-in-stock-program-that-sells-without-discounts",
-  "title": "How to Run a Back-in-Stock Program That Sells Without Discounts",
-  "excerpt": "How to build restock alerts that convert: variant-level capture, waitlist segmentation, send timing rules, inventory-aware limits, and copy that sells on availability instead of price.",
   "date": "2026-10-08",
-  "category": "Email & SMS",
-  "body": [
-    "A sold out product page is one of the few genuinely high intent moments a store gets. Someone chose that product, in that size and color, and the only thing standing between them and a purchase is availability. Most stores respond by putting a dead email field on the page and hoping. A restock program turns that moment into a queue you can release the minute inventory lands.",
-    "Capture at the variant level. A general notify me signup tells you someone is interested, while a size-specific signup tells you exactly what to reorder and whom to email when it arrives. That distinction changes both the send and the buying decision. When the waitlist concentrates in two sizes, you can allocate the next purchase order accordingly instead of splitting it evenly across a full size run.",
-    "Set expectations at the moment of signup. Say what happens next, whether the alert arrives by email or text, how quickly popular variants usually move, and whether anything is being reserved. Restock demand concentrates in the first hours after a send, so a clear note that certain sizes go fast does more for conversion than a discount, because the urgency is real rather than manufactured.",
-    "Time the send to when people can act. Restock alerts perform best in the first hours after inventory goes live and during the window your audience actually opens messages, which you can pull from historical engagement data instead of guessing. Split large waitlists into waves so you do not oversell the first hundred units, and stop sending the moment inventory crosses a floor you set in advance.",
-    "Write the message around availability rather than price. Discounts are tempting here because they feel like the only lever, but the people on this list already wanted the product at full price and simply could not buy it. Lead with the product, name the size or variant they asked for, show it in stock now, and make the path to checkout one tap. Add a restock count or social proof only when it is accurate.",
-    "Handle the misses deliberately. If a waitlist survives two restock cycles without converting, the product may have a supply problem rather than a demand one, and continuing to send erodes trust. Move those subscribers to a relevant product or a broader category alert, and tell them why. A waitlist that never converts is not an asset, it is a list of people learning that your notifications do not mean much.",
-    "Measure the program on revenue per subscriber rather than open rate, and watch the unsubscribe rate after each send, since that is the real cost of over-mailing a waitlist. The DTCwise Email & SMS category at /category/email-sms keeps the current shortlist with ratings and pricing for tools that run this automation. The Omnisend profile at /tool/omnisend covers its email and SMS automation, including the segmentation and send controls a restock program depends on."
-  ]
+  "slot": 3
 }
