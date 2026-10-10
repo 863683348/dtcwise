@@ -1,0 +1,15 @@
+{
+  "slug": "how-to-refresh-old-blog-posts-without-rewriting-them",
+  "title": "How to Refresh Old Blog Posts Without Rewriting Them",
+  "excerpt": "A practical workflow for updating older DTC blog posts: pick the right candidates, fix intent gaps, keep the URL, and measure whether the refresh actually moved rankings.",
+  "date": "2026-10-11",
+  "category": "Content & AI",
+  "body": [
+    "Most DTC blogs do not need more posts. They need the posts they already have to work. A page published eighteen months ago that sits on the third page of results is usually closer to winning than a brand new article with no history, no internal links, and no impressions. Refreshing is cheaper than writing from scratch and it compounds faster, because you keep whatever authority the URL has already earned.",
+    "Start by picking candidates on evidence rather than instinct. Pull the last few months of query data and look for two groups: pages with real impressions but weak positions, and pages whose top queries have drifted away from what the article actually answers. Those are your priority queue. A page with no impressions at all is usually an indexing or intent problem rather than a refresh problem, and it belongs on a separate list.",
+    "Next, diagnose why the page is losing. Open it next to the results currently ranking and check three things: whether it answers the question in the first screen, whether it covers the sub-questions people actually ask, and whether anything on it is visibly out of date. Stale pricing, retired tools, and old screenshots are the fastest credibility losses and among the easiest to fix in an afternoon.",
+    "Update with restraint. Keep the URL, keep the core structure, and change only what the data says is broken. Rewrite the opening so it answers the query immediately, replace outdated sections with current specifics, and add the missing sub-topics competing pages already cover. Resist the urge to inflate a short article into a sprawling guide. Adding relevance is not the same as adding length, and padding tends to bury the answer.",
+    "Refresh the on-page signals too. Update the meta description so it matches the current promise, tighten the title if the original was written for a keyword you no longer target, and add internal links from newer, stronger posts into the refreshed page. Internal links are the most reliable lever you control, and a refreshed page with no new internal links tends to drift back to where it started within a few weeks.",
+    "Finally, measure the refresh instead of assuming it worked. Record the position and click-through rate for the target query on the day you publish, then check again at two weeks and six weeks. If nothing moves, the problem was probably intent rather than quality, and the honest answer is to rebuild the page around a different question. The DTCwise Content & AI category at /category/content-ai keeps the current shortlist with ratings and pricing, and the Frase listing at /tool/frase shows where it fits for content research."
+  ]
+}

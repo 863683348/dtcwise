@@ -1,0 +1,15 @@
+{
+  "slug": "how-to-reconcile-gooten-invoices-against-store-payouts",
+  "title": "How to Reconcile Gooten Invoices Against Your Store Payouts",
+  "excerpt": "A monthly reconciliation routine for print-on-demand sellers: match invoices to store payouts, catch silent margin leaks, and keep books clean before peak season.",
+  "date": "2026-10-11",
+  "category": "Fulfillment & Shipping",
+  "body": [
+    "Print-on-demand sellers often discover margin problems months late, because the money moves through two different systems. Your store collects the customer payment and pays out on its own schedule, while your production partner invoices separately on a different cycle with different fees attached. If nobody reconciles the two, small discrepancies compound quietly. A monthly routine that takes under an hour will catch most of them while they are still cheap to fix.",
+    "Start by fixing a single settlement window. Pick the calendar month, then pull three reports: store payouts, production invoices, and an order export with the fulfillment order ID attached. That export is the bridge between the two systems. Without a shared identifier on both sides you are comparing totals instead of matching line items, and totals hide exactly the errors you are hunting for.",
+    "Match at the order level first. For every fulfilled order, confirm the product cost, the shipping charge, and any tax or duty the partner passed through. Look for orders fulfilled but never invoiced, invoiced but never fulfilled, and billed twice after a reprint. Duplicate reprint charges are the most common leak, especially after a busy week when support approves replacements quickly and nobody closes the loop in the books.",
+    "Then check the shipping line against what you actually charged the customer. Flat-rate checkout shipping is good for conversion and dangerous for margin when the real parcel costs more on heavy or oversized items. Pull the ten orders with the widest gap between shipping collected and shipping billed. If a pattern appears by product type or destination zone, fix the checkout rate or the shipping profile instead of absorbing the difference.",
+    "Reconcile refunds and reprints in the same pass. When a customer receives a replacement you have two production events and usually one payment. Decide in advance whether the replacement cost is cost of goods, a marketing expense, or a support expense, and apply that rule consistently. Mixed treatment is what makes month-over-month margin impossible to read, and it is the most common reason founders stop trusting their own numbers.",
+    "Close the loop by writing the variances down. A short monthly note listing every discrepancy above a set threshold, its cause, and the fix becomes your playbook for the next busy season. Most of these issues repeat, and the second time you see one you will resolve it in minutes rather than an afternoon. The DTCwise Fulfillment & Shipping category at /category/fulfillment keeps the current shortlist with ratings and pricing, and the Gooten listing at /tool/gooten shows where it fits."
+  ]
+}
