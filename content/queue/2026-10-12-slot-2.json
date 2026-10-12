@@ -1,16 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-audit-modalyst-supplier-lead-times",
-  "title": "How to Audit Modalyst Supplier Lead Times Before You Promise Delivery Dates",
-  "excerpt": "Stop quoting delivery windows from marketplace estimates. Learn how to measure real handling and transit times per supplier, set honest promises, and catch lead time drift early.",
   "date": "2026-10-12",
-  "category": "Dropshipping",
-  "body": [
-    "Delivery promises do two jobs at once. They lift conversion on the product page and they set the standard customers hold you to afterwards. Most stores set that promise from the estimate shown in the supplier marketplace, which is usually a national average rather than a commitment. If you source through Modalyst, running your own lead time audit is the cheapest way to stop refunds and support tickets caused by windows you never actually controlled.",
-    "Split the number into two parts before you measure anything. Handling time runs from order placement to dispatch, and transit time runs from dispatch to delivery. They fail for different reasons and they are owned by different parties. Handling delays usually come from stock gaps or batching at the supplier, while transit delays come from carrier zone and service level. Quoting a single blended number hides which one is hurting you.",
-    "Collect the data properly. Place test orders to your own address and to two or three real destination zones in your primary market, and log the date of every status change rather than the final delivery date. Ten orders per supplier per zone is enough to see a pattern. Pay attention to weekend and cut-off behaviour, because a supplier that only dispatches on business days quietly adds two days to every order placed on a Friday.",
-    "Turn the data into three bands per supplier: best case, typical case and worst case. Publish the typical case plus a buffer, and keep the worst case for internal planning. A promise set at typical plus two days converts nearly as well as an optimistic one and generates a fraction of the where is my order tickets. Customers rarely complain about an order that arrives early relative to what you told them.",
-    "Then watch for drift. Re-audit monthly, and always re-audit before a seasonal peak, because lead times stretch when suppliers take on more volume than they can handle. Track the share of orders crossing your worst case band as a standing metric. When that share climbs for a supplier, either widen the promise for those products or move the volume, but do not leave a stale window on the page.",
-    "Finally, push the result through the whole storefront. Product page delivery estimate, checkout messaging, post-purchase email, and support macros should all quote the same window derived from the same audit. Inconsistent promises across those surfaces are a common source of disputes, because the customer will quote back whichever number was most optimistic. One source of truth for delivery dates removes an entire category of argument.",
-    "Lead time is a competitive asset once it is measured, since a store that delivers when it says it does can charge slightly more and still keep repeat buyers. The Modalyst profile at /tool/modalyst covers what to check on a supplier listing, and the DTCwise Dropshipping category at /category/dropshipping keeps the current shortlist with ratings and pricing."
-  ]
+  "slot": 2
 }
