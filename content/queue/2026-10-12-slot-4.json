@@ -1,16 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-time-payouts-and-reserves-in-peak-season",
-  "title": "How to Time Payouts and Reserves So Peak Season Cash Flow Holds",
-  "excerpt": "Peak season raises revenue and tightens cash at the same time. Learn how to map payout lag, model refund and chargeback reserves, and cap ad spend against real available cash.",
   "date": "2026-10-12",
-  "category": "Payments & FX",
-  "body": [
-    "Peak season is the one time of year when a profitable store can run out of cash. Revenue climbs, ad spend climbs faster, and the money from those orders arrives days or weeks later while refunds and chargebacks settle after the season ends. Stores that treat cash flow as a December problem discover it in November, when they cannot fund the inventory or the ad budget that the demand actually requires.",
-    "Map the cycle first, in days. Ad spend leaves today. The customer pays at checkout. The processor or marketplace releases funds after a payout lag. Refunds happen through the season, and chargeback claims can arrive weeks after delivery. Write those four dates on one line for your own business, because the gap between the first and the last is the period you must fund out of working capital rather than out of sales.",
-    "Then size the gap. Take your expected peak daily order value, multiply by the payout lag in days, and add a refund and chargeback reserve set from your own trailing rate rather than from an industry average. A store doing a strong December on a three day payout lag with a twelve percent refund rate needs a materially different buffer than the same store on a fourteen day lag. Do this arithmetic before you commit to a promotion calendar.",
-    "Understand what your processor is holding and why. Reserves are usually rolling holdbacks or fixed balances tied to refund ratio, chargeback ratio, ticket size, category risk or a recent volume jump. A sudden volume jump is the most common trigger in peak season, since it looks like risk even when it is just seasonality. Ask your provider what their thresholds are and what documentation releases a hold early, and keep that contact warm before you need it.",
-    "If you sell across borders, add a currency layer. Settlement timing can differ by currency, and conversion spread quietly reduces the amount that lands in your operating account. Decide in advance whether you hold funds in the sale currency or convert on receipt, and check whether your payout schedule treats each currency separately. Sellers who assume one pooled payout often find their largest market settles on the slowest schedule.",
-    "Operational discipline closes the loop. Cap daily ad spend against cash available rather than against projected revenue, stagger promotional pushes so refunds from one wave do not collide with spend for the next, and watch refund rate daily instead of monthly. A refund rate that climbs two points during a promotion is an early signal that the offer is attracting the wrong buyers, and it will show up in your reserve long before it shows up in your margin report.",
-    "None of this requires new software, only a cash calendar you actually maintain through the season. Update the payout lag and the reserve number weekly and let them set the spend ceiling. The Airwallex listing at /tool/airwallex covers how multi-currency settlement schedules work in practice, and the DTCwise Payments and FX category at /category/payments keeps the current shortlist with ratings and pricing."
-  ]
+  "slot": 4
 }
