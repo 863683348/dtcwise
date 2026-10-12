@@ -1,5 +1,21 @@
 [
   {
+    "slug": "teelaunch-pricing-explained-what-you-pay-in-year-one",
+    "title": "Teelaunch Pricing Explained: What You Actually Pay in Year One",
+    "excerpt": "A year-one cost breakdown for selling through Teelaunch: blank and variant costs, shipping bands, samples, remake reserves, and the fees that quietly eat contribution margin.",
+    "date": "2026-10-12",
+    "category": "Print-on-Demand",
+    "body": [
+      "Most print-on-demand pricing pages show one number, the cost of a single printed shirt. That number is real, but it is not what you spend in year one. Your first year on a platform like Teelaunch is shaped by blank goods pricing, shipping bands, sample orders, remakes, store fees and payment fees. If you budget only for the per-item price, the margin you modeled at launch will not survive contact with real orders.",
+      "Start with the blank. Teelaunch prices by product and variant, so a heavyweight hoodie, a long sleeve tee and a standard tee sit in different cost bands, and extended sizes usually carry an upcharge. Colour matters too, because some blanks cost more to source. Before you publish a listing, price every size and colour you plan to sell rather than the single variant you sampled. A catalog where only the base variant makes margin bleeds on every upgrade a customer chooses.",
+      "Shipping is the second line new sellers undercount. Print-on-demand shipping is charged per item or per shipment, and multi-item orders do not scale in a straight line. Add the destination mix you actually expect: domestic economy, domestic expedited and international. International is where a nine dollar domestic assumption turns into twenty or more, plus duties the customer may refuse on delivery. Model shipping for your real destination mix, not for your best case.",
+      "Samples are a recurring budget line, not a one-off. One sample of a best seller is not enough when you sell apparel, because fit and print placement differ by blank. Budget two or three rounds per hero product: one round to check print quality, one to check fit after washing, and one to shoot photography you own instead of supplier mockups. Samples rarely resell, so treat them as a marketing cost with a payback period rather than as inventory.",
+      "Remakes and defects belong in the model as well. Print-on-demand removes inventory risk but not quality risk, since misprints, alignment errors and transit damage still happen, and the practical question is who absorbs the cost. Track your first hundred orders by defect reason and claim window, then carry a small share of revenue as a remake reserve. Sellers who skip this step usually meet the cost during their busiest month, when there is no slack to absorb it.",
+      "The last layer sits around the platform. Store subscription, app fees for mockups or upsells, payment processing on every order, and currency conversion for cross-border sales all reduce contribution margin after the product ships. Because there is no heavy monthly platform fee on the standard integration, the variable lines matter far more than a subscription line when you forecast. That is good news early and a discipline problem later, since every order carries its own cost.",
+      "A practical way to hold this together is a per-SKU worksheet: blank cost by variant, print surcharge, shipping by destination band, payment fee, sample amortisation and remake reserve, then your price and the margin that falls out. Build it once and reuse it for every listing. The Teelaunch listing at /tool/teelaunch covers how the platform presents these numbers, and the DTCwise Print-on-Demand category at /category/pod keeps the current shortlist with ratings and pricing."
+    ]
+  },
+  {
     "slug": "how-to-track-competitor-offer-and-price-changes-from-ad-data",
     "title": "How to Track Competitor Offer and Price Changes From Ad Data",
     "excerpt": "Turn ad spy data into a pricing and offer watch: what to log each week, how to read discount patterns, and when a rival promotion should change your own plan.",
