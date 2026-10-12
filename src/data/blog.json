@@ -1,5 +1,21 @@
 [
   {
+    "slug": "how-to-choose-a-review-platform-for-changing-catalogs",
+    "title": "How to Choose a Review Platform When Your Catalog Keeps Changing",
+    "excerpt": "Evaluating review apps on features misses the hard part. Here is how to test review continuity across variants, relists and migrations before you commit to a platform and a pricing tier.",
+    "date": "2026-10-12",
+    "category": "Reviews",
+    "body": [
+      "Review platforms are usually compared on features: photo requests, widgets, incentives, integrations. Those matter, but for a store that changes its catalog often they are not the deciding factor. The question that actually costs you money is what happens to accumulated reviews when a product is renamed, a variant is split, or a listing is rebuilt. If reviews vanish at that moment, you lose social proof you already paid for in discounts and support time.",
+      "Start with review grouping. Some platforms attach reviews to the product, others to the variant, and a few let you choose per collection. Grouping at product level keeps counts high on a shirt with six colourways, but it hides complaints that apply to one colour. Grouping at variant level is more honest and fragments your proof. Decide which failure you prefer before you shop, because changing it later means reassigning history by hand.",
+      "Next, test the migration paths you will realistically need in the next year. Rebuild one product under a new handle and check whether reviews follow. Import a batch of reviews from a previous platform and see how dates, verified badges and media are handled. Move a product between collections and confirm nothing resets. Run these three tests on a trial account and you will learn more than any feature list will tell you.",
+      "Request timing is the third check, and it matters more when fulfilment is slow. A request triggered on order date lands before the parcel does, which produces low response rates and occasional angry replies. Look for delivery-based triggering, per-collection delays and a way to suppress requests for delayed or cancelled orders. If the platform can only trigger on a fixed number of days after checkout, your dropshipped or made-to-order lines will underperform.",
+      "Think about the long tail of your catalog. A store with a few hero products needs deep per-product proof; a store with hundreds of slow movers never gets there, because each SKU collects three reviews a year. In that case store-level rating widgets, category aggregates and review highlights on collection pages carry more weight than per-product counts. Choose a platform that can display proof at whichever level your catalog actually supports.",
+      "Cost should be modelled against order volume and request volume rather than SKU count. Most review apps step up by monthly order or email volume, so a spike in Q4 can push you into a higher tier for the following months. Ask what happens to pricing at your projected peak, whether overage is billed or throttled, and whether archives stay accessible if you downgrade. Losing access to your own review history over a billing tier is a real risk.",
+      "A short trial with real products beats weeks of research. Pick your two messiest products, run them through grouping, migration and request timing, and see which platform keeps proof intact. The Judge.me listing at /tool/judgeme covers how one option handles these mechanics, and the DTCwise Reviews category at /category/reviews keeps the current shortlist with ratings and pricing."
+    ]
+  },
+  {
     "slug": "how-to-audit-modalyst-supplier-lead-times",
     "title": "How to Audit Modalyst Supplier Lead Times Before You Promise Delivery Dates",
     "excerpt": "Stop quoting delivery windows from marketplace estimates. Learn how to measure real handling and transit times per supplier, set honest promises, and catch lead time drift early.",
