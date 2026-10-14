@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-use-search-console-to-fix-pages-stuck-on-page-two",
-  "title": "How to Use Search Console Data to Fix Pages Stuck on Page Two",
-  "excerpt": "Pages sitting at position eleven to twenty are your cheapest traffic source. This workflow shows how to pull those queries from Search Console and decide which pages deserve the next hour.",
   "date": "2026-10-14",
-  "category": "SEO",
-  "body": [
-    "Most stores chase keywords they have never ranked for while ignoring the ones they nearly rank for. A page sitting at position eleven to twenty is already trusted enough to be shown, already attracts impressions, and usually needs one focused hour rather than a new content programme. Moving a page from position fourteen to position seven can multiply its clicks several times over without a single new article. The first job is to find those pages, and the second is to work out why they are stuck.",
-    "Open the performance report, set the range to the last three months, and filter average position between eleven and twenty. Sort by impressions rather than clicks, because impressions tell you which queries have real demand behind them. Export the list and group the queries by the page they land on. You are looking for a pattern: usually a handful of pages absorb most of the near win impressions, and those pages are the whole of your priority list for the month.",
-    "For each page, compare the query that is close to winning against what the page actually promises in its first screen. Page two rankings are often an intent mismatch rather than a quality problem. A collection page ranking for a question query will struggle forever, while a guide page ranking for a commercial term may simply need a clearer summary near the top. Write down the mismatch in one sentence before you touch anything, because that sentence determines whether you edit the page or build a different one.",
-    "Then make the small set of edits that actually move near win pages. Rewrite the title and meta description so they use the wording customers searched for rather than your internal product name. Move the direct answer to the query into the first two paragraphs instead of burying it two thirds down. Add the section a competing result covers and you do not. None of this requires a rewrite of the whole page, and all of it is measurable the next time you pull the same report.",
-    "Internal links are the second lever, and they are entirely under your control. Find three to five related pages on your own site that already get traffic, and add a contextual link from each one to the stuck page using descriptive anchor text. Make sure the stuck page links back out to its own relevant category and product pages so it is not a dead end. The DTCwise SEO category at /category/seo keeps the current shortlist of search tools with ratings and pricing for auditing this kind of structure.",
-    "Give every change two to four weeks before you judge it, then repull the same filtered report and compare position and click through rate for those specific queries. Keep a simple sheet with the page, the query, the date of the edit, and the result. After two months that sheet tells you which type of fix works on your site, and it stops the team from repeating edits that never moved anything. The Ahrefs listing at /tool/ahrefs shows current pricing and the keyword research features worth checking alongside Search Console."
-  ]
+  "slot": 3
 }
