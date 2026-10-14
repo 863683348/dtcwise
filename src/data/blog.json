@@ -1,5 +1,20 @@
 [
   {
+    "slug": "how-to-bundle-teelaunch-products-into-kits-without-breaking-fulfillment",
+    "title": "How to Bundle Teelaunch Products Into Kits Without Breaking Fulfillment",
+    "excerpt": "Curated kits lift average order value, but multi item print on demand orders rarely arrive in one box. Here is how to price, describe and route bundles so expectations still match reality.",
+    "date": "2026-10-14",
+    "category": "Print-on-Demand",
+    "body": [
+      "Kits are one of the fastest ways to lift average order value without buying more traffic. A starter set, a gift bundle, or a themed trio gives the customer one decision instead of three, and it moves slow moving variants along with the winners. The trap is that print on demand rarely behaves like a warehouse. Each item is produced on its own line, on its own schedule, and usually ships in its own parcel. A bundle described as one box that arrives as three packages is a support problem, not a shipping problem.",
+      "Decide which bundle model you are actually running before you build the listing. The first model is a true single SKU, where the supplier assembles and ships the set as one unit. The second is a virtual bundle, where your storefront groups separate products and the fulfilment side still sees individual items. Most print on demand catalogs can only support the second, so build your copy around it. That means naming the number of parcels on the product page instead of hoping nobody notices.",
+      "Pricing needs the same honesty. A flat free shipping threshold applied across bundles is the most common way to lose money on them, because you are paying two or three outbound shipments on one order value. Either build the real shipping cost into the bundle price, or charge a per parcel rate that is visible at checkout. Run the margin on the worst case, which is the customer in the most expensive zone ordering the heaviest item in the set, and check the bundle still clears your floor after discounts and payment fees.",
+      "Write the delivery story in three places. On the product page, state that items in a set may ship separately and give the widest window in the bundle. In the cart, repeat it once near the shipping line. In the confirmation email, tell the customer to expect more than one tracking number. None of this reduces conversion in practice; what reduces conversion is a surprise parcel followed by a second one the customer believes they never ordered. The DTCwise Print-on-Demand category at /category/pod keeps the current shortlist of print platforms with ratings and pricing.",
+      "Then handle the operational side. Route each item in the bundle to production as normal, but tag the order so your support team can see it belongs to a set. Send tracking per parcel as each one ships, and write one short macro that explains partial delivery for when only part of the set has landed. Most where is my order tickets on bundles come from the gap between the first and second parcel, and a single proactive message closes that gap before the customer asks.",
+      "Measure the bundle separately from the individual products inside it. Track average order value, refund rate, and support contacts per order for the bundle as its own line item over a full month. If the refund rate is materially higher than the products sold individually, the description is setting the wrong expectation rather than the fulfilment failing. The Teelaunch listing at /tool/teelaunch shows current pricing, catalog coverage and the fulfilment details worth checking before you build a set around its products."
+    ]
+  },
+  {
     "slug": "how-to-handle-zendrop-stockouts-without-losing-the-sale",
     "title": "How to Handle Zendrop Stockouts Without Losing the Sale",
     "excerpt": "A sold-out variant does not have to become a refund. This workflow shows how to spot stockouts early, message the delay honestly, and protect repeat purchase rate.",
