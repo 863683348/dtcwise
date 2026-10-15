@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-fix-mobile-collection-pages-that-get-traffic-but-no-add-to-carts",
-  "title": "How to Fix Mobile Collection Pages That Get Traffic but No Add-to-Carts",
-  "excerpt": "A diagnostic sequence for collection pages with healthy sessions and weak add to cart rates: read the scroll and tap data, then fix filters, grid density and product cards.",
   "date": "2026-10-15",
-  "category": "CRO",
-  "body": [
-    "A collection page that pulls traffic but produces few add to carts is usually not a traffic problem and rarely a price problem. It is a navigation problem that shows up on phones first. Shoppers arrive with intent, cannot reduce forty products to three they care about, and leave without ever opening a product page. Before touching design, pull the segment you actually care about: mobile sessions on your highest traffic collection over the last thirty days.",
-    "Start with scroll depth and tap maps together, because either one alone misleads. If most mobile visitors stop scrolling within the first screen, the grid is not showing enough distinct products to justify the effort of scrolling. If they scroll deep but taps cluster on filters and sorting rather than on product cards, they are trying to narrow the list and the filters are failing them. Microsoft Clarity gives you both views for free, which is worth knowing before you pay for a full testing suite.",
-    "Check filter availability against filter demand next. List the attributes shoppers actually use to choose in your category, then check whether each one exists as a front end filter. Size, colour, price band and use case are the usual gaps. A collection with only category filters forces phone users to open and close product pages one at a time, and each extra tap costs you a share of the session. Add the two missing attributes that appear most often in your on site search terms.",
-    "Look at card density and card content on a real device, not in a desktop preview. Three products per row on a phone makes images too small to judge, while one per row turns the collection into an endless scroll with no comparison possible. Two per row with a clear price, one differentiating attribute and a visible variant count tends to outperform both extremes. Test on the cheapest Android size class in your analytics, since that is where the friction concentrates.",
-    "Fix the ordering logic as well. Default sorting by newest or by manual curation buries the products most likely to convert. Sorting by bestselling, or by a blend of margin and conversion rate, puts proven products in the first two rows where attention actually lands. If a collection has more than thirty items, add a short editorial line at the top explaining how the range is organised, so the shopper knows whether to filter by use case or by price.",
-    "Measure the result on the funnel step you set out to fix, not on revenue alone. Track mobile add to cart rate for that collection weekly, and give each change two full weeks before judging it, because a single weekend can distort small numbers. Keep a short log of what you changed and when, so a future regression is traceable. The DTCwise Microsoft Clarity listing at /tool/microsoft-clarity keeps current pricing and feature notes, and the CRO category at /category/cro keeps the current shortlist with ratings and pricing."
-  ]
+  "slot": 4
 }

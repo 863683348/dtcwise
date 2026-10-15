@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-build-a-supplier-scorecard-from-syncee-order-data",
-  "title": "How to Build a Supplier Scorecard From Syncee Order Data",
-  "excerpt": "Turn ninety days of marketplace order history into a supplier scorecard: four metrics, one threshold each, and a clear rule for which suppliers keep your shelf space.",
   "date": "2026-10-15",
-  "category": "Dropshipping",
-  "body": [
-    "Most sellers choose suppliers on catalogue size and unit price, then spend the next six months discovering which ones actually ship on time. The information you need already exists in your order history. A supplier scorecard turns ninety days of real orders into four numbers per supplier, which is enough to decide who keeps shelf space and who gets replaced before the next seasonal push. It is a quarterly half hour of work, not a data project.",
-    "Pull one export covering a full quarter. For every order you need the supplier name, the date the order was placed, the date it shipped, the date it arrived where possible, and any cancellation or out of stock event attached to it. Syncee orders carry this through the marketplace layer, so you can group by supplier without reconciling separate vendor portals. Exclude your first two weeks with any new supplier, since onboarding noise will distort the average and make a good partner look unreliable.",
-    "Score four things and nothing else. Fulfilment rate is the share of orders that shipped without being cancelled by the supplier. Speed is the median number of business days from order to shipment, not the mean, because one disaster should not erase a hundred normal orders. Dispute rate is the share of orders that produced a customer complaint, refund request or where is my order message. Price stability is the number of unannounced cost changes inside the quarter. Four columns, one row per supplier.",
-    "Set the thresholds before you look at the data, otherwise you will grade on a curve. A reasonable starting line for a small store is a fulfilment rate above ninety five percent, median handling under three business days, a dispute rate under two percent, and no more than one unannounced price change per quarter. Suppliers that clear all four keep their listings and can take more testing budget. Suppliers that miss two or more lines go on a watch list with a fixed review date rather than being cut in an emotional moment.",
-    "Use the scorecard as a sourcing input, not just a clean-up tool. When you evaluate a new supplier, ask for the numbers the scorecard measures and record the same four lines for their first quarter, so new and established partners are judged on identical terms. Sellers who do this consistently find that a slightly more expensive supplier with a ninety nine percent fulfilment rate is cheaper in total, once refunds, support time and lost repeat purchases are counted.",
-    "Rebuild the sheet at the end of every quarter and keep the history. Trend lines are what make the exercise valuable, because a supplier drifting from two day handling to four day handling over six months is about to cost you a season of reviews. Share the worst two lines with the supplier when you renegotiate, since specific numbers get better responses than general complaints. The DTCwise Syncee listing at /tool/syncee keeps current pricing and feature notes, and the Dropshipping category at /category/dropshipping keeps the current shortlist with ratings and pricing."
-  ]
+  "slot": 2
 }

@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-run-an-ad-spy-routine-when-you-are-the-only-marketer",
-  "title": "How to Run an Ad Spy Routine When You Are the Only Marketer",
-  "excerpt": "A forty minute weekly competitive research routine for solo operators: capture the right angles, log them in one sheet, and convert them into two testable creative directions.",
   "date": "2026-10-15",
-  "category": "Ad Spy",
-  "body": [
-    "Competitive ad research fails for solo operators for a boring reason: it has no fixed slot in the week, so it happens in bursts and produces nothing testable. What works instead is a short routine with a hard stop. Forty minutes, once a week, same day, ending with exactly two written creative directions you can shoot or mock up. Anything longer and the research becomes procrastination that feels like work.",
-    "Spend the first ten minutes collecting, not judging. Search your core product terms and a couple of problem terms your buyers actually type, then save every competitor ad that has been running long enough to be worth attention. Longevity is the cheapest quality signal available, because nobody keeps spending on a creative that does not convert. With BigSpy you can sort by duration and ad strength instead of scrolling a feed, which is the difference between research and browsing.",
-    "Spend the next ten minutes tagging what you saved. Use three tags only: hook, offer and proof. The hook is the first three seconds or the first line. The offer is what is being promised, including any bundle, guarantee or threshold. The proof is whatever makes the claim believable, such as a review count, a demonstration or a specific number. Three tags keep the sheet readable and stop you from building a taxonomy you will abandon in three weeks.",
-    "The following ten minutes go to pattern spotting across rows rather than within them. Look for a hook that appears under three different brands, because a repeated structure is a working structure, even when the products differ. Look for an offer that has quietly become standard in your category, since that is now table stakes rather than a differentiator. Write down the two patterns you can act on this week and ignore everything else, no matter how clever it looks.",
-    "Use the last ten minutes to convert each pattern into a testable direction. A direction is not an idea, it is a hook line, a visual plan, a single variable you are testing and the audience you will put it in front of. Keep the budget small and the test window fixed, then record the result next to the original row in the sheet. Over a quarter this turns a folder of screenshots into a ranked list of what actually worked for your store and your audience.",
-    "Protect the routine from scope creep. Do not extend the session to analyse landing pages, pricing or email flows, and do not add competitors mid-week just because one surfaced in your feed. Those are separate sessions with their own outputs. The compounding value comes from running the same narrow process every week, not from occasional deep dives. The DTCwise BigSpy listing at /tool/bigspy keeps current pricing and feature notes, and the Ad Spy category at /category/ad-spy keeps the current shortlist with ratings and pricing."
-  ]
+  "slot": 3
 }
