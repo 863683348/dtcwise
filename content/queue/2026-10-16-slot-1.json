@@ -1,16 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-retire-and-refresh-teelaunch-listings-at-the-end-of-a-season",
-  "title": "How to Retire and Refresh Teelaunch Listings at the End of a Season",
-  "excerpt": "A season-end routine for print-on-demand catalogs: sort every listing into keep, refresh or retire using sell-through, refund and traffic data, then protect the pages that still earn visits.",
   "date": "2026-10-16",
-  "category": "Print-on-Demand",
-  "body": [
-    "Seasonal catalogs grow by accident. You add twenty products for a holiday push, sell through six, and leave fourteen sitting in collections where they dilute navigation and confuse returning shoppers. Retiring a design feels like throwing away work, which is why most stores skip the decision entirely. Putting it on a fixed calendar once or twice a year turns cleanup into routine maintenance instead of a judgement call you avoid every week.",
-    "Sort every listing into three buckets using data rather than memory. Pull the last full season for each product: units sold, page views, add-to-cart rate, refund reasons and support mentions. Steady sales with low refunds go into keep. Real traffic with weak conversion belongs in refresh. Products with neither belong in retire. Print the list and work top-down, because the middle of the catalog is where the hours disappear.",
-    "Retiring is not the same as deleting. If a product page has backlinks or ranks for a query you still want, keep the URL live with a short note and point shoppers to the closest current design rather than letting it 404. If a page has neither traffic nor links, remove it from navigation and collections first, then drop it from the catalog. Taking navigation out before the product prevents dead ends appearing in your own menus.",
-    "Refresh work is mostly unglamorous. Rebuild the mockup at current artwork ratios, rewrite the description around how buyers actually search for the product, and re-check pricing against real production cost after the last few months of fee changes. Trim variants that never sold, because every unused size or color adds catalog noise and makes inventory and routing harder to reason about during busy weeks. Small edits here compound across forty listings.",
-    "Teelaunch makes this loop manageable, because variants, print files and product state live together, so a retire or refresh decision is a catalog edit rather than a rebuild. The Teelaunch page at /tool/teelaunch covers how that product data and pricing are structured, and the DTCwise Print-on-Demand category at /category/pod keeps comparable platforms with ratings and pricing if a group of products no longer fits your line.",
-    "Time the refresh so new listings are live before demand returns, not during it. If your peak begins in November, retire decisions belong in September, mockup rebuilds in early October, and a small paid test two weeks before the window opens. Seasonal pages need a few weeks of real conversion data before you ask paid traffic to trust them, and that runway is the difference between testing and guessing.",
-    "Record what the review produced: how many products retired, how many refreshed, and what happened to conversion for the refreshed group. That single line of history turns next season into an edit of a known list instead of a fresh audit, and over two or three cycles it also tells you which designs deserve to stay in the evergreen catalog permanently."
-  ]
+  "slot": 1
 }

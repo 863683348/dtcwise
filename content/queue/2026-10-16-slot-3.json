@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-run-an-ai-draft-qa-checklist-before-publishing",
-  "title": "How to Run an AI Draft QA Checklist Before Publishing",
-  "excerpt": "A repeatable QA routine for AI-assisted drafts: verify numbers, claims, links and store-specific facts before publishing, so the speed gain does not turn into corrections, thin pages and lost trust.",
   "date": "2026-10-16",
-  "category": "Content & AI",
-  "body": [
-    "AI drafting is now fast enough that most stores publish several times what they used to, and the extra output tends to fail the same small set of checks. An invented statistic, an outdated plan name, a shipping promise you no longer honor, or a page with no internal links at all. None of these take long to fix before publishing, and all of them are expensive once the page is indexed and shared.",
-    "Check numbers against a source first. Every price, plan name, usage limit and integration claim should be traceable to a page you opened this week, ideally a screenshot saved alongside the draft. This matters most for tool coverage, where pricing tiers change quietly. If a number cannot be verified in under two minutes, cut the sentence rather than softening it. A draft without specifics still reads well, while a draft with wrong specifics loses readers permanently.",
-    "Strip generic filler next. Passages that could appear unchanged on any store blog are doing no work for you. Replace one section in every draft with something only your store knows, such as a support ticket pattern, a refund percentage, a screenshot from your own dashboard, or an example from a real order. That paragraph is usually the part that earns links, and the part a reader remembers when deciding whether to trust the rest.",
-    "Then verify links and structure. Each piece should point to one relevant category page and one tool page in your directory, and every internal link should be checked with a click rather than assumed. Confirm the slug still resolves after any catalog or routing change. Read the draft aloud once, because the sentences that trip you up are typically the stacked clauses a model produced that nobody reviewed. Tighten them instead of trusting that they read fine.",
-    "Assign ownership and a review date inside the draft file. Name who is accountable for the numbers and set a reminder to recheck anything that cites pricing or plan limits, since those change fastest. Briefing tools such as Frase help keep outlines and sources attached to the draft so the next reviewer can trace a claim without asking. The Frase page at /tool/frase and the DTCwise Content & AI category at /category/content-ai keep current notes on this stack.",
-    "Finish with a monthly sweep rather than assuming the first pass was permanent. Take your ten highest-traffic pieces, re-verify the claims, update screenshots, and add whatever changed in the store since publication. Refreshing a page that already earns impressions usually beats publishing a new one, and the habit keeps corrections from piling into a backlog nobody wants to open."
-  ]
+  "slot": 3
 }

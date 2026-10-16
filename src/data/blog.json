@@ -1,5 +1,36 @@
 [
   {
+    "slug": "how-to-run-an-ai-draft-qa-checklist-before-publishing",
+    "title": "How to Run an AI Draft QA Checklist Before Publishing",
+    "excerpt": "A repeatable QA routine for AI-assisted drafts: verify numbers, claims, links and store-specific facts before publishing, so the speed gain does not turn into corrections, thin pages and lost trust.",
+    "date": "2026-10-16",
+    "category": "Content & AI",
+    "body": [
+      "AI drafting is now fast enough that most stores publish several times what they used to, and the extra output tends to fail the same small set of checks. An invented statistic, an outdated plan name, a shipping promise you no longer honor, or a page with no internal links at all. None of these take long to fix before publishing, and all of them are expensive once the page is indexed and shared.",
+      "Check numbers against a source first. Every price, plan name, usage limit and integration claim should be traceable to a page you opened this week, ideally a screenshot saved alongside the draft. This matters most for tool coverage, where pricing tiers change quietly. If a number cannot be verified in under two minutes, cut the sentence rather than softening it. A draft without specifics still reads well, while a draft with wrong specifics loses readers permanently.",
+      "Strip generic filler next. Passages that could appear unchanged on any store blog are doing no work for you. Replace one section in every draft with something only your store knows, such as a support ticket pattern, a refund percentage, a screenshot from your own dashboard, or an example from a real order. That paragraph is usually the part that earns links, and the part a reader remembers when deciding whether to trust the rest.",
+      "Then verify links and structure. Each piece should point to one relevant category page and one tool page in your directory, and every internal link should be checked with a click rather than assumed. Confirm the slug still resolves after any catalog or routing change. Read the draft aloud once, because the sentences that trip you up are typically the stacked clauses a model produced that nobody reviewed. Tighten them instead of trusting that they read fine.",
+      "Assign ownership and a review date inside the draft file. Name who is accountable for the numbers and set a reminder to recheck anything that cites pricing or plan limits, since those change fastest. Briefing tools such as Frase help keep outlines and sources attached to the draft so the next reviewer can trace a claim without asking. The Frase page at /tool/frase and the DTCwise Content & AI category at /category/content-ai keep current notes on this stack.",
+      "Finish with a monthly sweep rather than assuming the first pass was permanent. Take your ten highest-traffic pieces, re-verify the claims, update screenshots, and add whatever changed in the store since publication. Refreshing a page that already earns impressions usually beats publishing a new one, and the habit keeps corrections from piling into a backlog nobody wants to open."
+    ]
+  },
+  {
+    "slug": "how-to-retire-and-refresh-teelaunch-listings-at-the-end-of-a-season",
+    "title": "How to Retire and Refresh Teelaunch Listings at the End of a Season",
+    "excerpt": "A season-end routine for print-on-demand catalogs: sort every listing into keep, refresh or retire using sell-through, refund and traffic data, then protect the pages that still earn visits.",
+    "date": "2026-10-16",
+    "category": "Print-on-Demand",
+    "body": [
+      "Seasonal catalogs grow by accident. You add twenty products for a holiday push, sell through six, and leave fourteen sitting in collections where they dilute navigation and confuse returning shoppers. Retiring a design feels like throwing away work, which is why most stores skip the decision entirely. Putting it on a fixed calendar once or twice a year turns cleanup into routine maintenance instead of a judgement call you avoid every week.",
+      "Sort every listing into three buckets using data rather than memory. Pull the last full season for each product: units sold, page views, add-to-cart rate, refund reasons and support mentions. Steady sales with low refunds go into keep. Real traffic with weak conversion belongs in refresh. Products with neither belong in retire. Print the list and work top-down, because the middle of the catalog is where the hours disappear.",
+      "Retiring is not the same as deleting. If a product page has backlinks or ranks for a query you still want, keep the URL live with a short note and point shoppers to the closest current design rather than letting it 404. If a page has neither traffic nor links, remove it from navigation and collections first, then drop it from the catalog. Taking navigation out before the product prevents dead ends appearing in your own menus.",
+      "Refresh work is mostly unglamorous. Rebuild the mockup at current artwork ratios, rewrite the description around how buyers actually search for the product, and re-check pricing against real production cost after the last few months of fee changes. Trim variants that never sold, because every unused size or color adds catalog noise and makes inventory and routing harder to reason about during busy weeks. Small edits here compound across forty listings.",
+      "Teelaunch makes this loop manageable, because variants, print files and product state live together, so a retire or refresh decision is a catalog edit rather than a rebuild. The Teelaunch page at /tool/teelaunch covers how that product data and pricing are structured, and the DTCwise Print-on-Demand category at /category/pod keeps comparable platforms with ratings and pricing if a group of products no longer fits your line.",
+      "Time the refresh so new listings are live before demand returns, not during it. If your peak begins in November, retire decisions belong in September, mockup rebuilds in early October, and a small paid test two weeks before the window opens. Seasonal pages need a few weeks of real conversion data before you ask paid traffic to trust them, and that runway is the difference between testing and guessing.",
+      "Record what the review produced: how many products retired, how many refreshed, and what happened to conversion for the refreshed group. That single line of history turns next season into an edit of a known list instead of a fresh audit, and over two or three cycles it also tells you which designs deserve to stay in the evergreen catalog permanently."
+    ]
+  },
+  {
     "slug": "how-to-set-a-loyalty-points-expiry-policy-that-does-not-backfire",
     "title": "How to Set a Loyalty Points Expiry Policy That Does Not Backfire",
     "excerpt": "How to choose expiry windows, reminders and grace periods for loyalty points, so a program cuts liability and reactivates lapsed buyers without triggering complaints, refunds and negative reviews.",
