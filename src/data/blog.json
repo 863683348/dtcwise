@@ -1,5 +1,20 @@
 [
   {
+    "slug": "how-to-set-a-loyalty-points-expiry-policy-that-does-not-backfire",
+    "title": "How to Set a Loyalty Points Expiry Policy That Does Not Backfire",
+    "excerpt": "How to choose expiry windows, reminders and grace periods for loyalty points, so a program cuts liability and reactivates lapsed buyers without triggering complaints, refunds and negative reviews.",
+    "date": "2026-10-16",
+    "category": "Subscription & Loyalty",
+    "body": [
+      "Points expiry is one of those policy decisions stores copy from someone else and later regret. The finance reason is real, because unredeemed points sit on your books as a liability that grows without limit. The commercial reason is real too, since a deadline gives lapsed buyers a concrete reason to return. The failure mode is treating expiry as a number you set once instead of a customer experience you design end to end.",
+      "Derive the window from behavior rather than the calendar. Pull the median interpurchase time for repeat buyers and set expiry comfortably beyond it, which usually lands between twelve and twenty-four months of inactivity. A flat twelve-month window punishes any brand with a seasonal or considered purchase cycle, and the complaints arrive exactly when you were hoping for reactivation. Write down which action resets the clock, whether that is a purchase, a review or any earning event, and make it visible.",
+      "Reminders carry the policy. Schedule three messages before expiry, at sixty, thirty and seven days, each showing the balance in currency as well as points, the exact expiry date, and one obvious next step. Add a grace period of a couple of weeks during which support can restore a balance on request. Shoppers rarely object to expiry itself; they object to discovering it after the balance has already disappeared from their account.",
+      "Protect your best customers from the rule. Members with an active subscription, VIP tier holders and anyone who redeemed recently should either never expire or reset on every order. Excluding them costs less than the accounts you would otherwise lose, and it gives support a clean answer when someone escalates. Publish the policy in the rewards terms and show the expiry date inside the account panel, because a rule shoppers cannot find reads as a trick.",
+      "Measure the outcome rather than the intent. Track redemption rate, reactivation within sixty days of a reminder, complaints per thousand members, and how many balances expire untouched. If large numbers expire silently, your reminders are not landing and you are writing off goodwill for nothing. Loyalty apps such as Smile let you configure expiry windows and reminder triggers per program, and the reviews at /tool/smile show how different stores set those defaults.",
+      "Review the numbers each quarter, adjust the window once if needed, then leave it alone. Frequent changes make a policy impossible to explain and impossible to trust. The DTCwise Subscription & Loyalty category at /category/subscription keeps the current shortlist with ratings and pricing for loyalty and subscription tools, which is the fastest way to see what standard defaults look like before committing to your own."
+    ]
+  },
+  {
     "slug": "how-to-handle-modalyst-cancellations-and-backorders-without-refunding-every-order",
     "title": "How to Handle Modalyst Cancellations and Backorders Without Refunding Every Order",
     "excerpt": "A triage routine for supplier cancellations and backorders: classify the reason, choose between refund, hold and substitute, message the buyer with real dates, and turn repeat cancellations into sourcing rules.",
