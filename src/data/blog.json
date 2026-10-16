@@ -1,5 +1,21 @@
 [
   {
+    "slug": "how-to-handle-modalyst-cancellations-and-backorders-without-refunding-every-order",
+    "title": "How to Handle Modalyst Cancellations and Backorders Without Refunding Every Order",
+    "excerpt": "A triage routine for supplier cancellations and backorders: classify the reason, choose between refund, hold and substitute, message the buyer with real dates, and turn repeat cancellations into sourcing rules.",
+    "date": "2026-10-16",
+    "category": "Dropshipping",
+    "body": [
+      "Every dropshipping store eventually meets the message nobody wants: the supplier cancelled the order. The instinct is to refund everything on the spot, which protects the review but quietly burns both the sale and the margin behind it. What separates stores that survive peak season from stores that stall is a written triage rule, decided calmly in advance rather than improvised inside an inbox late at night.",
+      "Classify the reason first, because the reason determines the remedy. A supplier that is out of stock for three days is a hold candidate. A discontinued item is a refund. A price increase that erases your margin is a repricing decision, not a customer conversation. A shipping restriction for the destination region is a routing problem to fix at catalog level. Write those four labels down and apply them consistently, since inconsistent treatment is what generates complaints.",
+      "Then apply a decision rule. Refund immediately when the replacement date is unknown or falls outside the delivery window you promised at checkout. Offer a hold only when the supplier gave you a written restock date and the customer agrees by reply. Offer a substitute only when the alternative is genuinely close and you state exactly what changes. Never ship a substitute silently, because the return cost lands on you and the trust cost lasts much longer.",
+      "Communication decides whether a cancellation becomes a bad review. Message within hours rather than days, with three things: what happened in plain language, the exact date the order ships or the refund clears, and a reply path that reaches a person. If you are holding an order, confirm the revised date before the original promise expires instead of waiting to be asked. Negative reviews in dropshipping usually follow silence, not delay.",
+      "Keep a cancellation ledger by supplier. One row per incident with date, reason, order value, remedy chosen and whether the customer replied. After thirty days that ledger tells you which suppliers cost more than they earn, independent of how friendly the relationship feels. The Modalyst page at /tool/modalyst summarizes how supplier data and product feeds are structured, and the DTCwise Dropshipping category at /category/dropshipping keeps rated alternatives side by side when a supplier needs replacing.",
+      "Turn repeat patterns into catalog rules rather than apologies. If one supplier cancels more than a small share of orders, pause their products from paid traffic, drop them from bundles, or remove them entirely. If cancellations cluster by destination, restrict those regions at checkout instead of refunding after the fact. Each rule removes a whole category of future incidents, which is the only version of this work that actually scales.",
+      "Revisit the thresholds every quarter. Set a cancellation-rate ceiling and a response-time target, then let the ledger tell you whether you are holding both. A cancellation handled well often produces a repeat buyer, and a refund explained clearly costs far less than a refund that arrived with no explanation at all."
+    ]
+  },
+  {
     "slug": "how-to-add-a-second-product-category-on-gooten-without-rebuilding-fulfillment",
     "title": "How to Add a Second Product Category on Gooten Without Rebuilding Fulfillment",
     "excerpt": "A practical sequence for expanding a print-on-demand catalog into a new category on Gooten: prove demand, map the operational differences, then scale without resetting your fulfillment rules.",
