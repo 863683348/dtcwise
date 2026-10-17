@@ -1,0 +1,15 @@
+{
+  "slug": "how-to-build-a-product-test-shortlist-from-ad-spy-data",
+  "title": "How to Build a Product Test Shortlist From Ad Spy Data",
+  "excerpt": "Spy tools show what competitors are running, which tempts copying. The useful output is a shortlist of products worth your own budget, built on longevity, advertiser count and four sourcing checks.",
+  "date": "2026-10-18",
+  "category": "Ad Spy",
+  "body": [
+    "Ad spy tools show you what competitors are running, which is useful, and tempt you to copy it, which is not. The valuable output of spy data is not the ad itself, it is a shortlist of products worth testing with your own budget. Turning a wall of creatives into three tests a month requires a filter, and the filter should reward evidence rather than novelty.",
+    "Start with longevity instead of volume. A creative that has run for weeks is a signal that the offer converts, because nobody keeps paying to run an ad that loses money. Sort by first seen date and keep only the ads that survived past the normal testing window for your channel. Volume tells you someone is spending, while longevity tells you they are earning. Most sellers read the first signal and miss the second one entirely.",
+    "Next, check whether the product is distributed or monopolised. If five unrelated advertisers are pushing the same product with different creative, demand is real but price competition is coming. If only one advertiser runs it, either they found something early or it does not work and nobody copied them. Look at the number of distinct advertisers and the spread of retail prices before you commit budget, and prefer products with two or three advertisers over products with twenty.",
+    "Score each candidate on four practical lines. Can you source it at a landed cost that leaves your target margin at the competitor's retail price? Does it ship without size, battery or compliance problems? Can you produce a creative asset different enough to be worth watching? Does it fit the audience you already reach, or does it require building a new one? A product that fails any of these does not make the list, however well it appears to sell for someone else.",
+    "Convert the shortlist into a test calendar with fixed budgets and exit rules. Each test gets a defined spend, a defined window, and a cost per purchase threshold that decides whether it continues. Write the exit rule before the test starts, because the temptation to extend a marginal ad by another week is where test budgets disappear. Three disciplined tests teach you more than ten open-ended ones.",
+    "After each test, write one line about what you learned regarding the audience rather than the product. Audiences are reusable and most individual products are not, so over a quarter those lines become the actual asset and make the next shortlist faster to build. The DTCwise BigSpy listing at /tool/bigspy keeps current pricing and coverage notes, and the Ad Spy category at /category/ad-spy keeps the current shortlist with ratings and pricing."
+  ]
+}
