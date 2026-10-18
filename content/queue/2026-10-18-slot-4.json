@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-audit-checkout-form-fields-that-cost-sales",
-  "title": "How to Audit the Checkout Form Fields That Cost You Sales",
-  "excerpt": "Checkout abandonment is blamed on shipping cost, but the form itself drops plenty of shoppers. A one-hour field audit removes every input that is not required to take and ship the order.",
   "date": "2026-10-18",
-  "category": "CRO",
-  "body": [
-    "Checkout abandonment is usually blamed on shipping cost, but a large share of it comes from the form itself. Every field you ask for is a decision the shopper has to make, and each one is another place to leave. A field audit is a one-hour pass over your checkout that removes anything not strictly required to take the order and ship it to the right address.",
-    "List every field on the page and label it with its actual purpose. A field is required if the payment processor, the tax authority, the carrier or your fraud rules genuinely need it. Everything else is optional or decorative. Most audits find three to five fields nobody can justify: a second address line that duplicates the first, a phone number collected for marketing, a company name on a consumer checkout, or a checkbox that repeats a term already stated in the policy.",
-    "Remove what you can and defer what you cannot. Fields you need only sometimes belong later in the flow or inside the account page rather than at the point of payment. Anything you need for marketing should be asked after the purchase, on the confirmation page, where the cost of asking is effectively zero. Anything you need only for business buyers should appear only once a business toggle is switched on.",
-    "Fix the mechanics of the fields that remain. Labels should sit above inputs rather than inside them, so they stay visible while typing. The correct keyboard should open on mobile for number and email fields. Errors should appear next to the field as soon as the shopper leaves it, not after they press submit and lose their place. Each fix is small, and together they are the difference between a form that feels easy and one that feels like work.",
-    "Shorten the path as well as the form. A single page with a clear order summary usually beats a multi-step flow for low basket values, and express wallets remove the form entirely for returning customers. If you cannot remove a step, at least show progress and let people go back without losing what they typed. Losing entered data at the final step is the most expensive bug in any checkout.",
-    "Measure the change properly. Track field-level completion and drop-off before and after, and give the change two weeks of traffic before judging it, since checkout behaviour is noisy day to day. Keep a record of what you removed and why, so a future redesign does not quietly add the fields back. The DTCwise Optimizely listing at /tool/optimizely keeps current pricing and testing notes, and the CRO category at /category/cro keeps the current shortlist with ratings and pricing."
-  ]
+  "slot": 4
 }
