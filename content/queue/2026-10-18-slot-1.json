@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "subliminator-multi-region-duty-and-delivery-planning",
-  "title": "How to Plan Subliminator Duty, Tax, and Delivery Promises for EU and UK Orders",
-  "excerpt": "Print-on-demand sellers going into Europe hit two questions: who pays import charges, and what delivery window you may promise. Answer both before launch, not after the first angry email.",
   "date": "2026-10-18",
-  "category": "Print-on-Demand",
-  "body": [
-    "Selling printed apparel into the EU and UK from outside those markets introduces two questions that decide whether your margin survives: who pays the import charges, and what delivery window you are allowed to promise. Most sellers discover both after the first angry email, by which point the damage is already priced into refunds and bad reviews. Planning them before launch is an afternoon of work that removes an entire category of support tickets.",
-    "Start by separating the two charges people confuse. Value added tax is a consumption tax applied at the destination and is usually collected at checkout for consumer orders below the import threshold. Duty is a customs charge on certain product categories and values, and it is typically not collected at checkout. Your storefront needs to state which of these the customer has already paid and which may be collected on delivery, because ambiguity on that one line is what turns a delivered order into a refused parcel.",
-    "Then map your delivery promises to real production and transit time rather than to a marketing number. Take your median production days, add the transit range for each destination, and add a buffer for customs clearance on any order that crosses a border. Publish the result as a range with the slow end stated plainly. A promise of twelve to eighteen days that holds beats a promise of ten days that fails half the time, and it costs you far fewer refund requests and chargebacks.",
-    "Decide your delivery terms and write them into the policy page. Delivered duty paid means you collect everything up front and absorb the charge, which converts better but needs a margin buffer. Delivered duty unpaid leaves the customer to pay on arrival, which is cheaper to run and produces refusals. Neither choice is wrong, but mixing them silently across markets is. Pick one approach per market and repeat it in the shipping section, the cart page and the confirmation email.",
-    "Build the numbers into your pricing sheet before you launch the market at all. Add duty, tax handling and a refused parcel allowance to landed cost, then check whether the advertised price still clears your target margin. If it does not, raise the price rather than quietly absorbing the difference, because absorbed import costs compound across every order and stay invisible until quarterly accounting shows the hole.",
-    "Review the whole map twice a year and after any change in thresholds or product mix. Duty and tax rules shift, carriers change transit times, and adding a new product category can move your goods into a different treatment entirely. Keep one sheet per market with the current numbers, so anyone on the team can answer a customer question in under a minute. The DTCwise Subliminator listing at /tool/subliminator keeps current pricing and fulfilment notes, and the Print-on-Demand category at /category/pod keeps the current shortlist with ratings and pricing."
-  ]
+  "slot": 1
 }
