@@ -1,5 +1,20 @@
 [
   {
+    "slug": "alidropship-order-data-to-analytics-stack",
+    "title": "How to Pipe AliDropship Order Data Into One Analytics View",
+    "excerpt": "Store revenue, supplier cost and ad spend live in three systems that never agree. One join key, one flat table and three weekly numbers are enough to see actual profit per order.",
+    "date": "2026-10-18",
+    "category": "Dropshipping",
+    "body": [
+      "Most dropshipping stores run on three separate truths. The store platform shows revenue, the automation tool shows what was ordered from suppliers, and the ad platform shows what was spent. None of them shows profit. Closing that gap does not require a data team or a warehouse project. It requires one export, one key to join on, and a weekly habit of actually reading the result.",
+      "Pick the join key first, because everything else depends on it. Use your store order number as the single identifier across all three systems, and make sure every supplier order records it in a consistent field. If your automation tool writes supplier orders without that reference, add it manually for the first few weeks until the habit sticks. Without a stable key you will reconcile by hand forever, and you will quietly stop doing it after two weeks.",
+      "Build one flat table with a row per order. For each row capture the order date, marketing channel, product cost, shipping cost, payment fee, refund amount and any reshipment cost. The last three are the ones sellers forget, and they are exactly where profit disappears. A store that looks healthy on revenue can lose money on a product with a high reshipment rate, and you will never see that in the store dashboard.",
+      "Automate the pull before you automate the analysis. Export the supplier side on a fixed schedule and append it into the same sheet or table each time, so history accumulates instead of being overwritten. Keep the raw exports untouched in a separate tab or folder. When a number looks wrong three months later, the raw file is the only way to tell whether the source changed or your formula did.",
+      "Then read three numbers weekly and ignore the rest. Contribution margin per order is revenue minus product cost, shipping, payment fees and refunds. Blended acquisition cost is total spend divided by orders, not by the conversions each platform claims credit for. Time to first profitable repeat is how long a customer takes to become worth more than they cost to acquire. Those three tell you what to stop selling and where to spend more.",
+      "Feed the conclusions back into sourcing rather than leaving them in a dashboard. Products with strong revenue and weak contribution margin are either a pricing problem or a supplier problem, and both are fixable. Products with thin margin and high reshipment rates should leave the catalogue regardless of how well they appear to sell. The DTCwise AliDropship listing at /tool/alidropship keeps current pricing and integration notes, and the Dropshipping category at /category/dropshipping keeps the current shortlist with ratings and pricing."
+    ]
+  },
+  {
     "slug": "syncee-bulk-import-quality-gate",
     "title": "How to Bulk-Import a Syncee Catalog Without Flooding Your Store With Bad Listings",
     "excerpt": "A marketplace feed can add two hundred products in an afternoon. A three-step gate on completeness, duplicates and samples keeps that speed from turning into a month of cleanup.",
