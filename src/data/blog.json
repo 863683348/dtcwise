@@ -1,5 +1,20 @@
 [
   {
+    "slug": "syncee-bulk-import-quality-gate",
+    "title": "How to Bulk-Import a Syncee Catalog Without Flooding Your Store With Bad Listings",
+    "excerpt": "A marketplace feed can add two hundred products in an afternoon. A three-step gate on completeness, duplicates and samples keeps that speed from turning into a month of cleanup.",
+    "date": "2026-10-18",
+    "category": "Dropshipping",
+    "body": [
+      "Bulk import is the fastest way to grow a dropshipping catalogue and the fastest way to ruin one. A marketplace feed can add two hundred products in an afternoon, and every one of those listings inherits the supplier's titles, measurements and shipping promises. Import without a gate and you spend the following month fixing listings that never should have gone live. A quality gate is a short checklist each batch must pass before it is published.",
+      "Start by limiting what the batch is allowed to touch. Import into a draft collection rather than into live inventory, and cap each batch at a size you can actually review, around twenty to thirty products. Bigger batches turn review into skimming. Give each batch a single owner and a fixed review window, so a batch either ships to the store inside two days or gets discarded instead of lingering half finished in a draft folder.",
+      "The first gate is data completeness. Reject any product missing one of five fields: a title under your length limit, at least four images, a shipping origin country, a stated handling time, and a price that still clears your target margin after payment fees. Missing origin and missing handling time are the most common failures, and they are exactly the two fields that generate support tickets later. A listing without them is a promise you cannot keep, and the customer will hold you to it.",
+      "The second gate is duplicate detection. Marketplaces list the same product under several suppliers at slightly different prices, and bulk import multiplies those duplicates. Check the new batch against your existing catalogue by title tokens and by image, not by SKU, because supplier SKUs never match yours. Anything that overlaps an existing listing goes into a comparison sheet rather than into the store. Duplicated listings split your reviews, dilute your search results and make your own reporting harder to read.",
+      "The third gate is a live sample order on anything you plan to advertise. Pick two products per batch, order them to your own address, and record handling days, packaging condition and whether the item matches the photos. A batch with a failed sample goes back to the supplier pool. This costs a few days and a small amount of money, and it is the only step that catches the problems a data feed will never show you.",
+      "Track the pass rate of each batch and of each supplier behind it. If a supplier's products fail the completeness gate more than a third of the time, stop importing from them in bulk and switch that supplier to manual selection. The gate is not bureaucracy, it is what keeps a catalogue worth spending advertising budget on. The DTCwise Syncee listing at /tool/syncee keeps current pricing and catalogue notes, and the Dropshipping category at /category/dropshipping keeps the current shortlist with ratings and pricing."
+    ]
+  },
+  {
     "slug": "how-to-run-an-ai-draft-qa-checklist-before-publishing",
     "title": "How to Run an AI Draft QA Checklist Before Publishing",
     "excerpt": "A repeatable QA routine for AI-assisted drafts: verify numbers, claims, links and store-specific facts before publishing, so the speed gain does not turn into corrections, thin pages and lost trust.",
