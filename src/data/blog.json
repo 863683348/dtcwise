@@ -1,5 +1,20 @@
 [
   {
+    "slug": "how-to-build-shipping-notifications-that-reduce-where-is-my-order-tickets",
+    "title": "How to Build Shipping Notifications That Cut Where Is My Order Tickets",
+    "excerpt": "Four well timed messages can take Where Is My Order off your support queue. Build confirmation, dispatch, in-transit, and delivery notifications around real carrier data instead of fixed days.",
+    "date": "2026-10-19",
+    "category": "Email & SMS",
+    "body": [
+      "Where is my order is the most common support ticket in direct to consumer retail, and almost every one of them is a messaging failure rather than a logistics failure. The parcel is moving on schedule. The buyer simply has no idea what schedule to expect, so they ask. A well built set of shipping notifications removes the question before it ever forms in the buyer's head.",
+      "The flow needs four messages and nothing more. A confirmation that repeats what was bought and states the handling window, a dispatch note with the carrier and tracking link, a mid-transit check partway through the expected delivery window, and a delivery confirmation. Anything beyond those four tends to train buyers to ignore your messages, which brings the tickets straight back with worse sentiment than before.",
+      "The confirmation message does the heaviest lifting, and most stores waste it on a receipt. Use it to set the clock instead. If the item is made to order, say so plainly and give the production range. If it ships from a warehouse, give the handling window and the day it leaves. Buyers form their expectation in the first minute after paying, and every later message gets measured against that first number.",
+      "Timing matters more than copy. The mid-transit check should land around the midpoint of your median delivery window rather than on a fixed day after purchase, because a fixed day is wrong for every order that moves faster or slower than average. Trigger it off carrier scan data where you can and off a schedule only where you cannot. A note that arrives after the parcel does is worse than sending nothing at all.",
+      "Make the tracking link do real work. Deep link to the carrier page for the order's actual destination, and put the tracking number in the message body rather than only behind a button so it survives forwarded mail and plain text clients. Add one line telling the buyer what to do if tracking has not moved within a stated number of days, because that single sentence converts a panicked reply into a patient one.",
+      "Measure this flow the way you measure a campaign. Track tickets per hundred orders before and after the change, and watch the unsubscribe rate on transactional sends separately from promotional ones. If tickets fall while unsubscribes hold flat, the flow is doing its job. The DTCwise Email & SMS category at /category/email-sms keeps the current shortlist with ratings and pricing, and the /tool/omnisend listing covers automation triggers, carrier integrations, and how transactional sends are separated from marketing sends."
+    ]
+  },
+  {
     "slug": "how-to-map-gooten-variants-to-store-options-without-breaking-inventory",
     "title": "How to Map Gooten Variants to Store Options Without Breaking Inventory",
     "excerpt": "A tidy mapping between your storefront options and the live Gooten catalog prevents oversells, silent margin loss, and variants that keep selling long after the supplier retired them.",
