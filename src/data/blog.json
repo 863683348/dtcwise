@@ -1,5 +1,20 @@
 [
   {
+    "slug": "how-to-use-review-data-to-fix-product-pages-and-cut-return-rates",
+    "title": "How to Use Review Data to Fix Product Pages and Cut Return Rates",
+    "excerpt": "Reviews are diagnostic data, not just stars. Tag the last hundred into action buckets, fix the biggest one every month, and watch return rates and conversion move in the same direction.",
+    "date": "2026-10-19",
+    "category": "Reviews",
+    "body": [
+      "Most stores treat reviews as social proof and stop there. The ones getting real value out of them read the corpus as diagnostic data, because buyers write down exactly what confused them, what did not fit, and what arrived different from the picture. That text is the cheapest product research a small brand will ever collect, and it is usually sitting unused in an export file.",
+      "Start by tagging reviews into a small number of buckets that map to actions rather than to sentiments. Fit, color accuracy, material feel, shipping condition, and expectation mismatch cover most of what buyers actually write. Positive and negative is not a useful split; a four star review saying the item runs small is far more actionable than a five star review that says nothing at all.",
+      "Work the fit and sizing language first. If buyers keep writing that a product runs small, the fix is not a discount code, it is a corrected size chart and a short note advising buyers to size up. Ship that change, then watch whether the fit bucket shrinks over the following quarter. This loop is what makes a review program pay for itself rather than merely decorating the page.",
+      "Color and material complaints usually point at photography rather than at the supplier. Buyers who expected a brighter shade or a heavier fabric generally made a reasonable inference from your own images. Adding a short video, a scale reference, or a plain language note about weight and drape costs less than the returns those mismatches generate, and it lifts conversion at the same time.",
+      "Feed what you learn back onto the page in the buyer's own words. A description that says customers tell us this runs small and we suggest sizing up converts better than a generic specification block, and it sets the expectation that protects your review score months later. Do not paraphrase the complaint into marketing language, because all of the value sits in how specific the original phrasing was.",
+      "Close it with a routine. Once a month, read the last hundred reviews, tag them, pick the single largest bucket, and ship one page or process change against it. One change a month compounds quickly, and the corpus turns into a roadmap instead of a wall of stars. The DTCwise Reviews category at /category/reviews keeps the current shortlist with ratings and pricing, and the /tool/stamped listing covers collection flows, tagging, and how review data can be exported for analysis."
+    ]
+  },
+  {
     "slug": "how-to-build-shipping-notifications-that-reduce-where-is-my-order-tickets",
     "title": "How to Build Shipping Notifications That Cut Where Is My Order Tickets",
     "excerpt": "Four well timed messages can take Where Is My Order off your support queue. Build confirmation, dispatch, in-transit, and delivery notifications around real carrier data instead of fixed days.",
