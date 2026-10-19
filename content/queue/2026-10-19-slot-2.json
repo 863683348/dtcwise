@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-map-gooten-variants-to-store-options-without-breaking-inventory",
-  "title": "How to Map Gooten Variants to Store Options Without Breaking Inventory",
-  "excerpt": "A tidy mapping between your storefront options and the live Gooten catalog prevents oversells, silent margin loss, and variants that keep selling long after the supplier retired them.",
   "date": "2026-10-19",
-  "category": "Fulfillment & Shipping",
-  "body": [
-    "A supplier catalog can hold hundreds of variants per product, and a store built on top of it usually needs a fraction of them. The trouble starts when the mapping between the two is done carefully once and then never revisited. Options drift, a supplier retires a color without announcing it, and suddenly the storefront is selling a combination the catalog can no longer produce at any price.",
-    "Start with a single source of truth. Pick one place where the allowed combinations live, whether that is a spreadsheet your team owns or the product record inside Gooten itself, and make everything else read from it. The rule is simple: if a combination is not on that list, it does not appear on the storefront. That one constraint quietly removes most of the oversell cases sellers tend to blame on the supplier.",
-    "Name things consistently before you map them. Supplier-side attribute labels mean little to a buyer, and renaming them at the mapping layer rather than inside the catalog keeps the connection intact when the catalog updates. Keep the raw attribute and the storefront label in the same row so anyone on the team can trace a store option back to the exact variant that fulfills it without asking an engineer.",
-    "Decide what happens to a variant when it goes out of stock, and write the rule down. Hiding the option loses whatever search intent pointed at it, showing it as sold out keeps the page and risks a frustrated buyer, and silently swapping to a near-identical variant produces the wrong item in the box. Most mature sellers keep the option visible with a clear restock estimate and suppress it only when the supplier confirms retirement.",
-    "Put a check in place that runs on a schedule rather than on memory. Once a week, compare the option list on your top selling products against the live catalog and review anything that moved: retired blanks, changed print areas, new size runs, and cost updates that never reached your margin model. Fifteen minutes a week here costs far less than a month of refunds caused by one quietly discontinued colorway.",
-    "Finally, treat cost changes as a mapping problem too. A variant that still exists but costs more changes your contribution margin without touching anything a buyer can see, which is how catalogs quietly become unprofitable while revenue looks healthy. Recompute landed cost per variant whenever the catalog moves and retire anything that falls under your floor. The DTCwise Fulfillment & Shipping category at /category/fulfillment keeps the current shortlist with ratings and pricing, and the /tool/gooten listing covers catalog depth, routing rules, and variant data exposure."
-  ]
+  "slot": 2
 }
