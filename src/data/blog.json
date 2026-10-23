@@ -1,5 +1,20 @@
 [
   {
+    "slug": "how-to-handle-returned-and-undeliverable-gooten-parcels",
+    "title": "How to Handle Returned and Undeliverable Gooten Parcels Without Writing Off the Order",
+    "excerpt": "Every fulfillment setup generates a small stream of returned parcels. Here is the triage, restock, and customer communication routine that turns Gooten returns back into sellable inventory.",
+    "date": "2026-10-23",
+    "category": "Fulfillment & Shipping",
+    "body": [
+      "Returned parcels are the quiet cost in any print-on-demand fulfillment operation. They arrive a few at a time, they do not trigger an alarm, and they get stacked in a corner of the operation until someone notices that a few hundred dollars of finished goods is sitting in boxes. The volume will never be zero, because addresses go stale, buyers refuse delivery, and carriers fail. What separates a tidy operation from a leaky one is having a fixed routine for the moment a parcel comes back.",
+      "Start by sorting returns into three buckets the day they arrive. Refused or unclaimed parcels are usually a customer decision or a failed delivery attempt. Bad address parcels are a data problem you can fix at checkout. Damaged in transit parcels are a carrier claim. Each bucket has a different owner, a different recovery path, and a different chance of becoming revenue again, so mixing them in one pile guarantees nothing gets processed.",
+      "Decide restock rules in advance and make them boring. A returned standard item in resalable condition goes back into available inventory with a note on the order record. A returned item with a personalized name, a custom date, or a made-to-order print does not, because nobody else can buy it. Write these two rules down and apply them without debate, because the debate costs more than the item and the inconsistency eventually reaches a customer who gets a used product.",
+      "Communicate on a trigger rather than on memory. The moment tracking shows an exception or a return scan, send the buyer one message that states what happened, what you can do, and what you need from them. Buyers who moved or typed an address wrong will often pay for reshipment when asked directly and politely. Buyers who hear nothing file a chargeback, and a chargeback costs the order plus a fee plus the time to respond to it.",
+      "File carrier claims on a schedule, not one by one. Batch damaged in transit parcels weekly, keep the photographs and the outer packaging, and track the claim number next to the order. Even a partial recovery rate matters when the alternative is absorbing the full cost of goods and the original shipping. The act of tracking claims also tells you which carrier and which lane is generating the damage, which is worth more than the refund itself.",
+      "Close the loop with a monthly report of returned units, reshipped units, restocked units, and written-off units, split by reason code. If bad addresses lead, fix the checkout validation. If refusals lead, look at the delivery estimates on your product pages. The report is the only way the trend becomes visible before it becomes material. The DTCwise Fulfillment and Shipping category at /category/fulfillment keeps the current shortlist with ratings and pricing, and the /tool/gooten listing covers routing, tracking states, and production partners."
+    ]
+  },
+  {
     "slug": "how-to-run-a-sample-order-qc-loop-with-zendrop-before-scaling-ads",
     "title": "How to Run a Sample Order QC Loop With Zendrop Before You Scale Ad Spend",
     "excerpt": "Scaling spend on an untested supplier is how good creatives die. Here is the sample order, inspection, and scoring routine that tells you whether a Zendrop product is ready for budget.",
