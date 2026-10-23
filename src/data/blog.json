@@ -1,5 +1,20 @@
 [
   {
+    "slug": "how-to-manage-refunds-and-partial-refunds-across-currencies",
+    "title": "How to Manage Refunds and Partial Refunds Across Currencies Without Losing the Difference",
+    "excerpt": "Refunding a cross-border order in a moving currency quietly leaks margin. Here is the policy, timing, and accounting routine that keeps refunds fair to buyers and predictable for your books.",
+    "date": "2026-10-23",
+    "category": "Payments & FX",
+    "body": [
+      "A refund looks like a simple reversal until the order was paid in one currency and settled in another. The buyer paid a converted amount at checkout, you received a different amount after fees and conversion, and the money that goes back today is converted again at today's rate. Between those three numbers sits a small gap that appears on every refunded order and is invisible in a dashboard that only shows gross sales.",
+      "Decide your refund basis first, because everything else follows from it. Refunding the original charged amount leaves you carrying any exchange movement between charge and refund. Refunding the converted amount actually received leaves the buyer short when the rate moved against them, which reads as a mistake even when it is technically correct. Most cross-border stores settle on the first option for full refunds and treat the difference as a cost of selling internationally, because the alternative generates support tickets and bad reviews worth more than the gap.",
+      "Write the rule into the policy page and into the macro your support team uses. State that refunds are issued in the original payment currency, that the amount returned is the amount originally charged, and that the buyer's bank may apply its own conversion on receipt. That last sentence prevents a large share of the disputes, because buyers usually blame the store for a difference created by their own issuing bank.",
+      "Handle partial refunds as a separate case with separate math. A partial refund for a damaged item, a missing accessory, or a late delivery should be calculated as a percentage of the item price, applied before shipping refunds are considered, and issued against the same payment method. Rounding matters more than it looks: rounding down on every partial refund across a few hundred orders a month is a real number, and rounding up inconsistently makes reconciliation harder than it needs to be.",
+      "Time the refund deliberately. Issuing refunds in a daily batch rather than one at a time lets you capture a single reference rate per day, which makes both accounting and reconciliation cleaner and reduces the number of distinct conversion events your finance process has to explain. Communicate the expected posting window to the buyer in business days rather than promising an instant return, because the posting delay is at the bank, not at your processor.",
+      "Reconcile refunds as their own line, not as negative revenue. Pull refunds into a monthly report split by full, partial, and chargeback, with the exchange difference on each order shown separately. That single column tells you whether your international refund cost is stable, whether a particular market refuses delivery more often, and whether your pricing has enough room to keep absorbing it. The DTCwise Payments and FX category at /category/payments keeps the current shortlist with ratings and pricing, and the /tool/airwallex listing covers settlement currencies, payouts, and refunds."
+    ]
+  },
+  {
     "slug": "how-to-write-product-page-faq-blocks-that-rank",
     "title": "How to Write Product Page FAQ Blocks That Rank and Cut Pre-Purchase Questions",
     "excerpt": "A product page FAQ written from real customer language does two jobs at once. Here is the workflow for building FAQ blocks that win search snippets and reduce support tickets.",
