@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-run-a-sample-order-qc-loop-with-zendrop-before-scaling-ads",
-  "title": "How to Run a Sample Order QC Loop With Zendrop Before You Scale Ad Spend",
-  "excerpt": "Scaling spend on an untested supplier is how good creatives die. Here is the sample order, inspection, and scoring routine that tells you whether a Zendrop product is ready for budget.",
   "date": "2026-10-23",
-  "category": "Dropshipping",
-  "body": [
-    "Most dropshipping losses do not come from bad ads. They come from scaling a product that has never been held, opened, or shipped to a real customer. The creative converts, the first hundred orders go out, and then the reviews arrive with the same three complaints you could have caught for the price of one sample. A sample order loop is the cheapest insurance available to a store that is about to put real money behind a product.",
-    "Start with what you are actually testing. A sample run is not a vibe check, it is a pass or fail inspection against a fixed scorecard. Write the scorecard before the parcel arrives and keep it to things a customer will notice in the first minute: does the product match the listing photos, does it arrive functional, is the packaging survivable, are the materials what the description claims, and does anything smell, rattle, or arrive bent. Five or six concrete checks beat a long form nobody fills in twice.",
-    "Order the sample the way a customer would order it. Use Zendrop to place the item through the same supplier and the same shipping method you intend to sell, ship it to a real residential address rather than your office, and pay attention to the transit time you actually observe. The gap between the delivery estimate on your product page and the delivery estimate you measured is the number that generates where is my order tickets later, so write it down rather than guessing.",
-    "Inspect on arrival and record evidence. Photograph the parcel as received, including any crushed corners, then photograph the product next to the listing image you plan to run. If the two do not match closely enough that a reasonable buyer would feel satisfied, the product fails regardless of how good the creative looks. Log the result in one row per product with a simple verdict: scale, fix the listing, or drop. Ambiguous notes are useless three weeks later when five products are competing for budget.",
-    "Turn the failures into listing changes before you spend. A product that arrives smaller than expected gets new dimensions in the description and a scale reference in the photography. A product with weak packaging gets a note to the supplier and an insert, or gets dropped if the supplier will not act. Only products that pass the scorecard move into the ad account, and they move in with the real transit window printed on the page.",
-    "Repeat the loop on a schedule rather than once. Re-sample your top sellers every quarter, because suppliers change factories and packaging quietly and the change shows up in your refund rate before it shows up in your inbox. Run the same loop on any product you plan to push during a seasonal peak, when a packaging weakness turns into a refund spike. The DTCwise Dropshipping category at /category/dropshipping keeps the current shortlist with ratings and pricing, and the /tool/zendrop listing covers supplier selection, sample ordering, and shipping methods."
-  ]
+  "slot": 0
 }
