@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-plan-a-team-or-corporate-bulk-order-with-apliiq",
-  "title": "How to Plan a Team or Corporate Bulk Order With Apliiq Without Missing the Date",
-  "excerpt": "Bulk apparel orders fail on sizes, artwork, and deadlines, not on product quality. Here is the planning sequence that keeps a team or corporate Apliiq run on schedule and on budget.",
   "date": "2026-10-23",
-  "category": "Print-on-Demand",
-  "body": [
-    "A bulk order for a team, a club, or a company event looks like a bigger version of a single print-on-demand order, and that assumption is what breaks it. The variables change: one buyer approves for twenty people, sizes arrive late, artwork arrives in the wrong format, and the deadline is a real event date that does not move. Treat a bulk run as a small project with a schedule rather than a large cart, and most of the failure modes disappear before production starts.",
-    "Lock the deadline first and plan backwards from it. Work out the event date, subtract the shipping transit time you can actually rely on, subtract production time for the decoration method you chose, and subtract two buffers: one for artwork approval and one for the size collection round. Whatever date lands at the front of that chain is the real last day to start, and it is usually earlier than buyers expect. Tell the buyer that date in writing before taking a deposit.",
-    "Collect sizes as data, not as chat messages. Send one short form with the size chart embedded, require a response from every recipient rather than a single point of contact estimating for the group, and close the form on a hard date. Late sizes are the single most common cause of a bulk order shipping in two waves, and two waves means paying for shipping twice. Build one spare per size into the order for exchanges, because someone will always need a different fit.",
-    "Get artwork production-ready before anything goes to print. Vector files for embroidery and patches, high-resolution raster with the right color mode for printing, and a placement spec that says where on the garment the mark sits and how large it is. Ask the buyer to approve a digital mock rather than a description, and keep that approval in writing. A mock approval is the difference between a reprint you bill for and a reprint you absorb.",
-    "Decide the commercial terms before production, not after. Who pays for reprints caused by a late size change, what happens to garments left over from the size buffer, and what the policy is if a shipment is delayed by the carrier. Put these three answers in the order confirmation. Bulk buyers are far more forgiving of a problem they were warned about than of a surprise, and the confirmation email is where that warning belongs.",
-    "Close the loop after delivery with a short follow-up: confirm the count received, ask for fit feedback, and offer a dated reorder window while the artwork and size list are still fresh. Corporate and team buyers reorder on a calendar, and the store that captures the date captures next year's order. The DTCwise Print-on-Demand category at /category/pod keeps the current shortlist with ratings and pricing, and the /tool/apliiq listing covers decoration methods, bulk workflows, and garment catalogs."
-  ]
+  "slot": 1
 }
