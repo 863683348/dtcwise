@@ -1,5 +1,20 @@
 [
   {
+    "slug": "how-to-stop-a-dtc-blog-from-cannibalizing-its-own-keywords",
+    "title": "How to Stop a DTC Blog from Cannibalizing Its Own Keywords",
+    "excerpt": "Two posts targeting the same query split links and signals, so both stall on page three. Here is how to find the clusters, merge them, and stop rebuilding the problem every quarter.",
+    "date": "2026-10-27",
+    "category": "SEO",
+    "body": [
+      "A DTC blog usually does not lose rankings because it published too little. It loses them because it published the same intent twice. Two posts targeting one query split internal links between them, split early engagement signals, and leave search engines unsure which page to rank, so both sit on page three while neither reaches page one. Cannibalisation is the most common self inflicted ceiling in content programs that publish on a fixed schedule.",
+      "Find it before you write anything new. Export your post list and group titles and excerpts by the main query each one is meant to win, and wherever two or more posts answer the same query you have a cluster problem. Then check what actually ranks: pull your own impressions and positions per URL and look for pairs where impressions are split between two pages, or where one page ranks for a query it was never written for while the intended page sits lower.",
+      "Decide per cluster which page is the owner. The owner should be the post with the most impressions, the strongest internal links, and the closest match to the query intent. Everything else in the cluster gets one of three treatments. Merge, where the supporting post has thin unique value and its best paragraphs move into the owner. Retarget, where the post genuinely covers a different angle and gets rewritten to own a more specific query. Or retire, where it adds nothing and gets redirected to the owner.",
+      "Merging is the step most people skip because it feels like deleting work, and it is usually the highest return action in the entire audit. Take the two or three pages competing for one query, keep the strongest URL, fold the unique paragraphs of the others into it, and redirect the rest. Internal links that pointed at the retired URLs now point at a single page, engagement concentrates, and the combined page often moves within a few weeks without a single new article being written.",
+      "Then fix the internal linking that caused it. Give each owned query one canonical destination and make every later reference to that topic link to it with descriptive anchor text. Category hubs help here, because a hub that groups related posts under one clear page passes authority along a deliberate path instead of letting posts compete. When you add internal links inside new articles, link to the owner for that query rather than whichever post you happened to write most recently.",
+      "Finally, change how you plan. Before commissioning or writing a post, check whether the target query already has an owner on the site. If it does, the new piece needs a more specific query, a different stage of intent, or it should become a section of the existing page. That single check stops cannibalisation from rebuilding itself every quarter. The DTCwise SEO category at /category/seo keeps the current shortlist with ratings and pricing, and the Semrush page at /tool/semrush covers how its keyword and position tracking supports this audit."
+    ]
+  },
+  {
     "slug": "how-to-measure-subscription-churn-without-fooling-yourself",
     "title": "How to Measure Subscription Churn Without Fooling Yourself",
     "excerpt": "Most subscription churn numbers flatter the business. Here is how to split voluntary from involuntary churn, measure by cohort, and report revenue retention in a way you can trust.",
