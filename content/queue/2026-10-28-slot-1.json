@@ -1,0 +1,15 @@
+{
+  "slug": "how-to-build-a-mockup-and-photo-pipeline-for-teelaunch-listings",
+  "title": "How to Build a Mockup and Photo Pipeline for Teelaunch Listings",
+  "excerpt": "Listings fail on weak visuals long before they fail on pricing. This is a repeatable pipeline for mockups and real photos that stays consistent as the catalog grows.",
+  "date": "2026-10-28",
+  "category": "Print-on-Demand",
+  "body": [
+    "Most print on demand catalogs do not lose sales on price. They lose them on visuals that look provisional. A listing with one flat mockup and no scale reference asks the shopper to do work, and most shoppers leave instead. The fix is not better design software. It is a repeatable pipeline that turns each new design into a predictable set of assets, so the twentieth product looks as considered as the first one.",
+    "Define the asset set before you design anything. A workable minimum is four images per product: a clean front mockup on a plain background, a worn or in context shot, a detail close up of the print area, and a scale reference next to something recognizable. Add one alternate angle for products where drape and fit matter. Fixing the set up front means every design moves through the same steps and nothing ships with a missing view.",
+    "Build templates for the mockups so the work is placement rather than design. Lock the canvas size, the background tone, and the placement box for each product type you sell. When a new design arrives, dropping it into a locked template takes minutes and keeps lighting and perspective consistent across the catalog. That consistency is what makes a small store read as a brand instead of a folder of unrelated files.",
+    "Real photography is where small catalogs separate from large ones, and it does not need a studio. Buy one unit of your best sellers and shoot them in daylight near a window against a neutral background. Capture the print area straight on, the full item, and one worn shot. These images answer the questions mockups cannot: how the print texture really looks, how the garment drapes, and whether colors match what the screen promised.",
+    "Keep a file convention or the pipeline collapses under its own weight. Name files by product type, design name, and asset role, and store the master export separately from the web version. Keep the layered mockup file intact so a seasonal change does not mean rebuilding from scratch. When a design is retired, archive rather than delete, because seasonal designs come back and the asset set is the expensive part.",
+    "Decide what happens when a product changes. Suppliers swap blanks and discontinue colors quietly, and a mockup built on an unavailable color is a returns problem waiting to happen. Set a quarterly check confirming every live listing still maps to an in stock blank, and refresh assets for anything that moved. The DTCwise Print-on-Demand category at /category/pod keeps the current shortlist with ratings and pricing, and the Teelaunch listing at /tool/teelaunch is a good place to confirm which blanks are stable enough to build templates around."
+  ]
+}
