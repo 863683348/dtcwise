@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-measure-subscription-churn-without-fooling-yourself",
-  "title": "How to Measure Subscription Churn Without Fooling Yourself",
-  "excerpt": "Most subscription churn numbers flatter the business. Here is how to split voluntary from involuntary churn, measure by cohort, and report revenue retention in a way you can trust.",
   "date": "2026-10-27",
-  "category": "Subscription & Loyalty",
-  "body": [
-    "Every subscription dashboard shows a churn number, and most of them are flattering. The usual figure divides cancellations in a month by the subscribers at the start of that month, which quietly ignores two things: subscribers who joined mid month and had almost no time to churn, and involuntary churn from failed payments that nobody counts at all. If your reported churn is three percent and your subscriber count stays flat despite steady acquisition, the number is lying to you.",
-    "Split churn into the parts that behave differently. Voluntary churn is a customer deciding to stop. Involuntary churn is a card expiring or a payment failing, and it is often a third or more of the total in a consumer subscription business. They need completely different fixes: voluntary churn answers to product, cadence, and perceived value, while involuntary churn answers to dunning, card updater services, and retry timing. One blended number hides both problems and makes every fix look ineffective.",
-    "Measure on cohorts instead of calendar months. Take everyone who started in a given month and track what share is still active after thirty, sixty, and ninety days. This removes the distortion created by a big acquisition month and shows you the shape of the problem. If most loss happens in the first thirty days, the issue is onboarding and the first shipment experience. If loss clusters at the second or third billing date, the issue is cadence and value once the novelty wears off.",
-    "Count revenue churn alongside subscriber churn. Losing five percent of subscribers who each spend twenty dollars is not the same as losing five percent who each spend eighty. Track the recurring revenue you keep, expand, and lose every month, and report retention as a revenue figure with the subscriber figure next to it. Plenty of subscription programs look healthy on subscriber counts while revenue quietly declines, because the customers leaving are the ones sitting on the higher tiers.",
-    "Decide in advance how you treat pauses, skips, and recovered payments. A subscriber who pauses for a month has not churned, but counting them as fully active inflates retention in a way that hides real risk. A failed payment recovered on the third retry is a save, not a clean payment. Write these definitions down, apply them consistently, and do not change them mid quarter just because the result looks worse. A churn number you can compare across months is worth more than a favourable one.",
-    "Once the measurement is honest, the work gets easier. Involuntary churn above one percent means fixing payment retries and card expiry reminders before touching anything else. A thirty day cliff means improving the first delivery and the first impression. A spike at the second billing date means looking at cadence options and swap flexibility. The DTCwise Subscription & Loyalty category at /category/subscription keeps the current shortlist with ratings and pricing, and the Recharge page at /tool/recharge covers how its billing and dunning tools map onto these metrics."
-  ]
+  "slot": 3
 }
