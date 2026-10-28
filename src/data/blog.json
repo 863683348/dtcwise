@@ -1,5 +1,20 @@
 [
   {
+    "slug": "how-to-align-your-return-policy-with-zendrop-order-flows",
+    "title": "How to Align Your Return Policy With Zendrop Order Flows",
+    "excerpt": "A return policy that ignores supplier reality creates refunds you cannot recover. Here is how to write one around order states, inspection steps, and restock rules.",
+    "date": "2026-10-28",
+    "category": "Dropshipping",
+    "body": [
+      "Most store return policies are written as if the merchant holds the inventory. In a dropshipping setup you do not, and that gap is where margins disappear. The customer expects a prepaid label and a fast refund, while your supplier expects the item back in resalable condition before crediting anything. When your policy promises something neither side can honor, you refund out of pocket and pay shipping both ways. The fix is not a stricter policy. It is a policy written against the order states your fulfillment flow actually moves through.",
+      "Start by mapping the states an order passes after checkout: pending, placed with the supplier, shipped, in transit, delivered, and the short window after delivery when damage claims are valid. Each state needs a different answer. Before the supplier ships, cancellation should be nearly free. After shipment you are choosing between an intercept attempt, a return once delivered, or a replacement. After delivery you are separating true defects from buyer remorse. Writing these as internal rules first keeps the public policy honest instead of aspirational.",
+      "The most expensive mistake is promising free returns on every order. On a thin margin catalog, free returns can cost more than the product earns in a good month. A workable structure covers the label when the item arrives damaged, incorrect, or materially different from the listing, and asks the customer to cover return shipping for preference reasons such as sizing or a change of mind. State that distinction on the product page, not only in the footer policy, because that is where the buying decision happens.",
+      "Inspection is the step most stores skip. When a return reaches the supplier facility, someone has to decide whether the unit is resalable, belongs in a discount bin, or is scrap. Refunding on the delivery scan instead means paying for items that were used, washed, or swapped. Set a documented inspection window, require photo evidence for damage claims before a label is issued, and keep a simple log of repeat returners. That log matters more than the policy text, since a small share of customers drives a large share of returns.",
+      "Replacements often beat refunds on both cost and retention. When the issue is a defect or a fulfillment error, ship a fresh unit and let the customer keep or donate the original if the item value is low. That avoids two way freight on goods you would write off anyway. Reserve no return refunds for genuinely low value items where return shipping exceeds product cost, and cap how often one customer can use that path.",
+      "Close the loop with your catalog. Returns cluster on specific products, and those clusters are listing problems rather than customer problems. If one product returns at three times your average rate, the fix is usually better photos, a clearer size chart, or a rewritten description. The DTCwise Dropshipping category at /category/dropshipping keeps the current shortlist with ratings and pricing, and the Zendrop listing at /tool/zendrop is where you can confirm whether its order and return handling matches the policy you just wrote."
+    ]
+  },
+  {
     "slug": "how-to-stop-a-dtc-blog-from-cannibalizing-its-own-keywords",
     "title": "How to Stop a DTC Blog from Cannibalizing Its Own Keywords",
     "excerpt": "Two posts targeting the same query split links and signals, so both stall on page three. Here is how to find the clusters, merge them, and stop rebuilding the problem every quarter.",
