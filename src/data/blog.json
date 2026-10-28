@@ -1,5 +1,20 @@
 [
   {
+    "slug": "how-to-handle-supplier-documents-and-invoices-on-modalyst",
+    "title": "How to Handle Supplier Documents and Invoices on Modalyst Orders",
+    "excerpt": "Resale certificates, tax IDs, and supplier invoices decide whether a wholesale relationship survives an audit. Here is how to keep that paperwork clean.",
+    "date": "2026-10-28",
+    "category": "Dropshipping",
+    "body": [
+      "Paperwork is the least glamorous part of a wholesale marketplace workflow and the part most likely to break a growing store. Once you sell through a curated supplier network, you are responsible for proving you were allowed to resell the goods, for collecting tax in the right places, and for reconciling what the supplier invoiced against what the customer paid. None of that is hard individually. It becomes hard when documents land in inboxes, get lost between teammates, and cannot be found at a filing deadline.",
+      "Start with the documents that gate the relationship. Many branded suppliers require a resale certificate or a business tax identification number before approving an account, and some require it per region. Collect those once, store them in a single folder with the expiry date in the file name, and set a reminder before renewal. A lapsed certificate does not only block new orders, it can retroactively invalidate the tax treatment on orders you already shipped.",
+      "Then decide where tax is collected. In a marketplace model the supplier may handle origin tax while your store handles destination sales tax, or the reverse, and the split changes by region. Write down which side collects for every region you sell into and keep that sheet beside your filing calendar. Guessing produces two failure modes: double collection, which shows up as checkout abandonment, and no collection, which shows up months later as a liability.",
+      "Invoices are the reconciliation layer. For each payout period you want three numbers to line up: what the store collected from customers, what the supplier invoiced for goods and shipping, and what reached your bank account. When they disagree, the cause is usually a partial refund, a cancelled order that was still invoiced, or a shipping upgrade billed separately. Reconcile monthly rather than annually, because a twelve month gap turns a small discrepancy into an untraceable one.",
+      "Keep one folder per supplier per quarter and put order level documents inside it. That structure feels fussy until a payment provider asks for proof of fulfillment on a disputed charge, or a tax authority asks for purchase records. The same folder lets you answer a supplier question in one message instead of a week of searching. If you work with a bookkeeper, give them read access to the structure rather than sending files piecemeal.",
+      "Treat document hygiene as part of supplier selection rather than admin afterward. Suppliers who respond with a proper invoice and a current certificate are usually the same ones who ship on time. The DTCwise Dropshipping category at /category/dropshipping keeps the current shortlist with ratings and pricing, and the Modalyst listing at /tool/modalyst is worth checking against the document standards you just set before adding more suppliers to the stack."
+    ]
+  },
+  {
     "slug": "how-to-align-your-return-policy-with-zendrop-order-flows",
     "title": "How to Align Your Return Policy With Zendrop Order Flows",
     "excerpt": "A return policy that ignores supplier reality creates refunds you cannot recover. Here is how to write one around order states, inspection steps, and restock rules.",
