@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-structure-store-navigation-for-a-growing-catalog",
-  "title": "How to Structure Store Navigation for a Catalog That Keeps Growing",
-  "excerpt": "Navigation built for fifty products breaks at five hundred. This is a structure for menus, filters, and collection pages that holds up as the catalog expands.",
   "date": "2026-10-28",
-  "category": "Store Builders",
-  "body": [
-    "Navigation is usually designed for the catalog the store has today. Six months later the same menu carries three times the products, half the collections sit two levels deep, and the top bar has grown an unplanned second row. Shoppers do not complain about this. They simply fail to find things and leave. The goal is a structure that absorbs growth without a redesign every season.",
-    "Start from how shoppers search rather than how your team files things. Two axes usually matter: what the product is, and who or what it is for. Lead with the axis that matches buying intent. A store with a narrow product type and a wide audience should lead with audience collections. A store with many product types and one audience should lead with product type. Backing the wrong primary axis is why menus feel wrong even when every category is technically present.",
-    "Cap the top level. A primary menu with more than seven entries stops being scanned and starts being read, and read menus convert worse. Push everything else into a second level reachable in one click, and resist adding a third. If a category will not fit in two levels, the answer is usually better filtering on the collection page rather than a deeper menu. Depth is where both shoppers and crawlers get lost.",
-    "Let filters do the work that extra menu levels would otherwise do. Size, color, price band, availability, and use case should be selectable on every large collection, and the filter set should be consistent across collections so shoppers learn it once. Consistency beats completeness, since five filters that exist everywhere outperform fifteen that appear only on some pages. Keep filtered states indexable only where they represent real demand, or you will generate large volumes of thin pages.",
-    "Plan for the pages that are not products. Size guides, shipping and returns information, care instructions, and a visible contact path are navigation items too, and shoppers look for them at the moment of doubt rather than at the start of a session. Put them where they are reachable from the product page and the cart, not only in the footer. A well placed size guide link prevents a return, which is worth more than the click it costs.",
-    "Review the structure on a schedule tied to catalog growth rather than to redesign cycles. Each time the catalog crosses a meaningful threshold, recheck which collections earn their top level slot, which are dead, and which filters shoppers actually use. Usage data answers all three faster than opinion. The DTCwise Store Builders category at /category/storebuilder keeps the current shortlist with ratings and pricing, and the Shopify listing at /tool/shopify is a good baseline for the menu depth and filtering the platform supports before you need an app."
-  ]
+  "slot": 4
 }
