@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-keep-a-support-macro-library-accurate",
-  "title": "How to Keep a Support Macro Library Accurate as Your Store Changes",
-  "excerpt": "Saved replies drift out of date quietly, then send wrong delivery times to hundreds of customers. Here is a routine that keeps a macro library trustworthy.",
   "date": "2026-10-28",
-  "category": "Customer Support",
-  "body": [
-    "A macro library is the highest leverage asset a small support team has, and the fastest thing to rot. Saved replies get written once while the policy is fresh, then the store changes carriers, adds a region, moves the return window, and nobody updates the text. Months later the team is sending confident, wrong answers at volume. The problem is not that macros exist. It is that nobody owns keeping them true.",
-    "Give every macro an owner and a review trigger. That one change fixes most of the drift, because a macro without an owner decays while each agent assumes someone else checked it. Assign the top twenty macros by send volume to a named person, and tie review to events rather than to the calendar: whenever shipping rates change, whenever a new carrier or region is added, whenever the return window moves. Event triggered review catches the failures that actually cost money.",
-    "Separate fixed facts from variable parts. A good macro has two halves: stable policy language that rarely changes, and dynamic fields such as order number, carrier, and estimated delivery that the system fills at send time. Hardcoding delivery estimates into macro text is the most common error in this category, since those numbers move with carrier performance and season. Pull them from order data instead of typing them into prose.",
-    "Run a short audit every month. Open the twenty highest volume macros, send each one to yourself as a test, and read the result as a customer would. Check three things: whether the stated timeframe still matches current carrier performance, whether the policy still matches what the store actually does, and whether every link still resolves. Links are the silent failure, because a moved help center page turns a helpful macro into a dead end.",
-    "Track which macros generate follow up questions. If customers who receive a particular reply come back asking for clarification, that macro is unclear even when it is factually correct. Rewrite it in plainer language, shorten it, and remove any hedge that makes the next step ambiguous. If a macro is never used, delete it. A library with two hundred entries where forty do the work is harder to maintain and no more useful.",
-    "Close the loop from tickets to macros. When an agent writes a good reply to a new situation, that reply should become a macro within the week, and when a macro causes a complaint it should be revised the same day. The DTCwise Customer Support category at /category/support keeps the current shortlist with ratings and pricing, and the Gorgias listing at /tool/gorgias is a useful reference for pulling dynamic order fields into saved replies instead of hardcoding them."
-  ]
+  "slot": 3
 }
