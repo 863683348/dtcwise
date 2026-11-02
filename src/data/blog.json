@@ -1,5 +1,20 @@
 [
   {
+    "slug": "how-to-wire-subliminator-order-status-into-your-store-notifications",
+    "title": "How to Wire Subliminator Order Status Into Your Store Notifications",
+    "excerpt": "Print-on-demand production sits between checkout and the carrier. This walkthrough maps Subliminator production states to store notifications so buyers stop asking where their order is.",
+    "date": "2026-11-02",
+    "category": "Print-on-Demand",
+    "body": [
+      "Print-on-demand orders do not behave like warehouse orders. A buyer sees a charge today and a shipping label three or four days later, and the gap is where most support tickets are born. When you sell through Subliminator, the production queue sits between your storefront and the carrier, and nothing in a default store theme explains that gap. The fix is not a longer FAQ page. The fix is wiring production status into the same notification flow you already use for shipping, so the buyer hears about the order before they think to ask.",
+      "Start by naming the milestones you actually control. Most print-on-demand workflows move through four states: order accepted, artwork in the print queue, label created, and exception. Only the third state produces a tracking number, so the first two need their own message. Write each message as one sentence with a time expectation and a next step. Accepted means the order is queued and no changes are possible. In production means the item is being printed and tracking follows when the label exists. Exception means you owe a decision, not a template.",
+      "The link between the two systems is the order reference. Put your store order number into the same field every time and never let anyone rewrite it. When production events come back, match on that key before you touch the customer record. If your volumes are small, a daily export of open production orders is enough. If you run paid traffic, move to an hourly pull, because a stalled order spotted an hour late turns into a refund request and a bad review instead of a quiet fix.",
+      "Notification copy should be written before the integration, not after. Each of the four states gets a subject line, a two sentence body, and a channel. Order accepted goes by email. Label created goes by email and by SMS when the buyer opted in. Exception goes to your internal queue first and to the customer only after you pick a resolution. Never send a tracking placeholder. A message saying tracking is coming, with no carrier scan behind it, reads as silence with extra steps and prevents none of the tickets it should.",
+      "Exceptions deserve their own playbook because they are the expensive part. A failed print file, an out of stock blank, and a damaged shipment all need different answers. Set a decision deadline for each, usually twenty four hours for stock problems and forty eight hours for quality problems, and write down who decides. Replacing the item is usually cheaper than refunding when the buyer still wants the product, and refunding is cheaper once trust is gone. Log the reason on the order so the pattern surfaces in a monthly review.",
+      "Test the whole chain with three real sample orders before you scale spend. Confirm that each milestone lands once, in the right order, on the right channel, and that a cancelled order stops the sequence cleanly. Then measure the only number that matters: the share of support conversations tagged where is my order, before and after. A working status feed cuts that tag by a third within a month. The DTCwise Print-on-Demand category at /category/pod keeps the current shortlist with ratings and pricing, and /tool/subliminator covers the production detail behind the mapping."
+    ]
+  },
+  {
     "slug": "how-to-test-a-sticky-add-to-cart-bar-without-hurting-desktop",
     "title": "How to Test a Sticky Add-to-Cart Bar Without Hurting Desktop",
     "excerpt": "A sticky bar fixes a real mobile problem and can create a new one on desktop. Test it against revenue per visitor, not just add-to-cart clicks.",
