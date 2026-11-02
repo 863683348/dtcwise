@@ -1,5 +1,20 @@
 [
   {
+    "slug": "how-to-automate-zendrop-catalog-updates-without-breaking-listings",
+    "title": "How to Automate Zendrop Catalog Updates Without Breaking Live Listings",
+    "excerpt": "Bulk price and stock updates keep a Zendrop catalog accurate, but blind automation overwrites good listings. Here is a safe update loop with a review gate and a rollback path.",
+    "date": "2026-11-02",
+    "category": "Dropshipping",
+    "body": [
+      "A dropshipping catalog drifts. Suppliers change price, a variant goes out of stock, a listing quietly becomes unprofitable, and none of it announces itself. Automating updates through Zendrop keeps the store honest, but blind automation is worse than no automation, because it overwrites the titles, images, and descriptions you spent weeks improving. The safe version separates the fields a machine should own from the fields a human should own and then pushes only the changes that matter. You get an accurate catalog without losing the merchandising work that makes it sell.",
+      "Start with the split. Machine owned fields are price, stock state, variant availability, and supplier lead time. Human owned fields are title, description, images, collections, and any copy you have tested. Configure your update rule so it writes only to the first list. If your tooling cannot do that per field, run updates into a staging copy of the product record and copy values across by hand for the small set of fast movers. Protecting human owned fields is the single decision that keeps automation from turning into a rollback exercise.",
+      "Next, set change thresholds. A price that moves by a few cents is noise, and pushing it creates churn in your ads, your feeds, and your customer price history. A price that moves by more than your margin buffer is a decision. Pick a percentage, commonly three to five percent, and queue only changes above it. Treat any flip to zero stock as urgent regardless of size, and queue those separately so the urgent path never waits behind a batch of cosmetic edits that no buyer would notice.",
+      "Always review a dry run before you commit. Export current values, generate proposed values, and compare them side by side. Read the top ten changes by order volume rather than by percentage, because a small change on a best seller costs more than a large change on a slow seller. Look for one specific failure mode in particular: a price that drops because the supplier switched to a cheaper variant. Cheaper is not the same as the same product, and quietly swapping it is how stores lose reviews they cannot get back.",
+      "Connect stock changes to your ad accounts. A SKU that flips out of stock while a campaign is still spending burns budget on clicks that cannot convert. Automate the pause, and put a waitlist capture on the product page so the demand is not lost. When the item returns, restore the campaign at its previous budget rather than its initial budget, because the learning data is still worth something. This one loop usually pays for the whole update process inside a quarter, and it works on a small catalog too.",
+      "Keep a rollback path. Save every pre update export with a date stamp and hold the last thirty days. When a batch turns out to be wrong, restore from the snapshot instead of reversing each field by hand, which is where stores lose variant mappings and image associations. Run routine updates weekly, run a full pass before every promotion, and never run one during the first hour of a sale. The DTCwise Dropshipping category at /category/dropshipping keeps the current shortlist with ratings and pricing, and /tool/zendrop covers the fields worth automating."
+    ]
+  },
+  {
     "slug": "how-to-wire-subliminator-order-status-into-your-store-notifications",
     "title": "How to Wire Subliminator Order Status Into Your Store Notifications",
     "excerpt": "Print-on-demand production sits between checkout and the carrier. This walkthrough maps Subliminator production states to store notifications so buyers stop asking where their order is.",
