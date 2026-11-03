@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-run-custom-packaging-and-inserts-on-gooten-orders",
-  "title": "How to Run Custom Packaging and Inserts on Gooten Orders",
-  "excerpt": "Print-on-demand parcels usually arrive anonymous. This walkthrough covers what you can actually influence on Gooten packaging, how to design an insert that earns a second order, and how to keep it current.",
   "date": "2026-11-03",
-  "category": "Fulfillment & Shipping",
-  "body": [
-    "When a print-on-demand parcel arrives, the box and the tape usually belong to the production partner rather than to your brand, and buyers notice. The one surface you genuinely control is what goes inside, and an insert card is the cheapest repeat purchase channel most stores never set up. The practical scope is a printed card included with the order, subject to size limits and to the facility that packs it. Knowing that boundary before you design anything saves a full round of artwork you cannot use.",
-    "Confirm three things first. Ask which fulfillment locations support inserts, because a card stocked at one facility may not be stocked at another, which leaves international orders inconsistent. Ask for the maximum card size and weight, since an oversized insert can push a parcel into the next rate band and quietly raise your shipping cost. Ask how insert stock is tracked and reordered, because running out means orders ship empty with no warning. Write the answers down; they change far less often than your catalog does.",
-    "Design the card to do one job. The job that pays is a second order: a short care note, one clear next purchase suggestion, and a single code with an expiry. Care instructions earn their place because they cut the returns and complaints that come from washing a printed garment badly. Skip the origin story, the mission paragraph and the grid of social handles. A card is read for six seconds in a kitchen, and a crowded card goes out with the recycling.",
-    "Version the card like software. Put a small code in the corner, keep the file in a folder named by version, and record the date each version started shipping. This matters because offers expire, and a card promoting a sale that ended two months ago looks careless and generates tickets from buyers trying the dead code. Set a quarterly review, and check the card whenever you change a promotion. Order insert stock in smaller batches so you are never left with a thousand cards for a holiday that passed.",
-    "Measurement is where insert programs stall, because the effect is slow. Track repeat purchase rate for buyers who received a card against buyers who did not, and give it a full quarter before judging. Watch review volume as well: a card asking for a review in plain language usually lifts the count more than an email reminder does. Watch returns on the products the card covers, since better care instructions should show up there. Judge the trend, not a single week of sales.",
-    "Keep the compliance side boring. Anything printed and shipped to a buyer is a claim you made, so avoid absolute durability guarantees and unsubstantiated material claims, and use wording you would be comfortable defending. Inserts are cheap per order and easy to leave running unattended, which is exactly why they need an owner and a review date. The DTCwise Fulfillment & Shipping category at /category/fulfillment keeps the current shortlist with ratings and pricing, and /tool/gooten covers the packaging detail behind the setup."
-  ]
+  "slot": 2
 }
