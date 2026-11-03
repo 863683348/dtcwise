@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-build-a-reorder-cadence-from-modalyst-inventory-signals",
-  "title": "How to Build a Reorder Cadence From Modalyst Inventory Signals",
-  "excerpt": "Supplier stock counts change after the fact. This guide turns Modalyst inventory signals into a weekly reorder routine with reorder points, safety stock and a clear fallback when a supplier goes quiet.",
   "date": "2026-11-03",
-  "category": "Dropshipping",
-  "body": [
-    "A stock count on a supplier feed is a snapshot, not a promise. It updates after other sellers have already taken units, so by the time it reaches zero you may hold orders you cannot ship. Most stores answer that with refunds, which is the most expensive option on the list. A reorder cadence is the cheaper answer: you decide in advance which products get watched, how often, and what happens when the number drops. Supplier feeds vary in how quickly they refresh, so the routine has to lean on your own sales velocity as much as on their counts.",
-    "Sort the catalog into three groups by weekly sales velocity. Group A sells more than ten units a week, Group B sells one to ten, and Group C sells less than one. Only Group A and the top of Group B deserve a reorder routine; the long tail is not worth the attention and should simply be paused when stock runs out. Write the group beside each product in the sheet you already maintain, and revisit the split monthly, because a product can move from C to A inside a single ad cycle.",
-    "For each watched product, calculate a reorder point instead of guessing. Take average daily sales over the last twenty eight days, multiply by supplier lead time in days, then add a safety buffer of seven to ten days of cover. That number is the trigger. When available stock plus anything already on order falls below it, the product goes on the weekly reorder list. Lead time is the figure most sellers underestimate, so ask the supplier for a production plus handover number in writing and add two days for your own processing rather than assuming same day.",
-    "Run the review on the same weekday every week. Pull the stock and order data, compare against each trigger, and send one consolidated restock request instead of a stream of single messages. Consolidation matters because suppliers answer a clean list faster than scattered questions. Log the response for every line: confirmed quantity, confirmed date, or no answer. Anything silent after three business days moves to the escalation column, and escalation means a decision, not another message.",
-    "Escalation has two exits. The first is swapping to a comparable product from another supplier on the same platform, which keeps the sale at a small margin cost. The second is stopping: hide the listing, pause the ad set and pull it from any bundle or email mention. A live product that cannot ship for a week costs more in refunds and support time than the revenue it protects. When stock returns, relist at a price you can actually hold rather than the price you listed before.",
-    "Measure the cadence with two numbers: the share of orders cancelled for stock reasons, and the count of products that hit zero stock while still being advertised. Both should fall within a month, and the second is the honest test because it counts near misses that never became refunds. The DTCwise Dropshipping category at /category/dropshipping keeps the current shortlist with ratings and pricing, and /tool/modalyst covers the supplier detail behind the routine."
-  ]
+  "slot": 1
 }
