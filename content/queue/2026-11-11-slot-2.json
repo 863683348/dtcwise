@@ -1,0 +1,15 @@
+{
+  "slug": "how-to-build-a-zendrop-delay-escalation-ladder",
+  "title": "How to Build a Zendrop Delay Escalation Ladder for Your Support Team",
+  "excerpt": "Late parcels are normal in dropshipping. Inconsistent answers are what cost reviews. A four band escalation ladder tells agents what to check, what to say and who can approve a reshipment before the busy week starts.",
+  "date": "2026-11-11",
+  "category": "Customer Support",
+  "body": [
+    "Every dropshipping store has late parcels. The damage comes from inconsistent answers, not from the delay itself. One customer hears that tracking has not updated because of a carrier scan issue, another hears nothing for a week and then gets a refund, and both write reviews. A written escalation ladder turns a crowded inbox into a repeatable decision, and it also tells you when to stop apologizing and start reshipping.",
+    "Write the bands before the busy week, not during it. A workable structure has four: inside the promised window, one to three days late, four to ten days late, and beyond ten days with no movement. For each band, define what support checks, what the customer is told, and who can approve money. Bands remove the judgment call at eleven at night, which is exactly when a junior agent improvises a promise the operation cannot keep.",
+    "The first check is always the tracking event, never the tone of the message. A parcel sitting at a hub with a recent scan is moving and needs an expectation reset. A parcel with no scan for seven days after label creation is usually lost or never tendered. In the second case the answer is a replacement or a refund, not another week of waiting, because a second apology costs more trust than a reshipment costs cash.",
+    "Set money authority in writing. Front line agents should be able to reship below a fixed order value and offer a partial credit without asking. Anything above that value goes to a named person, and refunds on orders with a fraud flag get a second check. Publish the thresholds in the macro library so the answer does not depend on who opened the ticket. When a supplier dispute is open, say so and give a decision date rather than a vague timeline.",
+    "Standardize three messages: delay acknowledged, replacement approved, refund processed. Each states the new expected date, the action taken and what the customer needs to do, if anything. Keep them short enough to read on a phone, and avoid carrier jargon that shifts blame without explaining anything. The same macro used by everyone also makes the weekly review possible, because you can count outcomes instead of re-reading tickets.",
+    "Then use the ladder as a diagnostic. If one product produces late parcels three weeks running, the problem is the supplier or the shipping method, not the script. Track late rate by product and by warehouse, and hand the worst five to whoever owns sourcing with the ticket samples attached. The DTCwise Customer Support category at /category/support keeps the current helpdesk shortlist with pricing, and /tool/zendrop covers the supplier and fulfillment side of the same workflow."
+  ]
+}
