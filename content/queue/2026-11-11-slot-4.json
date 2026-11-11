@@ -1,15 +1,6 @@
 {
+  "consumed": true,
   "slug": "how-to-change-a-store-theme-without-losing-rankings-or-tracking",
-  "title": "How to Change a Store Theme Without Losing Rankings or Tracking",
-  "excerpt": "A theme swap changes far more than the look of a page. This checklist covers the crawl baseline, the URL and schema details, the duplicate theme test and the week one comparison that catch quiet traffic losses before they compound.",
   "date": "2026-11-11",
-  "category": "Store Builders",
-  "body": [
-    "A theme change is a code change with a customer facing blast radius. The template controls which heading tags render, whether collection links keep their handles, whether structured data survives, and whether analytics still counts a purchase as a purchase. Most traffic loss blamed on a redesign is not a penalty. It is a set of quiet breakages nobody checked before the switch.",
-    "Baseline first. Export a crawl of the live site, save ninety days of search performance by page, and screenshot the top twenty landing pages on mobile. List your page templates: product, collection, article, cart, search. When something drops after launch you need a before picture, and reconstructing one from memory two weeks later is guesswork that leads to rewrites nobody needed.",
-    "Keep URLs identical. Collection and product handles, pagination patterns, filter parameters and the blog path should not change because the theme changed. If the new template ships with a different pagination or filtered URL scheme, redirect the old patterns at launch rather than waiting for crawl errors to appear. Every URL you change is a page that has to earn its rankings back from zero.",
-    "Preserve the content skeleton inside the template: one heading per page, the same title and meta description sources, product schema with price, availability and reviews, and breadcrumbs. Themes that add a second page heading inside a hero banner, or drop product schema in favour of a custom block, lose rich results without showing any visible error. Compare the rendered head section of one product page before and after, line by line.",
-    "Publish on a duplicate theme first. Install the new theme unpublished, preview it against real products, and run a checkout in test mode so you see taxes, shipping rates and the confirmation page. Confirm that pixels, consent banners, chat and app embeds still fire in the new template order. App blocks that depend on a specific theme hook fail silently, which is why a checkout test matters more than a home page screenshot.",
-    "After launch, compare for a week rather than a day. Watch organic sessions by landing page, add to cart rate, checkout completion and revenue per session against the baseline you saved. Crawl the new site and diff the URL list against the old crawl to catch orphaned pages that lost their internal links. Fix the largest single delta first instead of every small difference at once. The DTCwise Store Builders category at /category/storebuilder keeps the current platform shortlist with ratings, and /tool/shopify covers the theme and app stack side of the migration."
-  ]
+  "slot": 4
 }
